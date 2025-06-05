@@ -1,0 +1,1001 @@
+country,order_value_eur,cost,date,category,customer_name,sales_manager,sales_rep,device_type,order_id,profit,profit_margin,year,month,weekday
+Sweden,17524.02,14122.61,2020-12-02,Books,Goldner-Dibbert,Maxie Marrow,Madelon Bront,Mobile,70-0511466,3401.41,19.4099869778737,2020,12,Wednesday
+Finland,116563.4,92807.78,2019-09-26,Games,Hilll-Vandervort,Hube Corey,Wat Bowkley,Mobile,28-6585323,23755.6199999999,20.3799992107299,2019,9,Thursday
+Portugal,296465.56,257480.34,2019-11-07,Clothing,Larkin-Collier,Celine Tumasian,Smitty Culverhouse,Pc,58-7703341,38985.22,13.1499996154696,2019,11,Thursday
+Portugal,74532.02,59752.32,2020-02-04,Beauty,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,Pc,14-6700183,14779.7,19.8300005823,2020,2,Tuesday
+Spain,178763.42,146621.76,2019-12-22,Games,Johns And Sons,Emalia Dinse,Bertha Walbrook,Tablet,15-8765160,32141.66,17.9799983687937,2019,12,Sunday
+Spain,84900.24,73701.9,2020-07-14,Clothing,"Farrell, Swaniawski And Crist",Emalia Dinse,Perri Aldersley,Pc,60-6998932,11198.34,13.1899980494754,2020,7,Tuesday
+Portugal,71620.08,62245.01,2019-05-02,Books,Schoen-Keeling,Celine Tumasian,Smitty Culverhouse,Pc,69-6259390,9375.07,13.0900021334798,2019,5,Thursday
+Uk,156585.22,126599.15,2020-08-30,Accessories,"Hermiston, Simonis And Wisoky",Jessamine Apark,Winny Agnolo,Pc,64-5761908,29986.07,19.150000236293,2020,8,Sunday
+Portugal,78461.13,63537.82,2020-10-05,Appliances,Hessel-Stiedemann,Celine Tumasian,Smitty Culverhouse,Mobile,91-4126746,14923.31,19.0200039178635,2020,10,Monday
+France,64827.8,56043.63,2019-01-20,Appliances,Gislason-Stanton,Othello Bowes,Maighdiln Upcraft,Pc,62-3312495,8784.17,13.5500047818991,2019,1,Sunday
+Sweden,142664.34,120808.16,2019-04-05,Appliances,"Swaniawski, Runolfsson And Green",Maxie Marrow,Madelon Bront,Pc,85-6625096,21856.1799999999,15.3200021813439,2019,4,Friday
+Uk,66673.19,52811.83,2019-02-23,Smartphones,Gislason-Stanton,Jessamine Apark,Winny Agnolo,Pc,25-6368157,13861.36,20.7900056979424,2019,2,Saturday
+Portugal,136915.61,114790.05,2020-04-01,Outdoors,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,Tablet,15-3943365,22125.5599999999,16.159998118549,2020,4,Wednesday
+Uk,164971.7,132686.74,2019-07-20,Accessories,Wisoky Inc,Jessamine Apark,Winny Agnolo,Pc,32-3534634,32284.96,19.5699989755818,2019,7,Saturday
+Uk,149486.27,118662.2,2019-06-08,Beauty,Johns And Sons,Jessamine Apark,Genevra Charrisson,Pc,02-3972649,30824.0699999999,20.6200007532464,2019,6,Saturday
+Sweden,54078.92,46102.28,2020-08-11,Books,Tillman And Sons,Maxie Marrow,Anita Woakes,Pc,08-7576451,7976.63999999999,14.7499987055954,2020,8,Tuesday
+France,107499.78,91364.06,2019-02-26,Smartphones,"Rowe, Hermiston And Kessler",Othello Bowes,Amelina Piscopiello,Pc,68-3583935,16135.72,15.0100028111685,2019,2,Tuesday
+Uk,29493.79,24285.19,2019-11-22,Games,Tillman And Sons,Jessamine Apark,Jay Morefield,Pc,53-7769693,5208.6,17.6599887637363,2019,11,Friday
+Portugal,147656.52,124193.9,2019-05-06,Smartphones,Goldner-Dibbert,Celine Tumasian,Corene Shirer,Pc,85-4732103,23462.6199999999,15.8899993037896,2019,5,Monday
+Portugal,156839.31,134709.28,2020-11-05,Smartphones,Stamm Inc,Celine Tumasian,Corene Shirer,Pc,27-9800293,22130.03,14.1100021416824,2020,11,Thursday
+Spain,81412.1,64747.04,2019-06-11,Electronics,Johns And Sons,Emalia Dinse,Bertha Walbrook,Pc,67-3929836,16665.06,20.4700038446373,2019,6,Tuesday
+Sweden,56717.53,45101.78,2019-10-03,Clothing,Johns And Sons,Maxie Marrow,Alyosha Meah,Pc,13-0526029,11615.75,20.4799997461102,2019,10,Thursday
+Netherlands,17028.19,14102.75,2020-07-02,Clothing,Johns And Sons,Denice Amberg,Nero Harbisher,Pc,38-5910704,2925.43999999999,17.1799821355058,2020,7,Thursday
+Finland,236462.3,205674.91,2020-12-23,Clothing,Hessel-Stiedemann,Hube Corey,Wat Bowkley,Pc,41-6407014,30787.3899999999,13.0199993825654,2020,12,Wednesday
+Portugal,172989.17,142975.55,2020-10-06,Beauty,Romaguera-Dietrich,Celine Tumasian,Hortense Gerring,Pc,22-6745595,30013.62,17.3499994248194,2020,10,Tuesday
+Sweden,48179.57,41405.52,2020-08-14,Books,Franecki-White,Maxie Marrow,Anita Woakes,Pc,96-3022721,6774.05,14.0600051017474,2020,8,Friday
+Portugal,121318.55,102890.26,2020-10-03,Electronics,"Jacobson, Marvin And Brown",Celine Tumasian,Aurelie Wren,Tablet,48-0713329,18428.29,15.1900018587429,2020,10,Saturday
+Belgium,93153.98,79702.55,2020-03-04,Appliances,Armstrong-Little,Lambert Norheny,Collin Mackness,Mobile,50-0942872,13451.4299999999,14.4399949417083,2020,3,Wednesday
+Bulgaria,98289.32,84116.0,2019-02-15,Appliances,"Murray, Reichel And Nolan",Charil Alpe,Shermy Mcgready,Pc,78-2307905,14173.32,14.4200000569746,2019,2,Friday
+Luxembourg,108920.56,94270.74,2019-08-07,Books,"Swaniawski, Runolfsson And Green",Ilsa Kob,Jocelyn Laurentino,Pc,63-0019978,14649.8199999999,13.4500042967094,2019,8,Wednesday
+Portugal,37273.84,31559.76,2020-01-20,Games,Considine-Fisher,Celine Tumasian,Aurelie Wren,Tablet,26-9948924,5714.07999999999,15.3300008799737,2020,1,Monday
+Spain,221745.05,190767.27,2019-06-25,Appliances,Kirlin And Sons,Emalia Dinse,Bertha Walbrook,Mobile,72-7630507,30977.78,13.9699984283752,2019,6,Tuesday
+Netherlands,54566.99,43757.27,2020-03-23,Smartphones,Friesen-Rath,Denice Amberg,Nero Harbisher,Pc,36-3410564,10809.72,19.8099986823535,2020,3,Monday
+Portugal,111639.29,97204.33,2019-10-28,Smartphones,"Keeling, Monahan And Pollich",Celine Tumasian,Hortense Gerring,Pc,82-4653018,14434.9599999999,12.9299998235388,2019,10,Monday
+Sweden,74273.54,61981.27,2020-03-28,Beauty,"Swaniawski, Runolfsson And Green",Maxie Marrow,Caro Morfield,Pc,29-1001593,12292.2699999999,16.5499988286541,2020,3,Saturday
+Portugal,95566.43,80342.7,2019-07-05,Clothing,Hessel-Stiedemann,Celine Tumasian,Hortense Gerring,Pc,59-5568557,15223.7299999999,15.9299975943435,2019,7,Friday
+France,28783.05,24776.45,2019-03-29,Clothing,Dibbert Inc,Othello Bowes,Maighdiln Upcraft,Pc,12-1249283,4006.59999999999,13.9199980544104,2019,3,Friday
+Uk,124414.74,98959.48,2019-06-13,Outdoors,Labadie And Sons,Jessamine Apark,Winny Agnolo,Pc,96-0180648,25455.26,20.4600033725907,2019,6,Thursday
+Portugal,153029.72,125117.1,2020-01-28,Games,Friesen-Rath,Celine Tumasian,Corene Shirer,Pc,51-9029547,27912.6199999999,18.2399993935818,2020,1,Tuesday
+Sweden,174919.64,146845.04,2020-03-11,Clothing,Wiza And Sons,Maxie Marrow,Caro Morfield,Mobile,84-2614836,28074.6,16.0499987308457,2020,3,Wednesday
+France,55804.05,46401.07,2019-05-03,Electronics,"Rowe, Hermiston And Kessler",Othello Bowes,Crysta Halls,Pc,57-6995715,9402.98,16.8499956544372,2019,5,Friday
+France,89160.66,75367.51,2019-11-18,Beauty,Wiza And Sons,Othello Bowes,Crysta Halls,Pc,27-4115444,13793.15,15.4699953993162,2019,11,Monday
+Uk,27987.13,24001.76,2019-03-26,Games,Labadie And Sons,Jessamine Apark,Genevra Charrisson,Pc,34-3302340,3985.37,14.2400096044146,2019,3,Tuesday
+France,18326.41,15067.97,2019-03-02,Games,"Schmitt, Purdy And Johnson",Othello Bowes,Ora Grennan,Pc,25-6638623,3258.44,17.7800234743193,2019,3,Saturday
+Netherlands,62708.6,51414.78,2019-08-29,Smartphones,"Hamill, Kulas And Roob",Denice Amberg,Nero Harbisher,Pc,11-5260310,11293.82,18.0100018179324,2019,8,Thursday
+Uk,124668.36,103998.35,2020-05-11,Games,Hessel-Stiedemann,Jessamine Apark,Winny Agnolo,Pc,68-5024232,20670.0099999999,16.5799967209001,2020,5,Monday
+Italy,109390.57,87414.0,2020-12-11,Other,Schoen-Keeling,Piggy Roscrigg,Joshua Prevost,Mobile,90-2530115,21976.57,20.090004101816,2020,12,Friday
+Portugal,103279.79,82334.65,2020-12-03,Appliances,Johns And Sons,Celine Tumasian,Aurelie Wren,Pc,23-8271333,20945.14,20.2799986328399,2020,12,Thursday
+France,173478.65,139650.31,2019-01-29,Books,Johns And Sons,Othello Bowes,Avrit Chanders,Pc,99-7422044,33828.34,19.5000018734293,2019,1,Tuesday
+Sweden,57927.54,48914.01,2019-01-18,Games,"Fisher, Morar And Skiles",Maxie Marrow,Alyosha Meah,Mobile,67-6692861,9013.52999999999,15.560008244783,2019,1,Friday
+Portugal,84767.77,68950.1,2020-01-18,Electronics,Mcglynn-Bergstrom,Celine Tumasian,Smitty Culverhouse,Mobile,20-3441688,15817.6699999999,18.6600048579784,2020,1,Saturday
+France,138175.53,116744.51,2020-03-11,Other,"Spencer, Rogahn And Muller",Othello Bowes,Ora Grennan,Pc,80-8230605,21431.02,15.5099965963582,2020,3,Wednesday
+Portugal,143107.89,121241.0,2020-02-11,Electronics,Kirlin And Sons,Celine Tumasian,Hortense Gerring,Mobile,18-0704377,21866.89,15.2800030801935,2020,2,Tuesday
+Sweden,54446.5,44989.14,2020-09-03,Appliances,Wunsch Llc,Maxie Marrow,Alyosha Meah,Tablet,47-5524071,9457.36,17.3700054181627,2020,9,Thursday
+Portugal,136324.9,110436.8,2019-10-29,Electronics,Walter Llc,Celine Tumasian,Hortense Gerring,Tablet,76-2572347,25888.0999999999,18.9900010929771,2019,10,Tuesday
+Portugal,43066.58,36154.39,2019-08-02,Games,"Hamill, Kulas And Roob",Celine Tumasian,Hortense Gerring,Mobile,74-4429133,6912.19,16.0500090789656,2019,8,Friday
+France,224626.25,189988.88,2020-07-21,Electronics,"Christiansen, Donnelly And Bechtelar",Othello Bowes,Ora Grennan,Pc,69-1300467,34637.3699999999,15.4200010016638,2020,7,Tuesday
+France,115689.22,98127.6,2019-07-15,Clothing,Altenwerth-Konopelski,Othello Bowes,Avrit Chanders,Pc,99-8643527,17561.6199999999,15.1799968916723,2019,7,Monday
+Bulgaria,78293.94,66236.67,2019-10-13,Appliances,"Rowe, Hermiston And Kessler",Charil Alpe,Bernadine Fullagar,Mobile,14-1143584,12057.27,15.4000041382513,2019,10,Sunday
+Portugal,92698.45,73454.25,2020-01-13,Clothing,Hessel-Stiedemann,Celine Tumasian,Corene Shirer,Pc,62-4331197,19244.1999999999,20.7600019202047,2020,1,Monday
+Bulgaria,83141.47,72000.51,2019-03-15,Outdoors,Wisoky Inc,Charil Alpe,Shermy Mcgready,Mobile,02-3333733,11140.96,13.400003632363,2019,3,Friday
+Portugal,38982.26,32854.25,2019-12-10,Clothing,Hegmann Group,Celine Tumasian,Smitty Culverhouse,Mobile,09-3959499,6128.01,15.7199967369772,2019,12,Tuesday
+Portugal,57120.58,49654.92,2019-11-25,Games,"Leffler, Prohaska And Streich",Celine Tumasian,Aurelie Wren,Pc,55-7848276,7465.66,13.0700003396324,2019,11,Monday
+Sweden,240759.07,205415.64,2020-06-14,Appliances,"Schmitt, Purdy And Johnson",Maxie Marrow,Tarrah Castelletti,Pc,98-1814878,35343.4299999999,14.6799993869389,2020,6,Sunday
+Sweden,53849.12,47354.92,2020-04-15,Games,"Rowe, Hermiston And Kessler",Maxie Marrow,Alyosha Meah,Pc,83-9569509,6494.2,12.0599928095389,2020,4,Wednesday
+Ireland,361182.87,288368.4,2019-02-12,Books,Smith Group,Glenine Suttaby,Bunnie Tonbridge,Pc,44-1953194,72814.4699999999,20.1600009435663,2019,2,Tuesday
+Sweden,97063.22,78067.95,2019-10-19,Appliances,"Zieme, Bailey And Herzog",Maxie Marrow,Madelon Bront,Tablet,50-0376562,18995.27,19.5699977808278,2019,10,Saturday
+Spain,39110.97,34315.97,2019-10-27,Clothing,"Bashirian, Okuneva And Bechtelar",Emalia Dinse,Perri Aldersley,Pc,06-9596696,4795.0,12.2599874152955,2019,10,Sunday
+France,123672.7,106036.97,2020-11-13,Smartphones,Mcglynn-Prosacco,Othello Bowes,Crysta Halls,Pc,46-2632808,17635.7299999999,14.2600024095859,2020,11,Friday
+France,144640.8,118345.1,2019-11-04,Electronics,"Murray, Reichel And Nolan",Othello Bowes,Avrit Chanders,Pc,77-7771177,26295.6999999999,18.1800017699017,2019,11,Monday
+France,268779.03,233676.49,2019-12-27,Smartphones,O'Connell-Mitchell,Othello Bowes,Ora Grennan,Mobile,13-0624842,35102.54,13.0599995096343,2019,12,Friday
+Sweden,53593.86,45629.81,2020-12-07,Electronics,Friesen-Rath,Maxie Marrow,Caro Morfield,Pc,71-4409662,7964.05,14.8600044855884,2020,12,Monday
+France,155044.02,134268.12,2019-10-25,Beauty,West-Cummings,Othello Bowes,Amelina Piscopiello,Pc,46-0270404,20775.8999999999,13.4000008513711,2019,10,Friday
+Portugal,102495.13,85009.46,2020-08-08,Smartphones,"Hermiston, Simonis And Wisoky",Celine Tumasian,Hortense Gerring,Tablet,70-7107956,17485.67,17.0600008019893,2020,8,Saturday
+Portugal,294472.77,255572.92,2019-11-06,Smartphones,Gislason-Stanton,Celine Tumasian,Smitty Culverhouse,Tablet,84-5310661,38899.85,13.209999009416,2019,11,Wednesday
+Sweden,64053.77,54733.95,2020-01-09,Beauty,Armstrong-Little,Maxie Marrow,Anita Woakes,Pc,75-6638402,9319.82,14.5499944811991,2020,1,Thursday
+Uk,24543.72,19492.62,2019-03-22,Clothing,Hessel-Stiedemann,Jessamine Apark,Jay Morefield,Pc,53-0615558,5051.1,20.5800098762534,2019,3,Friday
+Portugal,161544.06,132579.21,2019-12-09,Clothing,Johns And Sons,Celine Tumasian,Smitty Culverhouse,Pc,00-2549549,28964.85,17.9300000259991,2019,12,Monday
+Portugal,50303.66,41103.12,2020-06-01,Appliances,"Christiansen, Donnelly And Bechtelar",Celine Tumasian,Smitty Culverhouse,Pc,23-1397222,9200.54,18.2900011649251,2020,6,Monday
+Sweden,124593.04,109106.13,2020-11-01,Appliances,Johns And Sons,Maxie Marrow,Madelon Bront,Mobile,00-4698524,15486.9099999999,12.4299960896692,2020,11,Sunday
+Sweden,44147.92,37163.72,2020-05-18,Beauty,"Murray, Reichel And Nolan",Maxie Marrow,Madelon Bront,Pc,76-3837496,6984.19999999999,15.8199978617339,2020,5,Monday
+Bulgaria,42239.66,37039.96,2019-05-17,Smartphones,Johns And Sons,Charil Alpe,Shermy Mcgready,Pc,61-7979087,5199.7,12.3099949194666,2019,5,Friday
+Sweden,113763.38,91158.6,2020-01-04,Books,"Christiansen, Donnelly And Bechtelar",Maxie Marrow,Madelon Bront,Pc,52-8377955,22604.78,19.8699968302629,2020,1,Saturday
+Portugal,183363.6,155033.92,2019-06-24,Smartphones,Johns And Sons,Celine Tumasian,Hortense Gerring,Pc,87-6162387,28329.6799999999,15.4500020723851,2019,6,Monday
+France,85220.83,73767.15,2019-09-15,Beauty,"Shanahan, Schaden And Parker",Othello Bowes,Crysta Halls,Tablet,11-8965256,11453.68,13.440000525693,2019,9,Sunday
+Portugal,87513.27,72469.74,2020-05-03,Books,"Lubowitz, Mclaughlin And Erdman",Celine Tumasian,Corene Shirer,Mobile,16-9079414,15043.5299999999,17.1899987281928,2020,5,Sunday
+Bulgaria,37073.91,30274.55,2019-04-26,Books,Rath-Schroeder,Charil Alpe,Bernadine Fullagar,Tablet,15-9091881,6799.36,18.3400132330256,2019,4,Friday
+France,122139.94,103684.6,2019-02-11,Smartphones,Smith Group,Othello Bowes,Ora Grennan,Pc,07-3222085,18455.3399999999,15.1099959603713,2019,2,Monday
+France,107586.21,94525.24,2020-07-06,Electronics,"Spencer, Rogahn And Muller",Othello Bowes,Amelina Piscopiello,Pc,20-3384992,13060.97,12.1400038164742,2020,7,Monday
+Uk,203958.16,176444.2,2020-02-12,Appliances,Larkin-Collier,Jessamine Apark,Genevra Charrisson,Pc,09-3404706,27513.9599999999,13.4900020670906,2020,2,Wednesday
+Portugal,55132.39,47121.65,2019-11-06,Clothing,"Dickinson, Hyatt And Berge",Celine Tumasian,Hortense Gerring,Pc,97-8712680,8010.73999999999,14.5300067709743,2019,11,Wednesday
+Ireland,135424.06,116275.1,2020-01-15,Electronics,"Hamill, Kulas And Roob",Glenine Suttaby,Palm Wetherald,Pc,43-4245267,19148.9599999999,14.1399984611301,2020,1,Wednesday
+Sweden,167123.72,132946.92,2019-01-08,Smartphones,Hegmann Group,Maxie Marrow,Alyosha Meah,Pc,58-8969119,34176.7999999999,20.4499995572142,2019,1,Tuesday
+Germany,92868.37,79068.13,2020-03-30,Electronics,"Fisher, Morar And Skiles",Rickard Doogood,Casie Macbain,Pc,88-8436664,13800.2399999999,14.8600002347408,2020,3,Monday
+Portugal,108689.45,91223.06,2019-09-11,Appliances,Walter Llc,Celine Tumasian,Brynn Dempster,Mobile,35-6825112,17466.39,16.0699957539577,2019,9,Wednesday
+Portugal,79874.42,68132.88,2020-11-14,Outdoors,"Farrell, Swaniawski And Crist",Celine Tumasian,Smitty Culverhouse,Pc,24-4511396,11741.5399999999,14.7000003255109,2020,11,Saturday
+Germany,153011.39,131543.89,2019-09-13,Appliances,Johns And Sons,Rickard Doogood,Casie Macbain,Pc,99-0564964,21467.5,14.0300012959819,2019,9,Friday
+Portugal,72857.41,60442.51,2020-10-05,Clothing,Armstrong-Little,Celine Tumasian,Brynn Dempster,Pc,47-9920494,12414.9,17.0399963435428,2020,10,Monday
+France,102771.44,83584.01,2019-11-24,Accessories,Mcclure Inc,Othello Bowes,Maighdiln Upcraft,Pc,82-9352154,19187.43,18.6700020939669,2019,11,Sunday
+Uk,90559.16,75318.05,2019-08-26,Outdoors,"Dickinson, Hyatt And Berge",Jessamine Apark,Genevra Charrisson,Pc,74-6920956,15241.11,16.8300037235327,2019,8,Monday
+Portugal,141796.75,112317.21,2020-09-16,Games,Johns And Sons,Celine Tumasian,Corene Shirer,Pc,16-8778373,29479.5399999999,20.7899969498595,2020,9,Wednesday
+Bulgaria,103874.1,82112.48,2019-01-14,Outdoors,Johns And Sons,Charil Alpe,Shermy Mcgready,Pc,85-4014655,21761.62,20.9499961973196,2019,1,Monday
+Spain,134908.19,114388.65,2020-08-18,Clothing,Romaguera-Dietrich,Emalia Dinse,Perri Aldersley,Pc,25-2355172,20519.54,15.210003188094,2020,8,Tuesday
+Portugal,45256.74,38975.1,2019-01-14,Other,"Spencer, Rogahn And Muller",Celine Tumasian,Smitty Culverhouse,Pc,31-7667796,6281.63999999999,13.8800099167549,2019,1,Monday
+Portugal,131018.65,107920.06,2020-02-04,Clothing,Hane Inc,Celine Tumasian,Brynn Dempster,Pc,39-2536155,23098.5899999999,17.6300015303164,2020,2,Tuesday
+Ireland,84877.87,68454.0,2019-01-12,Electronics,"Zieme, Bailey And Herzog",Glenine Suttaby,Bunnie Tonbridge,Pc,30-8840089,16423.8699999999,19.3500025389421,2019,1,Saturday
+France,168197.78,144246.42,2019-01-13,Smartphones,Kihn Inc,Othello Bowes,Crysta Halls,Pc,93-8309926,23951.3599999999,14.2399976979482,2019,1,Sunday
+Uk,383996.76,304701.43,2019-12-19,Other,Johns And Sons,Jessamine Apark,Winny Agnolo,Pc,42-7823733,79295.33,20.6499997552062,2019,12,Thursday
+France,56811.14,48221.3,2019-07-10,Clothing,"Schowalter, Lesch And Beahan",Othello Bowes,Ora Grennan,Pc,03-9337803,8589.83999999999,15.119992311367,2019,7,Wednesday
+Portugal,74364.46,60145.98,2020-01-21,Clothing,Altenwerth-Konopelski,Celine Tumasian,Aurelie Wren,Mobile,42-1879788,14218.48,19.1199936098507,2020,1,Tuesday
+Finland,235608.66,201468.96,2020-07-27,Games,Hegmann Group,Hube Corey,Wat Bowkley,Tablet,42-8394841,34139.7,14.4900021926189,2020,7,Monday
+Sweden,31627.37,25662.45,2020-08-27,Beauty,"Christiansen, Donnelly And Bechtelar",Maxie Marrow,Caro Morfield,Mobile,84-5642889,5964.91999999999,18.8599937332759,2020,8,Thursday
+Sweden,57227.99,46331.78,2019-03-28,Appliances,Johns And Sons,Maxie Marrow,Alyosha Meah,Pc,92-7234550,10896.21,19.0400012301672,2019,3,Thursday
+Portugal,84598.68,72391.09,2020-04-28,Clothing,"Hamill, Kulas And Roob",Celine Tumasian,Brynn Dempster,Pc,98-5721101,12207.5899999999,14.4300005626565,2020,4,Tuesday
+Sweden,98322.98,84872.4,2020-09-10,Clothing,Hessel-Stiedemann,Maxie Marrow,Tarrah Castelletti,Pc,32-9344186,13450.58,13.6799962735059,2020,9,Thursday
+Netherlands,62567.58,49916.42,2019-04-21,Clothing,Hessel-Stiedemann,Denice Amberg,Nero Harbisher,Pc,40-7356336,12651.16,20.2199925264809,2019,4,Sunday
+Sweden,239423.57,199152.52,2019-08-12,Electronics,"Hamill, Kulas And Roob",Maxie Marrow,Madelon Bront,Mobile,94-1762263,40271.05,16.8200023080434,2019,8,Monday
+France,68773.03,59082.91,2019-09-30,Games,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,Pc,26-5649751,9690.11999999999,14.0900001061462,2019,9,Monday
+Germany,102918.09,87480.38,2019-10-28,Smartphones,"Swaniawski, Runolfsson And Green",Rickard Doogood,Casie Macbain,Pc,88-5343320,15437.7099999999,14.9999965992373,2019,10,Monday
+Uk,150313.19,118927.8,2020-01-23,Beauty,Johns And Sons,Jessamine Apark,Jay Morefield,Pc,09-6527060,31385.39,20.8799972909895,2020,1,Thursday
+Sweden,144072.9,123729.81,2019-07-13,Beauty,"Fisher, Morar And Skiles",Maxie Marrow,Anita Woakes,Pc,85-3431441,20343.0899999999,14.1199975845561,2019,7,Saturday
+Sweden,69681.43,55529.13,2020-01-25,Clothing,Romaguera-Dietrich,Maxie Marrow,Alyosha Meah,Pc,78-3301264,14152.2999999999,20.3100022488057,2020,1,Saturday
+Sweden,78542.59,68010.03,2019-05-26,Games,Kihn Inc,Maxie Marrow,Caro Morfield,Pc,02-9523107,10532.5599999999,13.4099983206563,2019,5,Sunday
+Portugal,37582.13,31967.36,2020-07-05,Appliances,Hilll-Vandervort,Celine Tumasian,Smitty Culverhouse,Mobile,19-9205287,5614.76999999999,14.9399994092937,2020,7,Sunday
+Sweden,88329.48,73755.12,2020-08-16,Clothing,Corwin And Sons,Maxie Marrow,Caro Morfield,Mobile,94-1199389,14574.36,16.4999952450755,2020,8,Sunday
+Portugal,249099.44,215695.2,2020-06-15,Other,Johns And Sons,Celine Tumasian,Corene Shirer,Pc,88-4621939,33404.2399999999,13.4100020457693,2020,6,Monday
+Uk,28328.78,24408.08,2019-02-19,Clothing,"Dickinson, Hyatt And Berge",Jessamine Apark,Jay Morefield,Pc,68-9634139,3920.69999999999,13.839988873506,2019,2,Tuesday
+Portugal,162246.76,142663.58,2019-08-28,Games,Hessel-Stiedemann,Celine Tumasian,Corene Shirer,Pc,44-5200140,19583.18,12.0699975765309,2019,8,Wednesday
+Germany,161217.16,135696.48,2019-10-20,Games,Labadie And Sons,Rickard Doogood,Casie Macbain,Pc,98-6247105,25520.6799999999,15.830002215645,2019,10,Sunday
+France,37397.43,30837.92,2020-05-17,Games,Hegmann Group,Othello Bowes,Avrit Chanders,Pc,24-6566439,6559.51,17.5400020803568,2020,5,Sunday
+Uk,99064.31,85393.44,2020-10-07,Books,Johns And Sons,Jessamine Apark,Winny Agnolo,Pc,52-9152387,13670.8699999999,13.7999951748515,2020,10,Wednesday
+Sweden,15817.05,13743.44,2019-10-03,Clothing,Kihn Inc,Maxie Marrow,Anita Woakes,Pc,26-9787272,2073.60999999999,13.1099667763584,2019,10,Thursday
+Portugal,38930.16,32837.59,2020-11-18,Outdoors,"Spencer, Rogahn And Muller",Celine Tumasian,Brynn Dempster,Pc,12-2202467,6092.57,15.6499998972519,2020,11,Wednesday
+Portugal,28859.73,23656.32,2019-09-01,Electronics,Larkin-Collier,Celine Tumasian,Corene Shirer,Mobile,82-0537890,5203.41,18.0300023596894,2019,9,Sunday
+France,54079.04,45031.62,2020-05-29,Games,"Lueilwitz, Kerluke And Lesch",Othello Bowes,Avrit Chanders,Pc,15-6838362,9047.41999999999,16.7299937276993,2020,5,Friday
+Sweden,70596.7,60564.91,2020-09-02,Electronics,Hilll-Vandervort,Maxie Marrow,Alyosha Meah,Pc,51-0685379,10031.7899999999,14.2099984843484,2020,9,Wednesday
+Uk,169629.55,135347.42,2019-10-23,Outdoors,Johns And Sons,Jessamine Apark,Jay Morefield,Pc,76-5919033,34282.1299999999,20.2099987885365,2019,10,Wednesday
+Portugal,95387.89,76195.85,2020-08-05,Books,Gislason-Stanton,Celine Tumasian,Aurelie Wren,Pc,34-7627348,19192.0399999999,20.1199963643183,2020,8,Wednesday
+France,50585.98,40999.94,2020-08-29,Beauty,"Bashirian, Okuneva And Bechtelar",Othello Bowes,Maighdiln Upcraft,Tablet,32-1940437,9586.04,18.9499936543682,2020,8,Saturday
+Sweden,103726.57,90231.74,2020-05-21,Clothing,Dibbert Inc,Maxie Marrow,Caro Morfield,Mobile,25-9913528,13494.83,13.0100031264891,2020,5,Thursday
+Uk,222700.23,194951.78,2020-12-12,Appliances,Johns And Sons,Jessamine Apark,Genevra Charrisson,Mobile,73-3464233,27748.45,12.4600006026037,2020,12,Saturday
+Portugal,143322.47,114213.68,2020-05-19,Books,Johns And Sons,Celine Tumasian,Corene Shirer,Pc,04-2863062,29108.79,20.3099974484112,2020,5,Tuesday
+Uk,128227.36,106710.81,2019-01-06,Accessories,"Murray, Reichel And Nolan",Jessamine Apark,Jay Morefield,Pc,18-7077174,21516.55,16.7799992138963,2019,1,Sunday
+Sweden,127939.8,112267.17,2019-09-12,Clothing,Gislason-Stanton,Maxie Marrow,Alyosha Meah,Pc,64-8300193,15672.63,12.2500035172792,2019,9,Thursday
+Sweden,146540.75,120822.85,2019-04-30,Smartphones,"Swaniawski, Runolfsson And Green",Maxie Marrow,Anita Woakes,Pc,84-2858993,25717.8999999999,17.5499988910934,2019,4,Tuesday
+Portugal,36321.68,31581.7,2020-10-29,Books,Kirlin And Sons,Celine Tumasian,Smitty Culverhouse,Pc,72-2647440,4739.98,13.0500020924142,2020,10,Thursday
+Spain,42814.57,35356.27,2019-01-02,Beauty,Wiza And Sons,Emalia Dinse,Perri Aldersley,Pc,68-1806238,7458.3,17.4200044517555,2019,1,Wednesday
+Uk,169262.2,141080.04,2020-04-26,Beauty,Considine-Fisher,Jessamine Apark,Winny Agnolo,Pc,87-0922827,28182.16,16.6500021859576,2020,4,Sunday
+Sweden,114427.36,93727.45,2020-11-03,Other,Tillman And Sons,Maxie Marrow,Madelon Bront,Pc,33-8547717,20699.91,18.0900005033761,2020,11,Tuesday
+Uk,126979.62,105113.73,2019-09-26,Electronics,Dibbert Inc,Jessamine Apark,Genevra Charrisson,Pc,15-5051694,21865.89,17.2199995558342,2019,9,Thursday
+Luxembourg,294874.74,259106.43,2020-12-15,Books,Morissette Group,Ilsa Kob,Jocelyn Laurentino,Pc,37-2363680,35768.31,12.130001369395,2020,12,Tuesday
+Uk,173258.94,143198.51,2019-05-24,Clothing,Johns And Sons,Jessamine Apark,Jay Morefield,Pc,92-4106004,30060.4299999999,17.3500022567378,2019,5,Friday
+Luxembourg,158362.33,133990.37,2020-08-14,Books,Hessel-Stiedemann,Ilsa Kob,Jocelyn Laurentino,Pc,39-1671087,24371.9599999999,15.3899983664044,2020,8,Friday
+Uk,50689.19,43597.77,2020-11-18,Clothing,"Swaniawski, Runolfsson And Green",Jessamine Apark,Jay Morefield,Pc,77-9240051,7091.42,13.9900045749399,2020,11,Wednesday
+Ireland,117358.02,102664.8,2020-02-11,Clothing,Goldner-Dibbert,Glenine Suttaby,Palm Wetherald,Pc,79-8966057,14693.22,12.5199965030084,2020,2,Tuesday
+Sweden,93996.68,77171.27,2020-10-10,Games,"Swaniawski, Runolfsson And Green",Maxie Marrow,Alyosha Meah,Mobile,75-0683725,16825.4099999999,17.9000045533523,2020,10,Saturday
+Uk,119769.22,98234.71,2020-11-01,Books,"Bashirian, Okuneva And Bechtelar",Jessamine Apark,Jay Morefield,Pc,55-5032186,21534.5099999999,17.9800035434813,2020,11,Sunday
+France,84194.21,71885.02,2020-12-26,Books,"Zieme, Bailey And Herzog",Othello Bowes,Avrit Chanders,Mobile,31-8836719,12309.19,14.619995840569,2020,12,Saturday
+Finland,205582.75,166748.17,2020-12-22,Beauty,Tromp Llc,Hube Corey,Wat Bowkley,Pc,64-4923214,38834.5799999999,18.8899992825273,2020,12,Tuesday
+Sweden,159793.46,139180.1,2019-06-15,Smartphones,"Swaniawski, Runolfsson And Green",Maxie Marrow,Alyosha Meah,Tablet,98-2574776,20613.3599999999,12.9000022904566,2019,6,Saturday
+Portugal,104711.22,90868.4,2020-08-25,Clothing,Marquardt-Kuvalis,Celine Tumasian,Corene Shirer,Pc,33-0729966,13842.82,13.2199968637553,2020,8,Tuesday
+France,69126.5,55902.6,2019-08-12,Electronics,"Farrell, Swaniawski And Crist",Othello Bowes,Avrit Chanders,Pc,07-3201531,13223.9,19.1300007956427,2019,8,Monday
+Sweden,20226.11,17408.61,2019-02-23,Electronics,Larkin-Collier,Maxie Marrow,Caro Morfield,Pc,21-3278349,2817.5,13.9300142241884,2019,2,Saturday
+France,65036.81,52361.14,2019-05-30,Other,Considine-Fisher,Othello Bowes,Amelina Piscopiello,Pc,50-1695443,12675.6699999999,19.4899934360249,2019,5,Thursday
+France,254021.98,205605.39,2019-03-07,Clothing,Mcglynn-Prosacco,Othello Bowes,Maighdiln Upcraft,Pc,52-3693331,48416.59,19.060000240924,2019,3,Thursday
+Luxembourg,160185.99,130487.51,2020-09-27,Accessories,"Zieme, Bailey And Herzog",Ilsa Kob,Jocelyn Laurentino,Pc,98-3033030,29698.4799999999,18.5399984105975,2020,9,Sunday
+Uk,81219.67,70319.99,2020-05-20,Clothing,Hessel-Stiedemann,Jessamine Apark,Genevra Charrisson,Pc,34-5793997,10899.6799999999,13.4200003521314,2020,5,Wednesday
+Portugal,108412.76,88594.91,2019-03-08,Smartphones,Romaguera-Haley,Celine Tumasian,Corene Shirer,Mobile,52-7280101,19817.8499999999,18.2799976681711,2019,3,Friday
+Spain,42028.45,36299.97,2020-01-03,Other,Hessel-Stiedemann,Emalia Dinse,Perri Aldersley,Pc,55-3118263,5728.47999999999,13.6300053892065,2020,1,Friday
+Sweden,62272.96,54600.93,2019-02-20,Beauty,Romaguera-Haley,Maxie Marrow,Caro Morfield,Pc,58-9822844,7672.02999999999,12.3200021325467,2019,2,Wednesday
+Sweden,91350.76,75839.4,2019-04-02,Games,Tillman And Sons,Maxie Marrow,Alyosha Meah,Pc,51-5324396,15511.36,16.9800010421369,2019,4,Tuesday
+Uk,123272.44,101576.49,2019-01-20,Clothing,"Christiansen, Donnelly And Bechtelar",Jessamine Apark,Genevra Charrisson,Tablet,99-5465830,21695.9499999999,17.6000004542783,2019,1,Sunday
+Luxembourg,182852.21,145440.65,2019-12-28,Outdoors,Johns And Sons,Ilsa Kob,Jocelyn Laurentino,Pc,01-8696189,37411.56,20.4599988154367,2019,12,Saturday
+Portugal,118321.11,94822.54,2020-11-23,Electronics,Tillman And Sons,Celine Tumasian,Aurelie Wren,Tablet,20-7636879,23498.57,19.8599979327442,2020,11,Monday
+Uk,74295.81,63716.09,2019-11-04,Games,"Keeling, Monahan And Pollich",Jessamine Apark,Genevra Charrisson,Pc,85-8092784,10579.72,14.2399954990732,2019,11,Monday
+Uk,152865.34,121130.5,2020-06-12,Clothing,Konopelski Llc,Jessamine Apark,Genevra Charrisson,Pc,97-5905883,31734.8399999999,20.7599970012823,2020,6,Friday
+France,171458.64,148877.54,2019-08-16,Books,Mcglynn-Bergstrom,Othello Bowes,Crysta Halls,Pc,74-6473826,22581.1,13.1699983156287,2019,8,Friday
+Uk,156177.77,130096.08,2019-12-24,Clothing,Johns And Sons,Jessamine Apark,Winny Agnolo,Pc,91-0416047,26081.6899999999,16.7000015431133,2019,12,Tuesday
+Portugal,116023.51,96566.37,2020-02-06,Smartphones,Tillman And Sons,Celine Tumasian,Smitty Culverhouse,Pc,34-0232219,19457.14,16.7699977358037,2020,2,Thursday
+France,70657.26,61330.5,2020-05-09,Other,"Rowe, Hermiston And Kessler",Othello Bowes,Maighdiln Upcraft,Pc,34-0783331,9326.75999999999,13.2000023776749,2020,5,Saturday
+Netherlands,104152.15,85696.39,2019-06-05,Smartphones,"Swaniawski, Runolfsson And Green",Denice Amberg,Nero Harbisher,Mobile,30-8215510,18455.7599999999,17.7199990590688,2019,6,Wednesday
+Portugal,84224.98,68239.08,2019-01-21,Appliances,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,Mobile,95-3196761,15985.8999999999,18.9799985704953,2019,1,Monday
+Portugal,172505.24,139125.48,2020-02-10,Accessories,Romaguera-Haley,Celine Tumasian,Brynn Dempster,Pc,99-3651863,33379.7599999999,19.3499977160113,2020,2,Monday
+Portugal,89830.34,76795.96,2019-04-19,Games,Johns And Sons,Celine Tumasian,Aurelie Wren,Tablet,94-8641337,13034.3799999999,14.5099974017687,2019,4,Friday
+Netherlands,353925.06,287528.72,2020-04-12,Clothing,Corwin And Sons,Denice Amberg,Nero Harbisher,Pc,36-2694099,66396.34,18.7599996451226,2020,4,Sunday
+France,141436.98,114691.25,2019-05-26,Outdoors,Walter Llc,Othello Bowes,Maighdiln Upcraft,Pc,40-5308505,26745.73,18.9099979368903,2019,5,Sunday
+Uk,178465.4,156282.15,2020-04-27,Accessories,Romaguera-Haley,Jessamine Apark,Winny Agnolo,Pc,68-8279682,22183.25,12.4300004370595,2020,4,Monday
+Sweden,110092.84,92797.25,2020-06-29,Other,"Rowe, Hermiston And Kessler",Maxie Marrow,Anita Woakes,Tablet,50-2481520,17295.5899999999,15.7100043926562,2020,6,Monday
+Uk,154715.49,126572.74,2020-10-23,Electronics,Smith Group,Jessamine Apark,Genevra Charrisson,Pc,46-1054213,28142.7499999999,18.1900015311976,2020,10,Friday
+Sweden,92877.57,75936.7,2020-05-04,Electronics,Wisoky Inc,Maxie Marrow,Madelon Bront,Mobile,40-9497268,16940.87,18.2400013264774,2020,5,Monday
+France,66141.13,53435.42,2019-05-26,Clothing,Stehr Llc,Othello Bowes,Ora Grennan,Pc,54-5107115,12705.71,19.2099983777114,2019,5,Sunday
+Germany,241782.39,196544.91,2020-09-06,Appliances,Johns And Sons,Rickard Doogood,Casie Macbain,Pc,15-7053450,45237.48,18.7099978621271,2020,9,Sunday
+Portugal,211872.69,177930.69,2019-07-23,Games,Johns And Sons,Celine Tumasian,Hortense Gerring,Mobile,36-2012010,33942.0,16.0199976693551,2019,7,Tuesday
+Portugal,170408.23,143432.61,2020-03-11,Clothing,Romaguera-Haley,Celine Tumasian,Aurelie Wren,Mobile,61-7521706,26975.62,15.8299983516054,2020,3,Wednesday
+Sweden,157683.41,130624.94,2019-08-06,Electronics,Hegmann Group,Maxie Marrow,Alyosha Meah,Tablet,17-0893784,27058.47,17.1599979985212,2019,8,Tuesday
+Portugal,116157.89,97166.07,2019-11-14,Games,"Parisian, Steuber And Satterfield",Celine Tumasian,Hortense Gerring,Pc,23-5766200,18991.8199999999,16.3500042915724,2019,11,Thursday
+France,56106.13,45081.27,2020-12-03,Electronics,"Rowe, Hermiston And Kessler",Othello Bowes,Amelina Piscopiello,Pc,24-3140242,11024.86,19.6500097226452,2020,12,Thursday
+Sweden,40385.45,32591.06,2020-07-15,Smartphones,Armstrong-Little,Maxie Marrow,Tarrah Castelletti,Pc,81-0573181,7794.38999999999,19.2999954191422,2020,7,Wednesday
+Uk,112491.58,92254.34,2019-10-24,Appliances,Hessel-Stiedemann,Jessamine Apark,Genevra Charrisson,Mobile,13-1936536,20237.24,17.9900042296499,2019,10,Thursday
+Finland,200635.57,172245.64,2019-11-12,Clothing,Larkin-Collier,Hube Corey,Wat Bowkley,Pc,94-8026718,28389.9299999999,14.1499984274971,2019,11,Tuesday
+Portugal,243176.92,202250.24,2020-03-07,Appliances,Gislason-Stanton,Celine Tumasian,Hortense Gerring,Pc,81-5976459,40926.68,16.8300017945782,2020,3,Saturday
+Portugal,52227.07,45124.19,2019-03-14,Books,"Farrell, Swaniawski And Crist",Celine Tumasian,Corene Shirer,Pc,28-6038070,7102.87999999999,13.5999970896318,2019,3,Thursday
+Bulgaria,147672.87,129110.39,2019-10-15,Electronics,Homenick-Marvin,Charil Alpe,Bernadine Fullagar,Pc,81-7970957,18562.4799999999,12.5700001631985,2019,10,Tuesday
+France,149500.61,125401.11,2020-07-24,Games,Mcglynn-Bergstrom,Othello Bowes,Crysta Halls,Pc,60-8646184,24099.4999999999,16.1200011157145,2020,7,Friday
+France,53089.52,44812.86,2019-08-24,Beauty,Goldner-Dibbert,Othello Bowes,Crysta Halls,Pc,32-2114915,8276.65999999999,15.590007217997,2019,8,Saturday
+France,85223.07,73002.08,2019-09-15,Beauty,"Hamill, Kulas And Roob",Othello Bowes,Maighdiln Upcraft,Pc,58-7865136,12220.99,14.3400020675152,2019,9,Sunday
+Denmark,58948.52,49416.54,2020-05-20,Clothing,Wisoky Inc,Modestia Byfford,Case Desorts,Pc,98-9112505,9531.97999999999,16.1700073216426,2020,5,Wednesday
+Portugal,165696.9,132275.84,2020-10-22,Electronics,Franecki-White,Celine Tumasian,Aurelie Wren,Pc,03-0455038,33421.06,20.1699971453901,2020,10,Thursday
+Sweden,177993.88,145029.41,2019-02-12,Outdoors,Johns And Sons,Maxie Marrow,Alyosha Meah,Tablet,71-0122842,32964.47,18.5200019236616,2019,2,Tuesday
+France,108713.83,90341.19,2020-09-03,Clothing,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,Pc,55-1395838,18372.64,16.90000251118,2020,9,Thursday
+Finland,25816.05,21447.97,2019-08-09,Clothing,Smith Group,Hube Corey,Mellicent Mattys,Mobile,95-7886861,4368.07999999999,16.9200168112472,2019,8,Friday
+Portugal,154072.89,121887.06,2020-09-30,Beauty,"Rowe, Hermiston And Kessler",Celine Tumasian,Smitty Culverhouse,Pc,19-3013452,32185.83,20.8900021282134,2020,9,Wednesday
+Finland,194962.05,154975.33,2020-05-07,Appliances,"Rowe, Hermiston And Kessler",Hube Corey,Mellicent Mattys,Pc,54-5082146,39986.72,20.5100018183025,2020,5,Thursday
+Portugal,60744.83,52805.48,2020-03-19,Smartphones,Gislason-Stanton,Celine Tumasian,Brynn Dempster,Pc,69-4462108,7939.34999999999,13.0700011836398,2020,3,Thursday
+Sweden,39313.39,34273.41,2020-10-10,Beauty,Corwin And Sons,Maxie Marrow,Anita Woakes,Mobile,68-3731565,5039.97999999999,12.8200086535401,2020,10,Saturday
+France,119820.82,98289.02,2019-06-16,Appliances,Considine-Fisher,Othello Bowes,Amelina Piscopiello,Pc,82-2972108,21531.8,17.9699988699793,2019,6,Sunday
+Uk,129485.51,112794.83,2019-05-01,Appliances,Mcglynn-Prosacco,Jessamine Apark,Jay Morefield,Pc,15-2503493,16690.6799999999,12.8899982708489,2019,5,Wednesday
+Italy,163203.64,140893.7,2019-06-21,Smartphones,"Swaniawski, Runolfsson And Green",Piggy Roscrigg,Joshua Prevost,Pc,37-0857161,22309.94,13.6700014779082,2019,6,Friday
+France,62788.04,53049.61,2020-02-13,Appliances,Altenwerth-Konopelski,Othello Bowes,Avrit Chanders,Pc,71-2709641,9738.43,15.5100079569293,2020,2,Thursday
+Portugal,148037.71,117867.62,2020-04-14,Electronics,Romaguera-Dietrich,Celine Tumasian,Corene Shirer,Pc,10-5899580,30170.0899999999,20.3800031762177,2020,4,Tuesday
+Ireland,55539.67,45620.29,2020-03-21,Electronics,Altenwerth-Konopelski,Glenine Suttaby,Palm Wetherald,Pc,10-9241948,9919.37999999999,17.8599908857938,2020,3,Saturday
+France,150135.0,131067.85,2020-09-09,Smartphones,Larkin-Collier,Othello Bowes,Avrit Chanders,Pc,68-0080728,19067.1499999999,12.700003330336,2020,9,Wednesday
+Ireland,85294.3,72662.21,2020-03-25,Beauty,"Zieme, Bailey And Herzog",Glenine Suttaby,Bunnie Tonbridge,Pc,47-0640313,12632.0899999999,14.810004888955,2020,3,Wednesday
+Luxembourg,136079.62,119178.53,2019-08-29,Games,West-Cummings,Ilsa Kob,Jocelyn Laurentino,Pc,37-6597365,16901.0899999999,12.4200008788972,2019,8,Thursday
+Finland,186397.6,161233.92,2020-04-12,Appliances,Friesen And Sons,Hube Corey,Mellicent Mattys,Mobile,13-0833129,25163.6799999999,13.5000021459503,2020,4,Sunday
+Germany,32695.37,26375.35,2020-11-28,Accessories,Johns And Sons,Rickard Doogood,Casie Macbain,Mobile,15-2994585,6320.02,19.3300152284558,2020,11,Saturday
+France,86077.83,72288.16,2019-03-11,Appliances,Johns And Sons,Othello Bowes,Amelina Piscopiello,Pc,85-7784608,13789.6699999999,16.020001898282,2019,3,Monday
+Sweden,72885.55,59773.44,2020-12-29,Clothing,Johns And Sons,Maxie Marrow,Anita Woakes,Pc,22-3969127,13112.11,17.9899993894537,2020,12,Tuesday
+Portugal,100469.75,82566.04,2019-05-17,Electronics,Johns And Sons,Celine Tumasian,Aurelie Wren,Pc,80-2242820,17903.71,17.8200005474284,2019,5,Friday
+Sweden,40831.52,34192.31,2019-04-26,Appliances,Labadie And Sons,Maxie Marrow,Madelon Bront,Pc,35-1705563,6639.20999999999,16.2600118731803,2019,4,Friday
+Italy,142353.07,116046.22,2019-07-24,Books,Dibbert Inc,Piggy Roscrigg,Joshua Prevost,Pc,93-9941140,26306.85,18.4800018714032,2019,7,Wednesday
+Sweden,250315.06,218825.43,2019-08-07,Beauty,Mcglynn-Prosacco,Maxie Marrow,Alyosha Meah,Pc,36-2366573,31489.63,12.5799981830897,2019,8,Wednesday
+Uk,100094.97,84690.35,2020-08-11,Games,"Swaniawski, Runolfsson And Green",Jessamine Apark,Genevra Charrisson,Pc,10-9932801,15404.6199999999,15.3900041130937,2020,8,Tuesday
+Uk,77128.75,65536.3,2020-09-08,Books,"Dickinson, Hyatt And Berge",Jessamine Apark,Jay Morefield,Mobile,70-8991739,11592.4499999999,15.0299985413999,2020,9,Tuesday
+France,176114.73,149257.23,2020-11-24,Electronics,Johns And Sons,Othello Bowes,Maighdiln Upcraft,Pc,97-4830372,26857.5,15.2500020867079,2020,11,Tuesday
+France,146325.53,118333.46,2020-09-08,Games,Stehr-Bogan,Othello Bowes,Crysta Halls,Pc,95-8015610,27992.0699999999,19.1299973422272,2020,9,Tuesday
+Germany,161823.46,130494.44,2020-07-20,Clothing,Friesen-Rath,Rickard Doogood,Casie Macbain,Pc,84-1062113,31329.0199999999,19.3599988530711,2020,7,Monday
+Sweden,132632.97,112035.07,2019-04-23,Electronics,"Keeling, Monahan And Pollich",Maxie Marrow,Anita Woakes,Pc,05-5082715,20597.8999999999,15.5299998182955,2019,4,Tuesday
+Portugal,107232.99,85207.33,2020-08-03,Appliances,Hessel-Stiedemann,Celine Tumasian,Smitty Culverhouse,Pc,35-6942653,22025.66,20.5400035940432,2020,8,Monday
+Sweden,120763.23,96719.27,2020-04-14,Clothing,"Murray, Reichel And Nolan",Maxie Marrow,Anita Woakes,Pc,79-6623911,24043.9599999999,19.9100007510564,2020,4,Tuesday
+Bulgaria,278731.9,221591.86,2019-05-12,Appliances,West-Cummings,Charil Alpe,Bernadine Fullagar,Pc,48-7662634,57140.04,20.5000001793838,2019,5,Sunday
+Bulgaria,138153.7,112926.83,2019-02-14,Games,Mcglynn-Bergstrom,Charil Alpe,Bernadine Fullagar,Pc,46-5888587,25226.87,18.2600031703819,2019,2,Thursday
+Ireland,68802.13,54635.77,2020-09-15,Beauty,Kirlin And Sons,Glenine Suttaby,Bunnie Tonbridge,Pc,17-3178991,14166.36,20.5900020827843,2020,9,Tuesday
+Finland,35619.28,28192.66,2019-08-01,Electronics,"Murray, Reichel And Nolan",Hube Corey,Wat Bowkley,Pc,18-8528486,7426.61999999999,20.8500003368961,2019,8,Thursday
+Uk,65014.84,53669.75,2020-03-27,Outdoors,"Dickinson, Hyatt And Berge",Jessamine Apark,Genevra Charrisson,Mobile,55-4588115,11345.0899999999,17.4500006460063,2020,3,Friday
+Germany,48922.42,39387.44,2020-10-19,Outdoors,"Murray, Reichel And Nolan",Rickard Doogood,Casie Macbain,Tablet,19-9073616,9534.97999999999,19.4900006990659,2020,10,Monday
+France,165262.34,142621.4,2020-05-19,Electronics,Altenwerth-Konopelski,Othello Bowes,Amelina Piscopiello,Mobile,96-0020600,22640.94,13.6999996490428,2020,5,Tuesday
+Portugal,164117.24,133509.37,2020-05-28,Electronics,"Zieme, Bailey And Herzog",Celine Tumasian,Corene Shirer,Pc,88-7664123,30607.8699999999,18.6500028881792,2020,5,Thursday
+Portugal,238085.99,193587.72,2020-07-16,Clothing,"Rowe, Hermiston And Kessler",Celine Tumasian,Hortense Gerring,Pc,17-8884817,44498.2699999999,18.689999356955,2020,7,Thursday
+Sweden,117733.51,97294.97,2019-07-13,Electronics,Connelly-Mohr,Maxie Marrow,Tarrah Castelletti,Pc,45-5509135,20438.5399999999,17.3600022627372,2019,7,Saturday
+France,26713.46,22043.95,2020-12-10,Beauty,Wisoky Inc,Othello Bowes,Ora Grennan,Pc,81-4176165,4669.50999999999,17.4799894884451,2020,12,Thursday
+France,49664.17,39244.63,2019-10-30,Books,"Swaniawski, Runolfsson And Green",Othello Bowes,Amelina Piscopiello,Pc,24-9702599,10419.54,20.9799942292401,2019,10,Wednesday
+Sweden,162101.93,133912.4,2019-12-19,Smartphones,"Rowe, Hermiston And Kessler",Maxie Marrow,Tarrah Castelletti,Pc,24-4272786,28189.53,17.3900026976853,2019,12,Thursday
+France,118027.37,96050.67,2019-06-04,Beauty,Johns And Sons,Othello Bowes,Ora Grennan,Pc,77-3656041,21976.6999999999,18.6200031399496,2019,6,Tuesday
+Sweden,147994.63,129643.3,2019-01-27,Games,Stamm Inc,Maxie Marrow,Alyosha Meah,Pc,47-7207206,18351.33,12.3999972161152,2019,1,Sunday
+Finland,48946.74,38765.82,2019-04-19,Accessories,"Swaniawski, Runolfsson And Green",Hube Corey,Mellicent Mattys,Pc,65-2022928,10180.9199999999,20.7999960773689,2019,4,Friday
+Sweden,73860.57,60336.7,2020-11-13,Clothing,Mcglynn-Prosacco,Maxie Marrow,Madelon Bront,Pc,16-5837761,13523.87,18.3099995031178,2020,11,Friday
+Portugal,86083.27,72309.95,2019-11-30,Electronics,Connelly-Mohr,Celine Tumasian,Hortense Gerring,Pc,80-7090422,13773.32,15.9999962826691,2019,11,Saturday
+Finland,72385.53,60181.33,2019-10-09,Clothing,Johns And Sons,Hube Corey,Wat Bowkley,Pc,66-8222460,12204.1999999999,16.859999505426,2019,10,Wednesday
+Portugal,120332.26,102282.42,2020-01-14,Clothing,"Parisian, Steuber And Satterfield",Celine Tumasian,Hortense Gerring,Tablet,44-0527427,18049.8399999999,15.0000008310323,2020,1,Tuesday
+Sweden,81262.34,65326.8,2019-06-09,Books,Johns And Sons,Maxie Marrow,Anita Woakes,Mobile,75-9517276,15935.5399999999,19.6099940021416,2019,6,Sunday
+Austria,139075.59,113708.2,2020-12-16,Games,"Murray, Reichel And Nolan",Orsa Geekin,Bank Coumbe,Pc,24-2403756,25367.39,18.2400017141757,2020,12,Wednesday
+France,50516.2,43918.78,2019-03-22,Electronics,Wiza And Sons,Othello Bowes,Maighdiln Upcraft,Pc,50-1986322,6597.41999999999,13.0600084725296,2019,3,Friday
+Sweden,112228.82,97470.73,2019-09-15,Outdoors,Gislason-Stanton,Maxie Marrow,Madelon Bront,Pc,75-9585763,14758.09,13.1500001514762,2019,9,Sunday
+France,79833.6,63411.83,2019-06-15,Appliances,Mcglynn-Bergstrom,Othello Bowes,Avrit Chanders,Pc,86-6760202,16421.77,20.5699980960397,2019,6,Saturday
+Finland,135629.36,118526.5,2020-12-08,Games,Tillman And Sons,Hube Corey,Mellicent Mattys,Pc,66-7717800,17102.8599999999,12.6099983071511,2020,12,Tuesday
+Luxembourg,175332.04,144999.6,2020-09-24,Accessories,Hegmann Group,Ilsa Kob,Jocelyn Laurentino,Pc,89-8942175,30332.44,17.2999983345884,2020,9,Thursday
+Portugal,101923.36,86115.05,2019-01-19,Beauty,"Shanahan, Schaden And Parker",Celine Tumasian,Brynn Dempster,Mobile,38-0584273,15808.3099999999,15.5099969231783,2019,1,Saturday
+Germany,190100.96,160749.37,2019-12-20,Electronics,Walter Llc,Rickard Doogood,Casie Macbain,Pc,38-8840357,29351.5899999999,15.4400009342404,2019,12,Friday
+Netherlands,152771.9,134423.99,2020-02-05,Clothing,Mcclure Inc,Denice Amberg,Nero Harbisher,Pc,82-4495901,18347.91,12.0100031484847,2020,2,Wednesday
+France,52805.94,43791.97,2020-06-22,Smartphones,Kihn Inc,Othello Bowes,Amelina Piscopiello,Pc,81-2373308,9013.97,17.0699925046311,2020,6,Monday
+Portugal,51416.24,43338.75,2020-04-15,Smartphones,"Spencer, Rogahn And Muller",Celine Tumasian,Aurelie Wren,Pc,15-0224516,8077.48999999999,15.7099974638363,2020,4,Wednesday
+Luxembourg,76426.54,66116.6,2019-03-16,Clothing,O'Connell-Mitchell,Ilsa Kob,Jocelyn Laurentino,Pc,95-6935153,10309.9399999999,13.4899996781222,2019,3,Saturday
+France,118021.59,98229.37,2019-04-21,Beauty,"Lubowitz, Mclaughlin And Erdman",Othello Bowes,Maighdiln Upcraft,Pc,60-8661261,19792.22,16.7699994551844,2019,4,Sunday
+Portugal,59378.97,52176.3,2020-04-25,Appliances,Schoen-Keeling,Celine Tumasian,Corene Shirer,Pc,56-2783503,7202.66999999999,12.1300015813679,2020,4,Saturday
+Spain,61325.25,49379.09,2020-07-29,Beauty,Hessel-Stiedemann,Emalia Dinse,Manuel Goudie,Tablet,95-1516475,11946.16,19.4800021198446,2020,7,Wednesday
+France,80431.34,69774.19,2019-07-22,Beauty,Hessel-Stiedemann,Othello Bowes,Crysta Halls,Pc,32-5562588,10657.1499999999,13.249996829594,2019,7,Monday
+Portugal,177919.14,147370.42,2020-07-06,Beauty,Walter Llc,Celine Tumasian,Aurelie Wren,Pc,70-7769332,30548.72,17.1700020582383,2020,7,Monday
+Ireland,37520.09,32781.3,2020-05-27,Clothing,Kihn Inc,Glenine Suttaby,Bunnie Tonbridge,Mobile,07-6200800,4738.78999999999,12.6300070175737,2020,5,Wednesday
+Spain,68745.86,58014.63,2019-09-04,Electronics,Labadie And Sons,Emalia Dinse,Manuel Goudie,Pc,11-2988171,10731.23,15.6100018241098,2019,9,Wednesday
+Denmark,69017.42,55897.21,2020-02-04,Electronics,Hegmann Group,Modestia Byfford,Case Desorts,Pc,38-3894304,13120.21,19.0099977657814,2020,2,Tuesday
+France,48850.38,39788.63,2019-03-31,Appliances,"Spencer, Rogahn And Muller",Othello Bowes,Crysta Halls,Pc,33-6126082,9061.75,18.550009232272,2019,3,Sunday
+Netherlands,253291.55,219502.46,2020-12-06,Books,Altenwerth-Konopelski,Denice Amberg,Nero Harbisher,Pc,25-4970452,33789.09,13.3399989063985,2020,12,Sunday
+Portugal,47186.74,38112.73,2019-07-28,Electronics,"Hartmann, Hane And Pfannerstill",Celine Tumasian,Aurelie Wren,Pc,34-8903845,9074.00999999999,19.2299997838375,2019,7,Sunday
+Portugal,59670.68,51269.05,2019-10-09,Appliances,"Shanahan, Schaden And Parker",Celine Tumasian,Aurelie Wren,Pc,32-2110689,8401.62999999999,14.0799970772915,2019,10,Wednesday
+Portugal,228961.3,183764.34,2020-01-06,Appliances,Johns And Sons,Celine Tumasian,Hortense Gerring,Pc,37-8204282,45196.9599999999,19.7399997292118,2020,1,Monday
+France,165259.58,130703.8,2020-06-26,Outdoors,Armstrong-Little,Othello Bowes,Crysta Halls,Pc,46-1318487,34555.7799999999,20.9100011025079,2020,6,Friday
+France,219911.81,179426.05,2019-05-07,Clothing,Smith Group,Othello Bowes,Crysta Halls,Pc,99-3971751,40485.76,18.4099980805942,2019,5,Tuesday
+Finland,55882.12,48561.56,2020-05-20,Clothing,"Murray, Reichel And Nolan",Hube Corey,Mellicent Mattys,Pc,24-7985425,7320.56,13.100004080017,2020,5,Wednesday
+France,16388.9,13430.7,2020-03-15,Electronics,West-Cummings,Othello Bowes,Crysta Halls,Pc,30-9690927,2958.2,18.0500216610022,2020,3,Sunday
+Spain,85927.37,74490.44,2019-04-15,Clothing,"Hartmann, Hane And Pfannerstill",Emalia Dinse,Perri Aldersley,Pc,37-5025811,11436.9299999999,13.3099965703593,2019,4,Monday
+France,161212.39,138046.17,2020-04-07,Accessories,Hilll-Vandervort,Othello Bowes,Crysta Halls,Pc,21-6670877,23166.22,14.3699997252072,2020,4,Tuesday
+France,66678.38,53009.31,2019-04-03,Smartphones,Walter Llc,Othello Bowes,Amelina Piscopiello,Pc,34-3119010,13669.07,20.5000031494466,2019,4,Wednesday
+Sweden,148243.05,120566.07,2020-07-12,Beauty,Johns And Sons,Maxie Marrow,Madelon Bront,Pc,54-7503816,27676.9799999999,18.6700017302666,2020,7,Sunday
+Ireland,126523.36,106368.19,2020-05-14,Games,Gleichner-Green,Glenine Suttaby,Bunnie Tonbridge,Pc,96-1698894,20155.17,15.9299990136208,2020,5,Thursday
+Ireland,63373.72,55572.41,2020-03-03,Clothing,"Dickinson, Hyatt And Berge",Glenine Suttaby,Bunnie Tonbridge,Pc,92-0523700,7801.30999999999,12.3100079970056,2020,3,Tuesday
+Ireland,76767.77,64500.28,2020-01-22,Games,"Spencer, Rogahn And Muller",Glenine Suttaby,Bunnie Tonbridge,Pc,15-3657248,12267.49,15.980000461131,2020,1,Wednesday
+Portugal,78938.82,65471.86,2019-04-24,Games,"Fisher, Morar And Skiles",Celine Tumasian,Brynn Dempster,Pc,16-3423161,13466.96,17.059996589764,2019,4,Wednesday
+France,131864.04,110277.9,2019-09-04,Appliances,"Murray, Reichel And Nolan",Othello Bowes,Ora Grennan,Pc,67-2684209,21586.14,16.3699974610212,2019,9,Wednesday
+Portugal,116774.43,98954.65,2019-04-21,Accessories,Labadie And Sons,Celine Tumasian,Hortense Gerring,Mobile,21-7344983,17819.78,15.2600016972893,2019,4,Sunday
+France,141112.84,120044.69,2020-08-08,Electronics,Gislason-Stanton,Othello Bowes,Avrit Chanders,Mobile,47-9701762,21068.1499999999,14.9300021174543,2020,8,Saturday
+Bulgaria,33210.56,29109.06,2020-11-20,Books,Hessel-Stiedemann,Charil Alpe,Bernadine Fullagar,Pc,86-3876359,4101.49999999999,12.3499874738637,2020,11,Friday
+France,174392.33,141449.62,2020-03-08,Smartphones,Labadie And Sons,Othello Bowes,Ora Grennan,Pc,34-4313860,32942.7099999999,18.8899993480217,2020,3,Sunday
+Sweden,204484.61,177308.61,2019-06-16,Games,"Hermiston, Simonis And Wisoky",Maxie Marrow,Caro Morfield,Tablet,71-4782689,27176.0,13.2899977166985,2019,6,Sunday
+Germany,80986.1,64124.79,2019-02-12,Appliances,"Dickinson, Hyatt And Berge",Rickard Doogood,Casie Macbain,Mobile,85-3690127,16861.31,20.8200049144235,2019,2,Tuesday
+Sweden,179179.73,154936.71,2019-10-22,Books,"Zieme, Bailey And Herzog",Maxie Marrow,Anita Woakes,Pc,66-5810051,24243.02,13.5300014125481,2019,10,Tuesday
+Netherlands,99731.4,84731.8,2020-12-01,Electronics,Smith Group,Denice Amberg,Nero Harbisher,Pc,81-9170157,14999.5999999999,15.0399974331053,2020,12,Tuesday
+France,32661.62,27922.42,2020-08-02,Electronics,"Zieme, Bailey And Herzog",Othello Bowes,Amelina Piscopiello,Pc,24-7300640,4739.2,14.5099967484772,2020,8,Sunday
+Sweden,30166.93,24658.45,2019-11-29,Appliances,Corwin And Sons,Maxie Marrow,Tarrah Castelletti,Pc,97-1288901,5508.48,18.2599952994885,2019,11,Friday
+Germany,36747.24,31900.28,2019-01-19,Accessories,Johns And Sons,Rickard Doogood,Casie Macbain,Pc,81-9757849,4846.95999999999,13.189997398444,2019,1,Saturday
+France,66884.7,58544.18,2020-01-19,Smartphones,Wisoky Inc,Othello Bowes,Crysta Halls,Pc,44-9179070,8340.51999999999,12.4699968752195,2020,1,Sunday
+Portugal,165305.7,134757.21,2019-07-13,Games,"Christiansen, Donnelly And Bechtelar",Celine Tumasian,Aurelie Wren,Pc,55-2137809,30548.49,18.4799979674022,2019,7,Saturday
+Sweden,50618.21,41835.95,2019-05-03,Beauty,Hegmann Group,Maxie Marrow,Tarrah Castelletti,Pc,56-1063618,8782.26,17.350001116199,2019,5,Friday
+Sweden,82116.31,70652.87,2020-05-30,Beauty,"Zieme, Bailey And Herzog",Maxie Marrow,Caro Morfield,Tablet,01-8080546,11463.44,13.9600038043599,2020,5,Saturday
+Sweden,106142.65,88151.47,2019-04-06,Games,Baumbach Group,Maxie Marrow,Anita Woakes,Pc,29-5632797,17991.1799999999,16.9500007772558,2019,4,Saturday
+Portugal,149514.0,122646.33,2020-10-18,Games,"Bashirian, Okuneva And Bechtelar",Celine Tumasian,Smitty Culverhouse,Mobile,20-1191256,26867.67,17.9700028091014,2020,10,Sunday
+Sweden,30975.79,27072.84,2020-03-15,Clothing,Mcglynn-Bergstrom,Maxie Marrow,Tarrah Castelletti,Pc,33-4022317,3902.95,12.6000014850307,2020,3,Sunday
+France,165118.74,137527.4,2019-02-11,Clothing,Smith Group,Othello Bowes,Amelina Piscopiello,Pc,59-5892824,27591.3399999999,16.7099991194215,2019,2,Monday
+Germany,76652.73,64311.64,2020-04-08,Accessories,"Farrell, Swaniawski And Crist",Rickard Doogood,Casie Macbain,Pc,52-3394023,12341.0899999999,16.1000006131549,2020,4,Wednesday
+Uk,151632.33,120744.82,2020-07-14,Clothing,Armstrong-Little,Jessamine Apark,Winny Agnolo,Pc,89-5350599,30887.5099999999,20.3700028879065,2020,7,Tuesday
+France,35289.75,29424.59,2019-02-26,Smartphones,Armstrong-Little,Othello Bowes,Maighdiln Upcraft,Pc,92-6298656,5865.16,16.6200100595782,2019,2,Tuesday
+France,77043.84,63245.29,2020-08-02,Outdoors,Armstrong-Little,Othello Bowes,Avrit Chanders,Pc,91-7317758,13798.5499999999,17.9099977363537,2020,8,Sunday
+Portugal,59691.71,49239.69,2019-06-17,Other,Walter Llc,Celine Tumasian,Hortense Gerring,Pc,60-6055725,10452.0199999999,17.5100026452584,2019,6,Monday
+Portugal,181882.43,149834.75,2019-07-28,Books,Mcclure Inc,Celine Tumasian,Corene Shirer,Pc,33-2816759,32047.6799999999,17.6199977095093,2019,7,Sunday
+Portugal,50796.04,44090.96,2019-09-21,Books,"Farrell, Swaniawski And Crist",Celine Tumasian,Hortense Gerring,Pc,05-2359767,6705.08,13.2000053547481,2019,9,Saturday
+Netherlands,73981.77,61959.73,2019-11-18,Clothing,"Hamill, Kulas And Roob",Denice Amberg,Nero Harbisher,Pc,73-9492768,12022.04,16.2500032102503,2019,11,Monday
+Uk,105686.13,86694.33,2019-10-13,Outdoors,Johns And Sons,Jessamine Apark,Genevra Charrisson,Pc,31-6770318,18991.8,17.9700023077768,2019,10,Sunday
+Sweden,149376.26,123653.67,2020-01-31,Other,"Fisher, Morar And Skiles",Maxie Marrow,Alyosha Meah,Pc,52-0695511,25722.59,17.2199986798437,2020,1,Friday
+Netherlands,85237.91,72384.03,2020-03-18,Smartphones,Armstrong-Little,Denice Amberg,Nero Harbisher,Pc,45-8314773,12853.88,15.0800037213488,2020,3,Wednesday
+Luxembourg,104743.22,83281.33,2019-03-24,Electronics,Johns And Sons,Ilsa Kob,Jocelyn Laurentino,Mobile,53-0205940,21461.89,20.4900040308098,2019,3,Sunday
+Portugal,290551.74,239530.86,2020-12-14,Other,Hessel-Stiedemann,Celine Tumasian,Brynn Dempster,Pc,53-1660551,51020.88,17.5599980919061,2020,12,Monday
+France,72314.73,57309.42,2019-08-27,Appliances,Johns And Sons,Othello Bowes,Ora Grennan,Pc,70-5394452,15005.3099999999,20.7500048745255,2019,8,Tuesday
+Netherlands,119858.15,99997.65,2020-11-19,Electronics,Mcglynn-Prosacco,Denice Amberg,Nero Harbisher,Pc,10-0386535,19860.5,16.5700037919824,2020,11,Thursday
+Portugal,119937.47,98720.53,2019-08-13,Games,"Hartmann, Hane And Pfannerstill",Celine Tumasian,Aurelie Wren,Pc,56-8476539,21216.94,17.6900012981764,2019,8,Tuesday
+France,60592.4,52363.95,2019-02-22,Accessories,"Rowe, Hermiston And Kessler",Othello Bowes,Crysta Halls,Pc,04-7976277,8228.45,13.5800034327737,2019,2,Friday
+Ireland,31966.82,26593.2,2020-08-24,Appliances,Johns And Sons,Glenine Suttaby,Palm Wetherald,Pc,21-2965409,5373.61999999999,16.8099923608291,2020,8,Monday
+Portugal,83226.45,71699.59,2020-11-22,Beauty,"Swaniawski, Runolfsson And Green",Celine Tumasian,Corene Shirer,Pc,04-2788693,11526.86,13.8499960048758,2020,11,Sunday
+Germany,51407.3,44292.53,2019-02-05,Clothing,Altenwerth-Konopelski,Rickard Doogood,Casie Macbain,Tablet,20-6477396,7114.77,13.8399993775203,2019,2,Tuesday
+Germany,61968.26,50690.04,2020-12-27,Electronics,Romaguera-Dietrich,Rickard Doogood,Casie Macbain,Pc,22-7259031,11278.22,18.1999946424185,2020,12,Sunday
+Ireland,271465.15,217959.37,2019-03-07,Electronics,Corwin And Sons,Glenine Suttaby,Bunnie Tonbridge,Mobile,44-9239029,53505.78,19.7099996076844,2019,3,Thursday
+Sweden,86854.64,72219.63,2020-04-02,Books,Tillman And Sons,Maxie Marrow,Tarrah Castelletti,Pc,77-4566105,14635.0099999999,16.8500036382627,2020,4,Thursday
+Ireland,119819.37,105441.05,2020-07-12,Smartphones,Dibbert Inc,Glenine Suttaby,Palm Wetherald,Pc,29-3662564,14378.3199999999,11.9999963278057,2020,7,Sunday
+Uk,160763.9,131102.96,2019-04-18,Appliances,Mcglynn-Prosacco,Jessamine Apark,Genevra Charrisson,Pc,73-8057834,29660.94,18.4500002799135,2019,4,Thursday
+Sweden,44029.07,38344.92,2019-09-09,Other,Mcglynn-Bergstrom,Maxie Marrow,Alyosha Meah,Pc,87-9980890,5684.15,12.9099933294071,2019,9,Monday
+France,86628.32,72464.59,2019-06-11,Appliances,Kihn Inc,Othello Bowes,Crysta Halls,Pc,98-8250897,14163.73,16.3499996306058,2019,6,Tuesday
+Portugal,97641.25,83414.92,2020-10-17,Books,Morissette Group,Celine Tumasian,Brynn Dempster,Pc,98-3051699,14226.33,14.5699998719803,2020,10,Saturday
+Portugal,98746.66,80399.53,2020-10-02,Appliances,Considine-Fisher,Celine Tumasian,Smitty Culverhouse,Pc,75-7291972,18347.13,18.5800005792601,2020,10,Friday
+France,109562.5,89917.94,2020-05-08,Appliances,"Dickinson, Hyatt And Berge",Othello Bowes,Maighdiln Upcraft,Pc,67-3672347,19644.5599999999,17.9300034227039,2020,5,Friday
+Uk,60301.96,48820.47,2019-08-02,Beauty,Wiza And Sons,Jessamine Apark,Jay Morefield,Pc,75-1785229,11481.4899999999,19.0399947199062,2019,8,Friday
+France,80781.62,68971.35,2019-01-19,Smartphones,Mcglynn-Prosacco,Othello Bowes,Ora Grennan,Mobile,53-1426071,11810.2699999999,14.6199964793971,2019,1,Saturday
+France,238659.41,204507.25,2019-12-23,Appliances,Corwin And Sons,Othello Bowes,Amelina Piscopiello,Tablet,49-7167664,34152.16,14.3099993417397,2019,12,Monday
+Uk,165631.75,139114.11,2019-03-09,Appliances,Johns And Sons,Jessamine Apark,Jay Morefield,Pc,07-7047482,26517.64,16.009998083097,2019,3,Saturday
+Sweden,126682.79,106514.89,2019-11-06,Smartphones,"Murray, Reichel And Nolan",Maxie Marrow,Madelon Bront,Pc,57-1931933,20167.8999999999,15.9199998673852,2019,11,Wednesday
+Sweden,145558.0,116257.18,2019-12-20,Clothing,Konopelski Llc,Maxie Marrow,Tarrah Castelletti,Tablet,15-5167065,29300.82,20.1299962901386,2019,12,Friday
+Spain,59163.79,50419.38,2019-11-03,Smartphones,Mcclure Inc,Emalia Dinse,Perri Aldersley,Mobile,98-9382686,8744.41,14.7800031066299,2019,11,Sunday
+Sweden,140352.81,122303.44,2019-01-12,Smartphones,Hilll-Vandervort,Maxie Marrow,Caro Morfield,Pc,47-5733147,18049.3699999999,12.8599990267384,2019,1,Saturday
+France,163401.23,139413.93,2019-04-22,Clothing,Wisoky Inc,Othello Bowes,Avrit Chanders,Pc,98-2104934,23987.3,14.6799996548373,2019,4,Monday
+Sweden,177867.3,140675.25,2020-03-10,Smartphones,Walter Llc,Maxie Marrow,Anita Woakes,Pc,30-6005742,37192.0499999999,20.9099986338129,2020,3,Tuesday
+Germany,58416.81,46745.13,2019-07-02,Clothing,Morissette Group,Rickard Doogood,Casie Macbain,Pc,21-7461655,11671.68,19.9800023315206,2019,7,Tuesday
+Germany,169544.95,137568.77,2020-12-04,Appliances,"Keeling, Monahan And Pollich",Rickard Doogood,Casie Macbain,Mobile,96-7625873,31976.18,18.8600014332482,2020,12,Friday
+Luxembourg,74732.79,64098.31,2020-02-24,Beauty,Mcclure Inc,Ilsa Kob,Jocelyn Laurentino,Pc,53-2132479,10634.4799999999,14.2300053296551,2020,2,Monday
+Portugal,55166.78,47443.43,2020-04-13,Books,Gislason-Stanton,Celine Tumasian,Hortense Gerring,Pc,70-4650708,7723.34999999999,14.000001450148,2020,4,Monday
+France,99319.33,79127.71,2020-05-26,Games,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,Pc,53-3037652,20191.6199999999,20.330000212446,2020,5,Tuesday
+Sweden,118982.14,95506.96,2020-01-15,Clothing,Stehr-Bogan,Maxie Marrow,Caro Morfield,Mobile,76-0774122,23475.1799999999,19.7300031752664,2020,1,Wednesday
+Ireland,157007.52,126940.58,2019-08-31,Beauty,Friesen-Rath,Glenine Suttaby,Bunnie Tonbridge,Pc,72-3928347,30066.9399999999,19.149999949047,2019,8,Saturday
+France,49374.25,39208.09,2019-05-21,Books,Stehr Llc,Othello Bowes,Ora Grennan,Pc,87-1399932,10166.16,20.5900038987934,2019,5,Tuesday
+Portugal,123891.6,104118.5,2019-07-23,Games,Hegmann Group,Celine Tumasian,Smitty Culverhouse,Pc,25-1045028,19773.1,15.9600005165806,2019,7,Tuesday
+France,234340.31,204438.49,2020-12-13,Clothing,Hessel-Stiedemann,Othello Bowes,Avrit Chanders,Pc,70-0364033,29901.82,12.7599984825487,2020,12,Sunday
+Netherlands,95575.75,75504.84,2020-12-23,Books,Hessel-Stiedemann,Denice Amberg,Nero Harbisher,Pc,35-9372764,20070.91,21.0000026157262,2020,12,Wednesday
+Finland,125280.28,99372.32,2019-10-18,Beauty,Romaguera-Dietrich,Hube Corey,Wat Bowkley,Pc,36-1142710,25907.9599999999,20.6799984802077,2019,10,Friday
+Portugal,127482.28,108614.9,2020-08-26,Beauty,Hilll-Vandervort,Celine Tumasian,Aurelie Wren,Pc,75-6291395,18867.38,14.8000020081222,2020,8,Wednesday
+Portugal,120453.52,97218.04,2019-11-02,Beauty,"Schowalter, Lesch And Beahan",Celine Tumasian,Brynn Dempster,Pc,00-3338378,23235.48,19.2899966725754,2019,11,Saturday
+Portugal,120152.33,97527.65,2019-09-29,Outdoors,Romaguera-Dietrich,Celine Tumasian,Smitty Culverhouse,Pc,55-1904761,22624.68,18.8299968881169,2019,9,Sunday
+Portugal,95410.97,80593.65,2020-09-22,Books,"Murray, Reichel And Nolan",Celine Tumasian,Hortense Gerring,Mobile,70-9736399,14817.32,15.5299961838769,2020,9,Tuesday
+France,128804.51,105709.86,2019-09-13,Appliances,Connelly-Mohr,Othello Bowes,Amelina Piscopiello,Tablet,20-3125420,23094.6499999999,17.9300010535345,2019,9,Friday
+Italy,26899.97,23198.53,2019-03-19,Games,Hessel-Stiedemann,Piggy Roscrigg,Joshua Prevost,Pc,57-2968987,3701.44,13.760015345742,2019,3,Tuesday
+Uk,123751.91,102590.33,2019-11-18,Smartphones,Johns And Sons,Jessamine Apark,Jay Morefield,Pc,76-2146784,21161.58,17.1000027393516,2019,11,Monday
+Sweden,37081.31,31304.04,2019-11-03,Beauty,Mcglynn-Prosacco,Maxie Marrow,Anita Woakes,Pc,19-3129154,5777.26999999999,15.5800051292686,2019,11,Sunday
+France,133905.55,116886.15,2020-01-08,Books,"Keeling, Monahan And Pollich",Othello Bowes,Avrit Chanders,Mobile,79-0973971,17019.3999999999,12.7100034315231,2020,1,Wednesday
+France,63298.61,53645.57,2020-10-04,Appliances,"Schowalter, Lesch And Beahan",Othello Bowes,Avrit Chanders,Mobile,65-5376517,9653.04,15.2500031201317,2020,10,Sunday
+France,274242.36,227950.25,2020-09-12,Outdoors,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,Mobile,80-5258827,46292.1099999999,16.8799998658121,2020,9,Saturday
+Luxembourg,312928.72,270401.71,2019-12-12,Beauty,Altenwerth-Konopelski,Ilsa Kob,Jocelyn Laurentino,Tablet,98-5257166,42527.0099999999,13.5899990259762,2019,12,Thursday
+France,119156.18,100710.8,2019-08-20,Beauty,Johns And Sons,Othello Bowes,Ora Grennan,Pc,19-5610175,18445.3799999999,15.4800027996869,2019,8,Tuesday
+France,162123.74,133979.06,2020-04-14,Beauty,Johns And Sons,Othello Bowes,Maighdiln Upcraft,Pc,94-3509391,28144.6799999999,17.3599992203486,2020,4,Tuesday
+Ireland,65831.42,52487.39,2019-12-01,Electronics,"Christiansen, Donnelly And Bechtelar",Glenine Suttaby,Palm Wetherald,Pc,43-5417299,13344.0299999999,20.2700017711907,2019,12,Sunday
+France,180515.09,148852.74,2019-12-26,Books,Franecki-White,Othello Bowes,Amelina Piscopiello,Pc,68-6141868,31662.35,17.5400017804605,2019,12,Thursday
+Uk,99114.91,84217.94,2020-04-04,Clothing,Johns And Sons,Jessamine Apark,Winny Agnolo,Pc,29-8979189,14896.97,15.0299990183111,2020,4,Saturday
+Portugal,171884.0,146702.99,2019-10-13,Games,Johns And Sons,Celine Tumasian,Smitty Culverhouse,Pc,58-9821508,25181.01,14.6500023271508,2019,10,Sunday
+Denmark,26745.94,22600.32,2019-10-11,Appliances,Larkin-Collier,Modestia Byfford,Case Desorts,Pc,49-1493117,4145.61999999999,15.4999973827803,2019,10,Friday
+Portugal,77087.84,65894.69,2020-05-17,Other,"Rowe, Hermiston And Kessler",Celine Tumasian,Aurelie Wren,Pc,51-5334556,11193.1499999999,14.5199943337366,2020,5,Sunday
+France,87404.0,69363.81,2019-12-26,Electronics,Johns And Sons,Othello Bowes,Maighdiln Upcraft,Pc,79-3154360,18040.19,20.6400050340945,2019,12,Thursday
+France,47680.2,40575.85,2019-08-07,Clothing,Dibbert Inc,Othello Bowes,Crysta Halls,Pc,11-6024248,7104.34999999999,14.9000004194613,2019,8,Wednesday
+Finland,27824.83,23517.55,2019-06-09,Games,Mcclure Inc,Hube Corey,Wat Bowkley,Pc,61-4610981,4307.28,15.4799867600269,2019,6,Sunday
+Portugal,106516.4,86928.03,2019-03-21,Clothing,"Hartmann, Hane And Pfannerstill",Celine Tumasian,Smitty Culverhouse,Pc,12-4509008,19588.3699999999,18.3900037928431,2019,3,Thursday
+France,141948.11,112948.11,2020-04-25,Books,Stehr Llc,Othello Bowes,Maighdiln Upcraft,Pc,46-5576111,28999.9999999999,20.430000793952,2020,4,Saturday
+Ireland,226021.18,180455.31,2019-07-18,Accessories,"Schowalter, Lesch And Beahan",Glenine Suttaby,Palm Wetherald,Pc,44-6718687,45565.8699999999,20.1600000495528,2019,7,Thursday
+Italy,44232.84,38880.67,2020-02-20,Books,Johns And Sons,Piggy Roscrigg,Joshua Prevost,Tablet,67-7432229,5352.16999999999,12.09999177082,2020,2,Thursday
+Ireland,135344.52,117492.58,2019-01-17,Games,Tillman And Sons,Glenine Suttaby,Palm Wetherald,Pc,17-4401585,17851.9399999999,13.1899983833848,2019,1,Thursday
+France,271411.92,231514.37,2019-09-12,Clothing,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,Tablet,56-9241023,39897.5499999999,14.6999991746862,2019,9,Thursday
+Portugal,125253.59,108269.2,2020-02-17,Smartphones,"Murray, Reichel And Nolan",Celine Tumasian,Corene Shirer,Pc,90-2194359,16984.39,13.5600025516234,2020,2,Monday
+Sweden,15100.57,12113.68,2019-02-20,Games,"Murray, Reichel And Nolan",Maxie Marrow,Tarrah Castelletti,Pc,89-2424262,2986.88999999999,19.7799818152559,2019,2,Wednesday
+France,157932.84,134148.15,2020-01-31,Games,"Schowalter, Lesch And Beahan",Othello Bowes,Amelina Piscopiello,Pc,30-2982340,23784.69,15.0600027201435,2020,1,Friday
+Portugal,64192.86,52837.14,2020-12-04,Appliances,Johns And Sons,Celine Tumasian,Brynn Dempster,Pc,10-4704941,11355.72,17.6900047762321,2020,12,Friday
+Sweden,156453.01,128494.86,2020-04-10,Clothing,Johns And Sons,Maxie Marrow,Madelon Bront,Pc,48-3484986,27958.15,17.8699981547175,2020,4,Friday
+Finland,53616.06,45589.74,2020-03-01,Appliances,Kihn Inc,Hube Corey,Wat Bowkley,Pc,84-4478396,8026.32,14.9699922000982,2020,3,Sunday
+Finland,163967.89,138208.53,2019-05-30,Appliances,Friesen-Rath,Hube Corey,Wat Bowkley,Tablet,28-0849652,25759.36,15.7100027328521,2019,5,Thursday
+Sweden,171748.56,136574.45,2020-11-20,Games,Walter Llc,Maxie Marrow,Madelon Bront,Pc,74-0214938,35174.1099999999,20.4800028599948,2020,11,Friday
+France,26103.94,22339.75,2020-08-31,Appliances,"Fisher, Morar And Skiles",Othello Bowes,Ora Grennan,Tablet,89-0187996,3764.18999999999,14.4200070947144,2020,8,Monday
+Portugal,140337.34,115708.14,2020-04-09,Appliances,Hegmann Group,Celine Tumasian,Corene Shirer,Pc,65-8218141,24629.1999999999,17.5499977411571,2020,4,Thursday
+Sweden,33617.03,26614.6,2020-07-04,Appliances,Altenwerth-Konopelski,Maxie Marrow,Madelon Bront,Pc,49-8489293,7002.43,20.830007885884,2020,7,Saturday
+Portugal,187874.45,160031.46,2019-06-26,Accessories,Johns And Sons,Celine Tumasian,Hortense Gerring,Pc,91-8142232,27842.99,14.8199981423764,2019,6,Wednesday
+Finland,41675.01,33765.09,2019-06-25,Beauty,"Hamill, Kulas And Roob",Hube Corey,Wat Bowkley,Pc,75-5380350,7909.92,18.9800074433095,2019,6,Tuesday
+Portugal,34930.08,28017.42,2019-01-11,Appliances,Kihn Inc,Celine Tumasian,Smitty Culverhouse,Pc,35-4551515,6912.66,19.7899918923747,2019,1,Friday
+Finland,127994.87,105800.56,2020-01-09,Books,Hegmann Group,Hube Corey,Mellicent Mattys,Pc,73-2763209,22194.3099999999,17.3399996421731,2020,1,Thursday
+Portugal,162637.68,130402.89,2019-09-27,Clothing,Larkin-Collier,Celine Tumasian,Corene Shirer,Pc,56-0800364,32234.7899999999,19.8200011215113,2019,9,Friday
+Portugal,40728.28,35669.83,2019-09-22,Beauty,Romaguera-Haley,Celine Tumasian,Hortense Gerring,Mobile,42-7027181,5058.44999999999,12.4199941662157,2019,9,Sunday
+Finland,293767.28,254079.32,2020-05-06,Games,West-Cummings,Hube Corey,Wat Bowkley,Pc,29-0601002,39687.96,13.5100001606714,2020,5,Wednesday
+Sweden,57913.36,48693.55,2019-11-09,Games,"Murray, Reichel And Nolan",Maxie Marrow,Alyosha Meah,Pc,90-2797129,9219.80999999999,15.9200053321029,2019,11,Saturday
+Uk,63979.04,56032.84,2019-10-22,Games,Schoen-Keeling,Jessamine Apark,Genevra Charrisson,Pc,27-3437546,7946.2,12.4200050516544,2019,10,Tuesday
+France,102255.86,83379.43,2020-12-11,Smartphones,Rath-Schroeder,Othello Bowes,Avrit Chanders,Pc,78-3726363,18876.43,18.459998282739,2020,12,Friday
+Finland,107271.94,86665.0,2020-08-23,Games,Johns And Sons,Hube Corey,Wat Bowkley,Pc,78-8990131,20606.94,19.2100003039005,2020,8,Sunday
+Austria,51090.76,40739.77,2020-12-03,Electronics,Smith Group,Orsa Geekin,Bank Coumbe,Pc,85-2223377,10350.99,20.2600039615774,2020,12,Thursday
+Sweden,102299.92,81706.95,2019-08-22,Beauty,"Rowe, Hermiston And Kessler",Maxie Marrow,Alyosha Meah,Pc,73-9246627,20592.97,20.1299961915903,2019,8,Thursday
+France,144204.86,115262.94,2020-08-11,Books,Mcclure Inc,Othello Bowes,Amelina Piscopiello,Pc,56-7910696,28941.9199999999,20.0700031885194,2020,8,Tuesday
+France,36183.97,30579.07,2020-09-08,Books,"Bashirian, Okuneva And Bechtelar",Othello Bowes,Avrit Chanders,Mobile,91-4296427,5604.9,15.4900084208559,2020,9,Tuesday
+Uk,47771.76,39234.95,2019-05-29,Beauty,Dibbert Inc,Jessamine Apark,Genevra Charrisson,Pc,70-8181545,8536.81,17.8699926483763,2019,5,Wednesday
+Spain,44038.31,36252.34,2020-01-24,Electronics,Corwin And Sons,Emalia Dinse,Manuel Goudie,Pc,94-0775004,7785.97,17.6799927154334,2020,1,Friday
+Sweden,116469.33,95190.38,2020-01-31,Outdoors,"Hermiston, Simonis And Wisoky",Maxie Marrow,Caro Morfield,Pc,89-3466746,21278.9499999999,18.2700029269508,2020,1,Friday
+Uk,227856.66,199010.01,2020-07-20,Electronics,"Keeling, Monahan And Pollich",Jessamine Apark,Jay Morefield,Pc,11-5257937,28846.6499999999,12.6599986149186,2020,7,Monday
+Sweden,67161.99,55764.6,2019-09-20,Electronics,"Lubowitz, Mclaughlin And Erdman",Maxie Marrow,Tarrah Castelletti,Pc,22-7587128,11397.39,16.9700004422144,2019,9,Friday
+Ireland,168178.03,142665.42,2020-04-29,Clothing,Walter Llc,Glenine Suttaby,Bunnie Tonbridge,Pc,36-7597839,25512.6099999999,15.1700016940381,2020,4,Wednesday
+Sweden,42611.78,35755.54,2020-12-03,Clothing,Walter Llc,Maxie Marrow,Tarrah Castelletti,Mobile,16-2824654,6856.23999999999,16.0900107904433,2020,12,Thursday
+Sweden,166507.76,143896.01,2020-08-27,Accessories,Labadie And Sons,Maxie Marrow,Madelon Bront,Pc,49-1743669,22611.75,13.5799977130195,2020,8,Thursday
+Spain,131409.9,115325.33,2020-11-15,Electronics,Mcclure Inc,Emalia Dinse,Bertha Walbrook,Pc,48-7252604,16084.5699999999,12.2399986606792,2020,11,Sunday
+Portugal,133072.0,108600.06,2020-10-28,Outdoors,O'Connell-Mitchell,Celine Tumasian,Corene Shirer,Pc,07-1769568,24471.94,18.3899993988216,2020,10,Wednesday
+Finland,180250.02,147354.39,2019-03-06,Electronics,"Hartmann, Hane And Pfannerstill",Hube Corey,Mellicent Mattys,Pc,57-5645459,32895.6299999999,18.2500007489596,2019,3,Wednesday
+Portugal,48090.78,42040.96,2020-03-19,Books,Kihn Inc,Celine Tumasian,Corene Shirer,Pc,13-0740797,6049.82,12.5799997421543,2020,3,Thursday
+Sweden,168530.22,136981.36,2020-05-16,Appliances,West-Cummings,Maxie Marrow,Tarrah Castelletti,Pc,34-9966345,31548.86,18.7200016709169,2020,5,Saturday
+Sweden,36785.28,30546.5,2019-08-31,Appliances,Johns And Sons,Maxie Marrow,Anita Woakes,Pc,91-6738094,6238.77999999999,16.9599905179463,2019,8,Saturday
+Ireland,126409.18,104692.08,2020-04-10,Smartphones,Dibbert Inc,Glenine Suttaby,Bunnie Tonbridge,Pc,32-9007470,21717.0999999999,17.1800022751512,2020,4,Friday
+Portugal,49990.72,42927.03,2020-04-01,Electronics,"Rowe, Hermiston And Kessler",Celine Tumasian,Smitty Culverhouse,Pc,68-6382353,7063.69,14.1300025284692,2020,4,Wednesday
+Sweden,36644.05,30491.51,2020-11-20,Clothing,Larkin-Collier,Maxie Marrow,Caro Morfield,Pc,88-5406813,6152.54,16.7900109294687,2020,11,Friday
+Sweden,115226.8,94336.18,2019-05-15,Beauty,Wisoky Inc,Maxie Marrow,Tarrah Castelletti,Pc,42-2765593,20890.62,18.1300010067102,2019,5,Wednesday
+Finland,154078.75,131336.73,2020-05-09,Books,"Lueilwitz, Kerluke And Lesch",Hube Corey,Wat Bowkley,Pc,76-0724533,22742.0199999999,14.7599977284343,2020,5,Saturday
+Bulgaria,80328.16,65836.96,2020-09-23,Games,"Hermiston, Simonis And Wisoky",Charil Alpe,Bernadine Fullagar,Pc,45-3965395,14491.1999999999,18.0399999203268,2020,9,Wednesday
+Portugal,99832.12,84128.53,2019-05-15,Appliances,Romaguera-Haley,Celine Tumasian,Aurelie Wren,Pc,46-6126203,15703.5899999999,15.7299975198362,2019,5,Wednesday
+Finland,133057.07,113351.32,2020-03-05,Other,Romaguera-Dietrich,Hube Corey,Wat Bowkley,Pc,27-7554919,19705.75,14.8099984465312,2020,3,Thursday
+Ireland,80719.44,64422.19,2019-09-02,Appliances,Johns And Sons,Glenine Suttaby,Bunnie Tonbridge,Pc,59-1230573,16297.25,20.1899938849922,2019,9,Monday
+France,124534.96,107012.89,2020-07-18,Books,"Dickinson, Hyatt And Berge",Othello Bowes,Maighdiln Upcraft,Pc,45-2229786,17522.07,14.0700009057697,2020,7,Saturday
+Sweden,67611.54,56191.95,2019-10-30,Clothing,Kihn Inc,Maxie Marrow,Caro Morfield,Pc,62-7218897,11419.5899999999,16.8900013222594,2019,10,Wednesday
+France,132760.25,105039.91,2020-07-01,Beauty,"Swaniawski, Runolfsson And Green",Othello Bowes,Crysta Halls,Pc,55-4161787,27720.3399999999,20.8799998493524,2020,7,Wednesday
+France,177802.7,155079.51,2019-07-18,Other,Larkin-Collier,Othello Bowes,Amelina Piscopiello,Pc,56-2537757,22723.19,12.7800027783605,2019,7,Thursday
+Bulgaria,98963.03,80367.88,2020-12-10,Accessories,Wyman Group,Charil Alpe,Bernadine Fullagar,Pc,20-0021649,18595.1499999999,18.7899966280337,2020,12,Thursday
+Bulgaria,126582.5,103683.73,2020-02-17,Beauty,"Rowe, Hermiston And Kessler",Charil Alpe,Bernadine Fullagar,Pc,93-2627296,22898.77,18.0899966425058,2020,2,Monday
+Portugal,141965.11,119193.91,2019-09-18,Beauty,Friesen And Sons,Celine Tumasian,Hortense Gerring,Pc,56-2408571,22771.1999999999,16.0399974331721,2019,9,Wednesday
+Ireland,167301.52,147074.77,2019-06-05,Outdoors,"Christiansen, Donnelly And Bechtelar",Glenine Suttaby,Bunnie Tonbridge,Pc,80-3206606,20226.75,12.0899977477789,2019,6,Wednesday
+France,133985.91,116741.92,2019-01-15,Clothing,Kihn Inc,Othello Bowes,Amelina Piscopiello,Pc,48-3190394,17243.99,12.8700025248923,2019,1,Tuesday
+France,91540.03,74916.36,2019-09-09,Clothing,Kihn Inc,Othello Bowes,Ora Grennan,Pc,38-6130023,16623.67,18.1600006030148,2019,9,Monday
+Uk,146055.05,117822.61,2019-07-10,Clothing,"Hartmann, Hane And Pfannerstill",Jessamine Apark,Winny Agnolo,Tablet,38-2969743,28232.4399999999,19.3299992023555,2019,7,Wednesday
+Sweden,113586.11,91641.27,2019-02-19,Outdoors,Labadie And Sons,Maxie Marrow,Tarrah Castelletti,Mobile,48-8166416,21944.8399999999,19.3200031236213,2019,2,Tuesday
+Ireland,135662.46,116764.68,2020-02-05,Beauty,Corwin And Sons,Glenine Suttaby,Palm Wetherald,Pc,33-4102367,18897.78,13.9299995002302,2020,2,Wednesday
+Portugal,113781.45,91104.81,2019-08-10,Books,"Bashirian, Okuneva And Bechtelar",Celine Tumasian,Aurelie Wren,Pc,44-5240815,22676.64,19.9299973765495,2019,8,Saturday
+France,111462.88,94130.4,2020-03-09,Outdoors,Romaguera-Dietrich,Othello Bowes,Avrit Chanders,Tablet,70-9378988,17332.48,15.5500019378648,2020,3,Monday
+Uk,34748.75,27475.84,2020-09-27,Smartphones,Wiza And Sons,Jessamine Apark,Genevra Charrisson,Tablet,84-9385946,7272.91,20.9299902874204,2020,9,Sunday
+Uk,137306.45,108732.98,2020-04-09,Books,Gislason-Stanton,Jessamine Apark,Winny Agnolo,Pc,00-1210718,28573.47,20.8099983649712,2020,4,Thursday
+Portugal,148212.23,123030.97,2019-10-09,Clothing,Corwin And Sons,Celine Tumasian,Brynn Dempster,Pc,92-7917751,25181.26,16.9900014324054,2019,10,Wednesday
+Portugal,159057.92,139923.25,2020-10-24,Smartphones,Johns And Sons,Celine Tumasian,Brynn Dempster,Pc,91-3344544,19134.67,12.0300013982328,2020,10,Saturday
+Sweden,146226.36,117916.94,2020-10-18,Smartphones,"Farrell, Swaniawski And Crist",Maxie Marrow,Alyosha Meah,Pc,28-1840061,28309.4199999999,19.3599977459604,2020,10,Sunday
+Portugal,201537.12,166127.05,2020-10-06,Outdoors,Connelly-Mohr,Celine Tumasian,Brynn Dempster,Pc,20-7532198,35410.07,17.5699990155659,2020,10,Tuesday
+Portugal,242192.19,213104.91,2019-02-07,Accessories,"Schowalter, Lesch And Beahan",Celine Tumasian,Smitty Culverhouse,Pc,96-7618409,29087.28,12.0099991663645,2019,2,Thursday
+Luxembourg,172397.66,139986.9,2019-01-27,Clothing,Johns And Sons,Ilsa Kob,Jocelyn Laurentino,Pc,47-8186791,32410.76,18.7999999535956,2019,1,Sunday
+Belgium,152370.57,128478.86,2019-11-20,Games,"Swaniawski, Runolfsson And Green",Lambert Norheny,Collin Mackness,Pc,61-8262308,23891.71,15.6800030347067,2019,11,Wednesday
+Portugal,137419.3,117658.4,2020-05-15,Games,Hane Inc,Celine Tumasian,Smitty Culverhouse,Mobile,39-1945268,19760.8999999999,14.3800033910811,2020,5,Friday
+France,67594.1,54920.21,2019-09-26,Other,"Rowe, Hermiston And Kessler",Othello Bowes,Amelina Piscopiello,Pc,70-1769929,12673.89,18.7499944521785,2019,9,Thursday
+Luxembourg,72002.26,56996.99,2019-01-17,Appliances,Mcglynn-Prosacco,Ilsa Kob,Jocelyn Laurentino,Pc,65-0414599,15005.2699999999,20.8399986333762,2019,1,Thursday
+France,159926.16,126453.61,2020-12-09,Beauty,Mcglynn-Prosacco,Othello Bowes,Ora Grennan,Mobile,44-0517932,33472.55,20.9300029463597,2020,12,Wednesday
+France,65193.88,53113.45,2019-04-10,Beauty,Friesen And Sons,Othello Bowes,Maighdiln Upcraft,Pc,74-1131921,12080.43,18.5300061907651,2019,4,Wednesday
+Portugal,105374.44,89779.02,2020-02-18,Electronics,Stehr Llc,Celine Tumasian,Brynn Dempster,Pc,74-8625042,15595.4199999999,14.8000027331106,2020,2,Tuesday
+Uk,83097.4,68148.18,2019-03-22,Clothing,Corwin And Sons,Jessamine Apark,Jay Morefield,Tablet,36-0185776,14949.22,17.9899972802999,2019,3,Friday
+Sweden,139682.07,113212.32,2020-01-18,Games,Tromp Llc,Maxie Marrow,Anita Woakes,Pc,98-4157323,26469.75,18.9499983784604,2020,1,Saturday
+France,81095.39,64316.75,2020-08-09,Games,"Murray, Reichel And Nolan",Othello Bowes,Avrit Chanders,Pc,36-8783637,16778.64,20.6900046969377,2020,8,Sunday
+Bulgaria,91108.56,74089.48,2020-06-24,Appliances,Stehr Llc,Charil Alpe,Shermy Mcgready,Pc,34-0286364,17019.08,18.6800010888109,2020,6,Wednesday
+Luxembourg,47182.43,40576.89,2020-02-21,Smartphones,Kirlin And Sons,Ilsa Kob,Jocelyn Laurentino,Pc,82-0533747,6605.54,13.9999995761133,2020,2,Friday
+Finland,161984.91,138237.92,2020-08-06,Appliances,Romaguera-Dietrich,Hube Corey,Mellicent Mattys,Pc,59-9184649,23746.9899999999,14.6600013544471,2020,8,Thursday
+Sweden,116548.17,92119.67,2020-05-05,Clothing,Johns And Sons,Maxie Marrow,Anita Woakes,Pc,03-3136289,24428.5,20.9600030613951,2020,5,Tuesday
+Portugal,138764.6,111414.1,2020-10-05,Appliances,Johns And Sons,Celine Tumasian,Brynn Dempster,Pc,79-6676714,27350.5,19.7099980830845,2020,10,Monday
+France,148405.47,128845.63,2019-10-27,Electronics,Johns And Sons,Othello Bowes,Amelina Piscopiello,Pc,82-1082124,19559.8399999999,13.1799993625571,2019,10,Sunday
+Netherlands,138249.77,120277.3,2019-09-08,Games,Hessel-Stiedemann,Denice Amberg,Nero Harbisher,Pc,79-1331359,17972.4699999999,12.9999999276671,2019,9,Sunday
+Portugal,115718.87,100640.7,2019-04-24,Electronics,Hilll-Vandervort,Celine Tumasian,Aurelie Wren,Pc,84-7042200,15078.1699999999,13.0300010706983,2019,4,Wednesday
+Portugal,194326.7,169005.93,2019-07-07,Books,Johns And Sons,Celine Tumasian,Hortense Gerring,Mobile,42-5303223,25320.77,13.0300005094513,2019,7,Sunday
+France,38648.72,32368.3,2020-04-12,Beauty,"Leffler, Prohaska And Streich",Othello Bowes,Crysta Halls,Tablet,04-6732680,6280.42,16.2500077622234,2020,4,Sunday
+Sweden,58010.14,46089.06,2019-11-09,Appliances,"Bashirian, Okuneva And Bechtelar",Maxie Marrow,Tarrah Castelletti,Pc,84-9167618,11921.08,20.5499935011361,2019,11,Saturday
+France,82697.53,69548.62,2020-12-08,Games,Kihn Inc,Othello Bowes,Avrit Chanders,Pc,47-5319780,13148.91,15.9000033011868,2020,12,Tuesday
+Sweden,68086.96,58759.05,2019-11-26,Electronics,Stamm-Zulauf,Maxie Marrow,Tarrah Castelletti,Pc,20-1013432,9327.91,13.6999948301407,2019,11,Tuesday
+Bulgaria,111106.06,93195.76,2020-11-11,Games,"Hermiston, Simonis And Wisoky",Charil Alpe,Bernadine Fullagar,Pc,87-5540520,17910.3,16.1200028153279,2020,11,Wednesday
+Portugal,227830.33,182173.13,2020-10-06,Books,O'Connell-Mitchell,Celine Tumasian,Aurelie Wren,Pc,59-3526945,45657.1999999999,20.0400008199083,2020,10,Tuesday
+France,87355.7,74584.3,2019-03-02,Smartphones,Smith Group,Othello Bowes,Crysta Halls,Pc,33-4706706,12771.3999999999,14.6199961765517,2019,3,Saturday
+France,164267.72,139069.05,2020-08-10,Appliances,Hilll-Vandervort,Othello Bowes,Crysta Halls,Pc,51-9052860,25198.67,15.3400010665516,2020,8,Monday
+Uk,92179.76,74794.66,2020-07-25,Beauty,"Dickinson, Hyatt And Berge",Jessamine Apark,Jay Morefield,Tablet,99-9021526,17385.0999999999,18.8599970318863,2020,7,Saturday
+Sweden,124093.76,105231.51,2019-10-15,Electronics,Armstrong-Little,Maxie Marrow,Anita Woakes,Pc,87-0122224,18862.25,15.1999987751197,2019,10,Tuesday
+Uk,66391.58,52635.24,2019-04-12,Clothing,Friesen And Sons,Jessamine Apark,Winny Agnolo,Mobile,88-1711226,13756.34,20.7200069647386,2019,4,Friday
+France,197471.1,162577.96,2019-06-28,Appliances,Johns And Sons,Othello Bowes,Crysta Halls,Pc,59-5711012,34893.14,17.6699982934211,2019,6,Friday
+Uk,122627.2,100284.52,2019-12-05,Clothing,Wiza And Sons,Jessamine Apark,Winny Agnolo,Pc,65-0792739,22342.6799999999,18.2200033923958,2019,12,Thursday
+Uk,159052.7,127926.09,2019-01-06,Games,Stamm Inc,Jessamine Apark,Genevra Charrisson,Pc,75-7245546,31126.61,19.5699978686309,2019,1,Sunday
+Portugal,85515.6,67959.25,2019-10-13,Games,Larkin-Collier,Celine Tumasian,Brynn Dempster,Pc,05-0243828,17556.35,20.5299968660688,2019,10,Sunday
+Portugal,42847.46,34757.86,2020-10-22,Accessories,Morissette Group,Celine Tumasian,Aurelie Wren,Pc,14-9919657,8089.59999999999,18.8799989544304,2020,10,Thursday
+France,125499.82,100977.16,2019-08-04,Beauty,"Spencer, Rogahn And Muller",Othello Bowes,Ora Grennan,Pc,47-9191500,24522.66,19.5399961529825,2019,8,Sunday
+Finland,222379.49,192869.73,2019-10-07,Beauty,Labadie And Sons,Hube Corey,Mellicent Mattys,Mobile,51-3543971,29509.7599999999,13.2700007541162,2019,10,Monday
+Portugal,85390.17,74400.46,2019-01-25,Electronics,Stamm-Zulauf,Celine Tumasian,Brynn Dempster,Pc,14-4225824,10989.7099999999,12.8699942862275,2019,1,Friday
+Portugal,97514.7,80790.93,2020-12-02,Appliances,Tillman And Sons,Celine Tumasian,Hortense Gerring,Pc,88-1349718,16723.77,17.1499989232392,2020,12,Wednesday
+Uk,87321.89,69254.99,2019-01-17,Electronics,Tillman And Sons,Jessamine Apark,Winny Agnolo,Mobile,62-5120016,18066.8999999999,20.6900010982355,2019,1,Thursday
+Sweden,205059.8,173029.46,2020-06-23,Electronics,Stehr-Bogan,Maxie Marrow,Caro Morfield,Pc,19-4538571,32030.3399999999,15.6199996293764,2020,6,Tuesday
+Portugal,105833.52,85312.4,2019-03-20,Smartphones,Mcglynn-Prosacco,Celine Tumasian,Corene Shirer,Pc,01-1212783,20521.12,19.3900004459834,2019,3,Wednesday
+France,40043.11,35109.8,2020-07-09,Appliances,Romaguera-Haley,Othello Bowes,Ora Grennan,Pc,58-8728288,4933.30999999999,12.3199971231005,2020,7,Thursday
+Portugal,57859.08,47756.88,2019-08-12,Books,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,Mobile,95-2190016,10102.2,17.4600080056578,2019,8,Monday
+France,132235.46,114132.43,2020-01-06,Books,"Zieme, Bailey And Herzog",Othello Bowes,Ora Grennan,Pc,95-4388709,18103.03,13.6899966166412,2020,1,Monday
+Uk,33724.53,26770.53,2020-01-30,Beauty,Gorczany-Lehner,Jessamine Apark,Winny Agnolo,Mobile,57-8678621,6954.0,20.6200056753941,2020,1,Thursday
+Ireland,36070.76,29339.96,2019-05-17,Other,Friesen-Rath,Glenine Suttaby,Bunnie Tonbridge,Mobile,22-4278602,6730.8,18.659989420794,2019,5,Friday
+Sweden,39457.34,32793.0,2020-10-20,Beauty,Morissette Group,Maxie Marrow,Anita Woakes,Pc,98-3280428,6664.33999999999,16.8899880225073,2020,10,Tuesday
+Italy,38536.92,32001.06,2020-05-28,Books,"Spencer, Rogahn And Muller",Piggy Roscrigg,Joshua Prevost,Mobile,61-4366487,6535.85999999999,16.9599957651,2020,5,Thursday
+France,173829.96,149824.04,2019-09-23,Beauty,Dibbert Inc,Othello Bowes,Amelina Piscopiello,Pc,55-2128150,24005.9199999999,13.8100014519936,2019,9,Monday
+Portugal,37521.39,29701.93,2020-01-18,Beauty,Friesen-Rath,Celine Tumasian,Hortense Gerring,Pc,60-0610487,7819.45999999999,20.8400061938003,2020,1,Saturday
+Portugal,119409.43,102656.29,2019-06-25,Electronics,"Spencer, Rogahn And Muller",Celine Tumasian,Hortense Gerring,Pc,02-9253490,16753.14,14.0299974633494,2019,6,Tuesday
+Denmark,248261.86,206727.65,2019-12-22,Smartphones,Gleichner-Green,Modestia Byfford,Case Desorts,Pc,65-2343846,41534.2099999999,16.730000331102,2019,12,Sunday
+Uk,96669.92,76475.57,2020-12-27,Appliances,Johns And Sons,Jessamine Apark,Winny Agnolo,Mobile,20-0499139,20194.3499999999,20.8900038398707,2020,12,Sunday
+France,264149.91,208757.67,2020-12-20,Smartphones,"Schmitt, Purdy And Johnson",Othello Bowes,Avrit Chanders,Pc,32-3994860,55392.2399999999,20.9700014662128,2020,12,Sunday
+Portugal,216863.04,175355.45,2019-07-24,Beauty,"Dickinson, Hyatt And Berge",Celine Tumasian,Corene Shirer,Tablet,72-7973717,41507.59,19.1400019108834,2019,7,Wednesday
+France,140943.88,120633.87,2020-05-28,Appliances,Armstrong-Little,Othello Bowes,Avrit Chanders,Tablet,77-0650807,20310.01,14.409997794867,2020,5,Thursday
+Luxembourg,82525.61,68446.74,2019-01-03,Clothing,Johns And Sons,Ilsa Kob,Jocelyn Laurentino,Pc,34-5150360,14078.8699999999,17.0600011317698,2019,1,Thursday
+Portugal,19622.59,17148.18,2020-06-03,Clothing,"Fisher, Morar And Skiles",Celine Tumasian,Aurelie Wren,Pc,73-4726386,2474.41,12.6100071397302,2020,6,Wednesday
+Sweden,263713.12,216165.64,2020-06-30,Electronics,"Schmitt, Purdy And Johnson",Maxie Marrow,Tarrah Castelletti,Pc,78-6165949,47547.4799999999,18.0300016927485,2020,6,Tuesday
+Portugal,284298.56,229656.38,2020-03-07,Clothing,Stehr Llc,Celine Tumasian,Corene Shirer,Pc,74-0191565,54642.1799999999,19.2199988631669,2020,3,Saturday
+Sweden,98320.37,77722.25,2020-08-23,Games,Konopelski Llc,Maxie Marrow,Tarrah Castelletti,Tablet,02-3364199,20598.1199999999,20.9500025274518,2020,8,Sunday
+Uk,128112.26,104975.19,2020-09-12,Books,Hessel-Stiedemann,Jessamine Apark,Jay Morefield,Pc,39-8642490,23137.0699999999,18.0599967559701,2020,9,Saturday
+France,110878.97,90588.12,2020-06-02,Appliances,Konopelski Llc,Othello Bowes,Amelina Piscopiello,Pc,50-8357453,20290.85,18.2999986381547,2020,6,Tuesday
+Sweden,66225.71,52437.52,2020-05-09,Books,Larkin-Collier,Maxie Marrow,Alyosha Meah,Pc,68-6900528,13788.19,20.819995738815,2020,5,Saturday
+Uk,73727.91,64047.44,2020-11-10,Books,Romaguera-Haley,Jessamine Apark,Winny Agnolo,Pc,92-5154775,9680.47,13.1299937839008,2020,11,Tuesday
+Denmark,22164.96,17938.1,2019-03-14,Books,Wyman Group,Modestia Byfford,Case Desorts,Pc,60-7777080,4226.86,19.0700096007391,2019,3,Thursday
+France,151855.04,129486.79,2019-01-16,Electronics,Considine-Fisher,Othello Bowes,Amelina Piscopiello,Pc,54-1473475,22368.25,14.7300017174273,2019,1,Wednesday
+Finland,106115.85,93063.6,2020-02-15,Electronics,Johns And Sons,Hube Corey,Mellicent Mattys,Tablet,51-4531731,13052.25,12.3000004240648,2020,2,Saturday
+France,89369.0,72889.36,2020-02-01,Smartphones,"Swaniawski, Runolfsson And Green",Othello Bowes,Ora Grennan,Pc,20-6735303,16479.64,18.4399959717575,2020,2,Saturday
+Sweden,106076.67,84765.87,2019-10-10,Electronics,Romaguera-Haley,Maxie Marrow,Madelon Bront,Mobile,97-5858605,21310.8,20.0899971690287,2019,10,Thursday
+Netherlands,23290.84,19147.4,2019-02-25,Electronics,Konopelski Llc,Denice Amberg,Nero Harbisher,Pc,02-2183787,4143.43999999999,17.7899981280194,2019,2,Monday
+France,83340.04,73264.23,2020-05-18,Clothing,Johns And Sons,Othello Bowes,Amelina Piscopiello,Pc,65-5818172,10075.8099999999,12.0899989968807,2020,5,Monday
+Denmark,39287.29,31708.77,2019-03-15,Games,Tillman And Sons,Modestia Byfford,Cobby Andersen,Pc,03-8586261,7578.52,19.2900044772749,2019,3,Friday
+Bulgaria,124611.61,107776.58,2020-09-19,Electronics,Wiza And Sons,Charil Alpe,Shermy Mcgready,Pc,86-0928074,16835.03,13.5100011949127,2020,9,Saturday
+France,147055.1,126114.45,2019-04-15,Games,Friesen-Rath,Othello Bowes,Crysta Halls,Pc,77-1100434,20940.65,14.2400025568647,2019,4,Monday
+Ireland,130242.41,113050.41,2020-12-30,Smartphones,Johns And Sons,Glenine Suttaby,Palm Wetherald,Pc,70-7426559,17192.0,13.2000014434622,2020,12,Wednesday
+France,34771.79,28509.39,2020-03-19,Smartphones,"Rowe, Hermiston And Kessler",Othello Bowes,Maighdiln Upcraft,Pc,45-5963143,6262.4,18.0100017859304,2020,3,Thursday
+Portugal,201573.23,166116.5,2019-05-12,Games,Schuster Inc,Celine Tumasian,Corene Shirer,Mobile,94-3590580,35456.73,17.589999426015,2019,5,Sunday
+Sweden,71119.23,59220.98,2019-09-03,Books,Johns And Sons,Maxie Marrow,Alyosha Meah,Pc,52-5981325,11898.2499999999,16.7300039665783,2019,9,Tuesday
+Portugal,115538.34,99686.48,2020-01-28,Games,Larkin-Collier,Celine Tumasian,Smitty Culverhouse,Pc,74-7472724,15851.86,13.7199997853526,2020,1,Tuesday
+Portugal,144237.38,116111.09,2020-05-11,Books,Johns And Sons,Celine Tumasian,Hortense Gerring,Pc,03-3965480,28126.29,19.5000006239714,2020,5,Monday
+Uk,91561.49,78266.76,2019-03-25,Books,Armstrong-Little,Jessamine Apark,Winny Agnolo,Pc,64-4188827,13294.73,14.5200018042519,2019,3,Monday
+Sweden,233858.47,185543.31,2020-02-06,Beauty,Romaguera-Dietrich,Maxie Marrow,Alyosha Meah,Pc,66-5572109,48315.16,20.6600000419056,2020,2,Thursday
+Uk,256388.08,212058.58,2019-05-12,Appliances,Tromp Llc,Jessamine Apark,Jay Morefield,Mobile,44-2994974,44329.5,17.2900003775526,2019,5,Sunday
+Uk,125099.05,108473.39,2020-05-03,Books,Dibbert Inc,Jessamine Apark,Genevra Charrisson,Pc,30-7981953,16625.66,13.2899970063721,2020,5,Sunday
+Uk,121246.32,104005.09,2020-05-30,Books,Altenwerth-Konopelski,Jessamine Apark,Winny Agnolo,Pc,82-9740062,17241.23,14.220002718433,2020,5,Saturday
+Finland,28538.19,24970.92,2019-05-27,Games,Hilll-Vandervort,Hube Corey,Wat Bowkley,Pc,28-7069317,3567.27,12.4999868597132,2019,5,Monday
+France,89930.18,78005.44,2020-03-26,Other,Hessel-Stiedemann,Othello Bowes,Maighdiln Upcraft,Pc,65-0441590,11924.7399999999,13.259997922833,2020,3,Thursday
+Sweden,170457.8,142809.54,2020-08-14,Accessories,"Shanahan, Schaden And Parker",Maxie Marrow,Anita Woakes,Pc,60-1991659,27648.2599999999,16.2200028394124,2020,8,Friday
+Uk,166380.74,146049.01,2020-06-23,Smartphones,Labadie And Sons,Jessamine Apark,Genevra Charrisson,Pc,15-2948501,20331.7299999999,12.220002146883,2020,6,Tuesday
+France,116328.75,93365.45,2019-09-27,Appliances,"Schowalter, Lesch And Beahan",Othello Bowes,Crysta Halls,Pc,02-6830973,22963.3,19.7400040832554,2019,9,Friday
+Germany,230765.62,195435.4,2019-07-18,Beauty,Johns And Sons,Rickard Doogood,Casie Macbain,Pc,70-0112393,35330.22,15.3100015504909,2019,7,Thursday
+Portugal,152442.32,122258.74,2020-06-10,Electronics,Johns And Sons,Celine Tumasian,Aurelie Wren,Pc,04-6161825,30183.58,19.8000004198309,2020,6,Wednesday
+Sweden,325331.99,264592.51,2019-12-23,Games,Altenwerth-Konopelski,Maxie Marrow,Caro Morfield,Mobile,57-4142025,60739.4799999999,18.6699992214107,2019,12,Monday
+Uk,56768.43,47384.61,2019-04-22,Games,Kihn Inc,Jessamine Apark,Winny Agnolo,Pc,84-9254695,9383.82,16.5299973946787,2019,4,Monday
+Portugal,147895.45,120416.48,2019-01-07,Clothing,Wisoky Inc,Celine Tumasian,Hortense Gerring,Mobile,17-1884075,27478.97,18.5799968829331,2019,1,Monday
+Ireland,57107.26,48232.79,2020-02-13,Outdoors,Altenwerth-Konopelski,Glenine Suttaby,Bunnie Tonbridge,Mobile,49-6263811,8874.47,15.5400031449591,2020,2,Thursday
+France,85337.78,72306.7,2020-04-02,Appliances,"Lubowitz, Mclaughlin And Erdman",Othello Bowes,Crysta Halls,Mobile,78-6287811,13031.08,15.270001164783,2020,4,Thursday
+France,162199.24,130878.57,2020-06-22,Appliances,West-Cummings,Othello Bowes,Avrit Chanders,Pc,75-1807214,31320.6699999999,19.3099979999906,2020,6,Monday
+Sweden,128208.95,111746.92,2020-07-31,Appliances,Dibbert Inc,Maxie Marrow,Alyosha Meah,Pc,72-1300449,16462.03,12.8400006395809,2020,7,Friday
+Germany,86669.23,71580.12,2020-03-18,Appliances,Hessel-Stiedemann,Rickard Doogood,Casie Macbain,Pc,22-4332301,15089.11,17.4099966043312,2020,3,Wednesday
+Ireland,117288.29,94546.09,2019-04-07,Clothing,Johns And Sons,Glenine Suttaby,Palm Wetherald,Pc,42-2477150,22742.1999999999,19.3900004851294,2019,4,Sunday
+France,57292.84,45908.75,2019-03-10,Electronics,"Zieme, Bailey And Herzog",Othello Bowes,Ora Grennan,Pc,18-5234470,11384.0899999999,19.8700046986674,2019,3,Sunday
+Portugal,110441.89,90970.98,2020-04-01,Beauty,"Heaney, Gulgowski And Kshlerin",Celine Tumasian,Hortense Gerring,Tablet,74-4541594,19470.91,17.6300043398388,2020,4,Wednesday
+Uk,53801.73,46785.98,2019-09-28,Games,Johns And Sons,Jessamine Apark,Jay Morefield,Pc,16-6855831,7015.75,13.040008193045,2019,9,Saturday
+Uk,308763.51,245714.0,2020-04-12,Outdoors,Kihn Inc,Jessamine Apark,Winny Agnolo,Pc,46-5327740,63049.51,20.4200004074315,2020,4,Sunday
+Portugal,87409.49,70548.2,2020-11-29,Games,Hessel-Stiedemann,Celine Tumasian,Brynn Dempster,Pc,06-4416964,16861.29,19.2899992895508,2020,11,Sunday
+Denmark,31936.44,27708.06,2020-09-17,Books,"Hartmann, Hane And Pfannerstill",Modestia Byfford,Cobby Andersen,Pc,46-6076582,4228.37999999999,13.2399854210425,2020,9,Thursday
+Sweden,45463.65,36907.39,2020-08-29,Clothing,Schuster Inc,Maxie Marrow,Alyosha Meah,Pc,38-1449694,8556.26,18.8200023535285,2020,8,Saturday
+Sweden,112909.4,93940.62,2019-04-25,Clothing,Johns And Sons,Maxie Marrow,Madelon Bront,Pc,39-3557596,18968.78,16.8000007085326,2019,4,Thursday
+Portugal,126346.44,103970.49,2019-08-04,Smartphones,Johns And Sons,Celine Tumasian,Corene Shirer,Pc,26-9990483,22375.9499999999,17.7099964193688,2019,8,Sunday
+Portugal,109713.84,95769.21,2020-07-05,Smartphones,"Bashirian, Okuneva And Bechtelar",Celine Tumasian,Aurelie Wren,Pc,31-7075495,13944.6299999999,12.7100008531284,2020,7,Sunday
+Netherlands,200472.46,170181.07,2020-06-19,Electronics,Wiza And Sons,Denice Amberg,Nero Harbisher,Pc,98-5774102,30291.3899999999,15.1100006454751,2020,6,Friday
+France,35214.85,27985.24,2019-03-13,Electronics,"Lueilwitz, Kerluke And Lesch",Othello Bowes,Ora Grennan,Pc,46-5580805,7229.60999999999,20.5300036774258,2019,3,Wednesday
+Ireland,161630.62,133991.78,2019-04-04,Appliances,Friesen-Rath,Glenine Suttaby,Palm Wetherald,Pc,39-6568658,27638.8399999999,17.1000024624047,2019,4,Thursday
+Portugal,179184.12,142433.46,2020-08-05,Appliances,"Hamill, Kulas And Roob",Celine Tumasian,Brynn Dempster,Pc,85-1464621,36750.66,20.5099983190474,2020,8,Wednesday
+Sweden,80867.18,63982.11,2019-12-02,Books,Dibbert Inc,Maxie Marrow,Anita Woakes,Pc,86-6763776,16885.0699999999,20.8800034822532,2019,12,Monday
+France,96613.06,79242.03,2019-04-24,Books,Johns And Sons,Othello Bowes,Ora Grennan,Pc,03-7559332,17371.03,17.9800018755228,2019,4,Wednesday
+Portugal,89600.45,70811.24,2020-01-21,Games,Wisoky Inc,Celine Tumasian,Smitty Culverhouse,Pc,36-7939842,18789.2099999999,20.9699951283726,2020,1,Tuesday
+Portugal,41921.61,34773.98,2020-11-28,Games,Gislason-Stanton,Celine Tumasian,Hortense Gerring,Tablet,38-7603760,7147.62999999999,17.0499892537524,2020,11,Saturday
+Uk,151012.12,126080.02,2020-08-25,Accessories,Johns And Sons,Jessamine Apark,Jay Morefield,Pc,11-5630090,24932.0999999999,16.5099993298551,2020,8,Tuesday
+Portugal,112481.44,96700.29,2020-11-04,Electronics,"Dickinson, Hyatt And Berge",Celine Tumasian,Hortense Gerring,Mobile,97-6414953,15781.15,14.0300035276931,2020,11,Wednesday
+France,90228.68,77966.6,2019-01-27,Electronics,Wiza And Sons,Othello Bowes,Avrit Chanders,Pc,64-9816105,12262.0799999999,13.5900026466085,2019,1,Sunday
+Uk,141552.4,122994.88,2019-09-17,Beauty,"Dickinson, Hyatt And Berge",Jessamine Apark,Winny Agnolo,Pc,59-0893568,18557.5199999999,13.1100002543227,2019,9,Tuesday
+Uk,29783.39,23719.49,2019-11-27,Books,"Schmitt, Purdy And Johnson",Jessamine Apark,Winny Agnolo,Pc,18-0945763,6063.89999999999,20.3600060302067,2019,11,Wednesday
+Sweden,149938.71,131541.23,2020-12-24,Books,Walter Llc,Maxie Marrow,Madelon Bront,Pc,26-1771681,18397.4799999999,12.2700001887437,2020,12,Thursday
+Sweden,103839.74,90683.24,2020-08-23,Books,Schoen-Keeling,Maxie Marrow,Tarrah Castelletti,Pc,57-6427586,13156.5,12.6700047592569,2020,8,Sunday
+Portugal,30550.32,25457.58,2019-05-31,Beauty,"Farrell, Swaniawski And Crist",Celine Tumasian,Smitty Culverhouse,Mobile,73-3910940,5092.73999999999,16.6700054205651,2019,5,Friday
+Sweden,24787.65,20454.77,2019-12-02,Other,"Lueilwitz, Kerluke And Lesch",Maxie Marrow,Caro Morfield,Pc,34-8728117,4332.88,17.4799950781941,2019,12,Monday
+France,122468.33,103032.61,2020-08-09,Electronics,Johns And Sons,Othello Bowes,Avrit Chanders,Mobile,53-7680732,19435.72,15.869996757529,2020,8,Sunday
+Sweden,137026.71,120117.61,2020-08-26,Smartphones,Mcglynn-Bergstrom,Maxie Marrow,Anita Woakes,Pc,86-6380587,16909.0999999999,12.3400029089219,2020,8,Wednesday
+Finland,132246.48,106841.93,2019-02-01,Games,Friesen-Rath,Hube Corey,Mellicent Mattys,Pc,95-1862126,25404.55,19.2100009013472,2019,2,Friday
+Portugal,111551.96,89420.05,2020-06-01,Clothing,Wunsch Llc,Celine Tumasian,Aurelie Wren,Pc,41-6241712,22131.91,19.8400010183595,2020,6,Monday
+France,127946.33,111850.68,2019-09-09,Beauty,"Hamill, Kulas And Roob",Othello Bowes,Crysta Halls,Pc,32-3418936,16095.65,12.58000131774,2019,9,Monday
+Sweden,78679.6,62416.53,2019-12-10,Games,Stehr Llc,Maxie Marrow,Tarrah Castelletti,Pc,10-1511807,16263.07,20.6699957803547,2019,12,Tuesday
+Uk,86071.63,71198.45,2019-11-13,Electronics,Gislason-Stanton,Jessamine Apark,Genevra Charrisson,Tablet,66-6360568,14873.18,17.2800027140185,2019,11,Wednesday
+Portugal,134120.38,105981.92,2020-04-30,Games,Mcglynn-Bergstrom,Celine Tumasian,Brynn Dempster,Pc,63-4386955,28138.46,20.9800031881806,2020,4,Thursday
+Spain,77855.47,63545.63,2019-08-13,Outdoors,Goldner-Dibbert,Emalia Dinse,Bertha Walbrook,Pc,77-3226391,14309.84,18.3800059263658,2019,8,Tuesday
+Uk,176080.36,153401.21,2019-11-13,Beauty,Tillman And Sons,Jessamine Apark,Jay Morefield,Pc,74-9554997,22679.1499999999,12.8799997910045,2019,11,Wednesday
+Portugal,159514.03,138872.91,2020-09-23,Clothing,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,Pc,37-0756560,20641.1199999999,12.9400028323527,2020,9,Wednesday
+France,238850.25,199607.15,2019-06-30,Appliances,"Rowe, Hermiston And Kessler",Othello Bowes,Ora Grennan,Pc,19-9649739,39243.1,16.430001643289,2019,6,Sunday
+Sweden,240940.97,195138.09,2019-12-27,Accessories,Wunsch Llc,Maxie Marrow,Tarrah Castelletti,Pc,91-4735064,45802.88,19.0100006653081,2019,12,Friday
+Denmark,109892.92,89441.85,2020-06-05,Books,"Lubowitz, Mclaughlin And Erdman",Modestia Byfford,Cobby Andersen,Pc,82-1337530,20451.0699999999,18.6099978051361,2020,6,Friday
+Germany,86704.08,75380.53,2020-05-10,Books,Tillman And Sons,Rickard Doogood,Casie Macbain,Pc,39-3209780,11323.55,13.0599967152641,2020,5,Sunday
+Ireland,292124.64,245822.88,2019-09-12,Beauty,"Christiansen, Donnelly And Bechtelar",Glenine Suttaby,Palm Wetherald,Pc,18-0483044,46301.76,15.8500015609775,2019,9,Thursday
+Bulgaria,122998.65,97476.43,2020-01-28,Games,Armstrong-Little,Charil Alpe,Bernadine Fullagar,Pc,70-0044622,25522.22,20.7500001016271,2020,1,Tuesday
+Sweden,50646.66,43039.53,2020-01-04,Clothing,Johns And Sons,Maxie Marrow,Madelon Bront,Pc,43-1236055,7607.13,15.0200032934057,2020,1,Saturday
+Sweden,89639.28,77788.97,2019-01-25,Clothing,Altenwerth-Konopelski,Maxie Marrow,Madelon Bront,Pc,25-6133000,11850.3099999999,13.21999685852,2019,1,Friday
+Spain,107359.01,90868.67,2019-10-29,Electronics,Kirlin And Sons,Emalia Dinse,Perri Aldersley,Pc,78-7666796,16490.3399999999,15.3599963337962,2019,10,Tuesday
+Luxembourg,148359.68,118480.04,2020-07-23,Games,"Dickinson, Hyatt And Berge",Ilsa Kob,Jocelyn Laurentino,Pc,45-1867999,29879.64,20.1400003019688,2020,7,Thursday
+Finland,177464.83,142717.22,2020-01-25,Outdoors,Gislason-Stanton,Hube Corey,Mellicent Mattys,Pc,97-5797169,34747.6099999999,19.5799979071909,2020,1,Saturday
+Portugal,168757.23,136895.86,2020-08-24,Appliances,Labadie And Sons,Celine Tumasian,Aurelie Wren,Pc,31-6585710,31861.37,18.8800029486144,2020,8,Monday
+France,19814.86,16787.15,2020-03-20,Appliances,"Murray, Reichel And Nolan",Othello Bowes,Avrit Chanders,Pc,84-0460695,3027.70999999999,15.2799969315957,2020,3,Friday
+Belgium,46311.34,40564.1,2020-01-03,Accessories,"Heaney, Gulgowski And Kshlerin",Lambert Norheny,Collin Mackness,Pc,20-4568650,5747.23999999999,12.4100058430613,2020,1,Friday
+France,144927.17,122260.56,2020-07-09,Appliances,Romaguera-Dietrich,Othello Bowes,Crysta Halls,Pc,29-9208067,22666.61,15.640000422281,2020,7,Thursday
+Netherlands,203231.73,163052.82,2019-12-23,Books,Schuster Inc,Denice Amberg,Nero Harbisher,Pc,21-2357660,40178.91,19.7699985135195,2019,12,Monday
+Portugal,40467.85,34656.67,2020-02-28,Smartphones,"Swaniawski, Runolfsson And Green",Celine Tumasian,Corene Shirer,Tablet,16-3842379,5811.18,14.3599919442223,2020,2,Friday
+Sweden,85156.7,69479.35,2020-05-19,Beauty,"Lubowitz, Mclaughlin And Erdman",Maxie Marrow,Caro Morfield,Pc,58-5376153,15677.3499999999,18.4100017966877,2020,5,Tuesday
+Portugal,66146.57,56145.21,2020-07-04,Electronics,Hessel-Stiedemann,Celine Tumasian,Brynn Dempster,Pc,04-1808253,10001.36,15.1199979076768,2020,7,Saturday
+Bulgaria,230669.37,182321.07,2019-05-06,Books,Altenwerth-Konopelski,Charil Alpe,Bernadine Fullagar,Pc,44-9036885,48348.2999999999,20.9600000208089,2019,5,Monday
+Uk,59043.39,48876.12,2020-10-27,Smartphones,"Murray, Reichel And Nolan",Jessamine Apark,Genevra Charrisson,Pc,35-0548738,10167.2699999999,17.2199970225286,2020,10,Tuesday
+Ireland,99887.86,84045.65,2020-10-03,Electronics,Friesen-Rath,Glenine Suttaby,Bunnie Tonbridge,Pc,64-0103144,15842.21,15.8599953988402,2020,10,Saturday
+Netherlands,214983.15,180413.86,2019-11-06,Beauty,Mcclure Inc,Denice Amberg,Nero Harbisher,Tablet,48-7080069,34569.29,16.0799997581205,2019,11,Wednesday
+Portugal,52209.31,41480.3,2019-03-26,Beauty,Mcclure Inc,Celine Tumasian,Corene Shirer,Pc,05-2772504,10729.0099999999,20.5499938612481,2019,3,Tuesday
+Sweden,83782.11,67310.55,2019-10-02,Electronics,"Christiansen, Donnelly And Bechtelar",Maxie Marrow,Madelon Bront,Pc,42-2439801,16471.5599999999,19.6599966269648,2019,10,Wednesday
+Portugal,166367.16,135788.88,2020-02-11,Beauty,Wisoky Inc,Celine Tumasian,Smitty Culverhouse,Pc,82-8353642,30578.28,18.3799975908706,2020,2,Tuesday
+Uk,167615.14,135567.12,2020-12-30,Smartphones,Johns And Sons,Jessamine Apark,Winny Agnolo,Pc,16-5450021,32048.02,19.1200031214364,2020,12,Wednesday
+Sweden,118030.7,97304.51,2019-04-09,Electronics,"Dickinson, Hyatt And Berge",Maxie Marrow,Madelon Bront,Pc,80-1021367,20726.19,17.5599992205417,2019,4,Tuesday
+Netherlands,102073.04,81770.71,2020-02-03,Outdoors,"Farrell, Swaniawski And Crist",Denice Amberg,Nero Harbisher,Mobile,03-3076058,20302.3299999999,19.8900022963948,2020,2,Monday
+Finland,99989.89,81191.79,2019-11-15,Appliances,Corwin And Sons,Hube Corey,Wat Bowkley,Pc,92-4440351,18798.1,18.8000006800687,2019,11,Friday
+Sweden,79407.28,64383.42,2020-07-21,Accessories,"Jacobson, Marvin And Brown",Maxie Marrow,Alyosha Meah,Pc,15-3268783,15023.86,18.9200033044829,2020,7,Tuesday
+France,184431.48,153059.69,2019-07-12,Books,Johns And Sons,Othello Bowes,Ora Grennan,Mobile,44-7664180,31371.79,17.0099974256021,2019,7,Friday
+Portugal,144725.34,115056.65,2019-01-15,Smartphones,Wisoky Inc,Celine Tumasian,Aurelie Wren,Pc,92-7042708,29668.69,20.4999967524691,2019,1,Tuesday
+Uk,21921.66,18802.21,2020-05-03,Smartphones,"Swaniawski, Runolfsson And Green",Jessamine Apark,Jay Morefield,Tablet,21-8595718,3119.45,14.229989882153,2020,5,Sunday
+Portugal,21341.66,16930.34,2019-03-28,Games,Romaguera-Haley,Celine Tumasian,Smitty Culverhouse,Pc,06-4611284,4411.32,20.6699947426769,2019,3,Thursday
+Sweden,84537.2,69405.04,2020-01-19,Games,"Keeling, Monahan And Pollich",Maxie Marrow,Tarrah Castelletti,Mobile,04-4730440,15132.16,17.9000014194934,2020,1,Sunday
+France,40544.43,32666.65,2020-01-08,Books,Johns And Sons,Othello Bowes,Ora Grennan,Pc,89-7467187,7877.77999999999,19.4299932197838,2020,1,Wednesday
+Finland,178189.57,153421.22,2019-09-08,Games,Johns And Sons,Hube Corey,Mellicent Mattys,Pc,37-7100862,24768.35,13.8999998709239,2019,9,Sunday
+France,36276.11,28748.82,2019-03-23,Games,Johns And Sons,Othello Bowes,Ora Grennan,Pc,20-9472915,7527.29,20.7499922125056,2019,3,Saturday
+Sweden,36181.81,29698.03,2020-10-27,Appliances,Altenwerth-Konopelski,Maxie Marrow,Madelon Bront,Tablet,82-8836162,6483.77999999999,17.9199990271354,2020,10,Tuesday
+Uk,66613.31,55462.24,2019-09-25,Electronics,Labadie And Sons,Jessamine Apark,Genevra Charrisson,Pc,38-8230515,11151.07,16.74000286129,2019,9,Wednesday
+Ireland,77278.68,62951.21,2020-02-10,Smartphones,Dibbert Inc,Glenine Suttaby,Palm Wetherald,Pc,46-8792953,14327.4699999999,18.5400035300809,2020,2,Monday
+Uk,149938.36,123579.2,2020-11-14,Appliances,Johns And Sons,Jessamine Apark,Jay Morefield,Pc,93-0380487,26359.1599999999,17.5799975403225,2020,11,Saturday
+Spain,123953.65,101939.48,2019-08-05,Beauty,Wiza And Sons,Emalia Dinse,Perri Aldersley,Pc,44-2650716,22014.17,17.7600014198855,2019,8,Monday
+Sweden,73773.6,58421.31,2020-01-21,Books,Tromp Llc,Maxie Marrow,Caro Morfield,Mobile,78-7812852,15352.29,20.810005205114,2020,1,Tuesday
+Portugal,206869.73,180928.27,2020-07-20,Electronics,"Spencer, Rogahn And Muller",Celine Tumasian,Corene Shirer,Pc,11-2653878,25941.46,12.5399979977737,2020,7,Monday
+France,63690.72,53455.62,2020-08-27,Electronics,Hegmann Group,Othello Bowes,Crysta Halls,Mobile,74-9856135,10235.0999999999,16.0700020348333,2020,8,Thursday
+Uk,18897.97,16469.58,2020-02-16,Other,Hessel-Stiedemann,Jessamine Apark,Winny Agnolo,Mobile,22-8551804,2428.38999999999,12.8500045242954,2020,2,Sunday
+Portugal,134807.18,108047.95,2020-12-29,Beauty,"Zieme, Bailey And Herzog",Celine Tumasian,Corene Shirer,Pc,76-2368068,26759.2299999999,19.8500035383871,2020,12,Tuesday
+Uk,47082.67,37882.72,2020-06-30,Games,"Schowalter, Lesch And Beahan",Jessamine Apark,Winny Agnolo,Pc,83-0606533,9199.94999999999,19.5399921032515,2020,6,Tuesday
+Portugal,41016.31,32985.32,2019-09-05,Beauty,Homenick-Marvin,Celine Tumasian,Corene Shirer,Tablet,84-1745028,8030.98999999999,19.5799914716852,2019,9,Thursday
+Sweden,43243.45,37764.5,2019-05-16,Clothing,Johns And Sons,Maxie Marrow,Alyosha Meah,Pc,63-2957047,5478.94999999999,12.6700112965084,2019,5,Thursday
+Sweden,88832.28,71501.1,2019-12-23,Electronics,"Murray, Reichel And Nolan",Maxie Marrow,Tarrah Castelletti,Pc,90-3993986,17331.1799999999,19.5100024450571,2019,12,Monday
+France,173456.4,149866.33,2019-09-25,Books,Johns And Sons,Othello Bowes,Avrit Chanders,Mobile,00-1398218,23590.07,13.5999997693945,2019,9,Wednesday
+Spain,90926.92,73050.69,2020-03-24,Smartphones,"Leffler, Prohaska And Streich",Emalia Dinse,Perri Aldersley,Pc,09-9618844,17876.2299999999,19.6599972813331,2020,3,Tuesday
+Sweden,72757.01,63378.63,2020-05-03,Other,Hessel-Stiedemann,Maxie Marrow,Alyosha Meah,Pc,96-5143420,9378.37999999999,12.890001939332,2020,5,Sunday
+France,60068.71,47688.55,2020-09-05,Other,Friesen-Rath,Othello Bowes,Crysta Halls,Pc,99-0862667,12380.1599999999,20.6099981171561,2020,9,Saturday
+France,105522.72,86581.39,2019-02-16,Clothing,Gislason-Stanton,Othello Bowes,Amelina Piscopiello,Pc,79-6118087,18941.33,17.9500016678872,2019,2,Saturday
+Luxembourg,61374.06,49099.25,2020-02-20,Games,"Murray, Reichel And Nolan",Ilsa Kob,Jocelyn Laurentino,Pc,07-5296371,12274.8099999999,19.9999967412942,2020,2,Thursday
+Portugal,76856.57,65535.6,2019-05-31,Clothing,"Schowalter, Lesch And Beahan",Celine Tumasian,Hortense Gerring,Pc,93-9111830,11320.97,14.729996407594,2019,5,Friday
+Spain,174262.11,143278.31,2019-05-04,Games,Hessel-Stiedemann,Emalia Dinse,Perri Aldersley,Pc,47-0713476,30983.7999999999,17.7799981877873,2019,5,Saturday
+Sweden,151315.26,121173.26,2019-05-23,Beauty,Wiza And Sons,Maxie Marrow,Caro Morfield,Pc,92-2645259,30142.0,19.9200001374613,2019,5,Thursday
+Ireland,50495.53,40749.89,2020-08-31,Smartphones,"Heaney, Gulgowski And Kshlerin",Glenine Suttaby,Palm Wetherald,Mobile,93-4118211,9745.64,19.3000053668116,2020,8,Monday
+Uk,36534.09,31138.0,2020-07-17,Appliances,Wunsch Llc,Jessamine Apark,Winny Agnolo,Pc,90-7039701,5396.08999999999,14.7700134312911,2020,7,Friday
+France,134243.39,113019.51,2019-01-21,Beauty,Kihn Inc,Othello Bowes,Maighdiln Upcraft,Pc,64-1003834,21223.88,15.8100000305415,2019,1,Monday
+France,56068.7,47378.05,2019-06-02,Games,"Dickinson, Hyatt And Berge",Othello Bowes,Ora Grennan,Pc,24-2679038,8690.64999999999,15.5000026752894,2019,6,Sunday
+France,31161.76,27300.82,2020-09-05,Beauty,"Hermiston, Simonis And Wisoky",Othello Bowes,Maighdiln Upcraft,Mobile,06-4986886,3860.93999999999,12.3899933764973,2020,9,Saturday
+France,98915.41,85176.06,2020-02-04,Electronics,Schoen-Keeling,Othello Bowes,Ora Grennan,Mobile,63-5897834,13739.35,13.8899995460768,2020,2,Tuesday
+Ireland,114232.68,95795.52,2019-03-23,Clothing,Johns And Sons,Glenine Suttaby,Bunnie Tonbridge,Tablet,45-6860897,18437.1599999999,16.1400047692131,2019,3,Saturday
+Luxembourg,71360.36,59750.03,2019-02-01,Electronics,Tillman And Sons,Ilsa Kob,Jocelyn Laurentino,Pc,40-9830607,11610.33,16.2699991984345,2019,2,Friday
+Portugal,87459.79,69967.83,2020-11-16,Beauty,Romaguera-Haley,Celine Tumasian,Brynn Dempster,Mobile,09-8360520,17491.9599999999,20.0000022867651,2020,11,Monday
+Finland,52388.85,45641.17,2020-07-31,Electronics,Johns And Sons,Hube Corey,Mellicent Mattys,Pc,55-6785409,6747.68,12.8799925938439,2020,7,Friday
+Sweden,178304.35,153573.54,2020-09-12,Electronics,Dibbert Inc,Maxie Marrow,Tarrah Castelletti,Pc,12-4881666,24730.8099999999,13.8699981239941,2020,9,Saturday
+Uk,80013.81,65587.32,2020-01-27,Electronics,Romaguera-Dietrich,Jessamine Apark,Winny Agnolo,Pc,86-7866497,14426.4899999999,18.0300000712376,2020,1,Monday
+Ireland,88684.7,75337.65,2020-01-23,Other,"Leffler, Prohaska And Streich",Glenine Suttaby,Palm Wetherald,Pc,12-2375671,13347.05,15.050002988114,2020,1,Thursday
+Uk,161773.31,138283.83,2019-04-30,Books,Johns And Sons,Jessamine Apark,Jay Morefield,Pc,56-6310976,23489.48,14.519997149097,2019,4,Tuesday
+France,108968.67,88395.39,2019-10-17,Books,Johns And Sons,Othello Bowes,Ora Grennan,Pc,08-4398900,20573.28,18.8799955069654,2019,10,Thursday
+Uk,50374.22,44047.22,2019-07-10,Games,Armstrong-Little,Jessamine Apark,Genevra Charrisson,Pc,23-3084772,6327.0,12.5599959661906,2019,7,Wednesday
+Sweden,174380.2,151518.96,2019-02-01,Appliances,Larkin-Collier,Maxie Marrow,Tarrah Castelletti,Pc,33-8484080,22861.24,13.1099975800004,2019,2,Friday
+Bulgaria,81482.69,64721.7,2019-09-02,Electronics,Johns And Sons,Charil Alpe,Shermy Mcgready,Pc,28-0362135,16760.99,20.5700008185787,2019,9,Monday
+France,108158.8,89328.35,2020-09-10,Appliances,Altenwerth-Konopelski,Othello Bowes,Crysta Halls,Pc,53-4511393,18830.4499999999,17.410002699734,2020,9,Thursday
+Portugal,76943.74,62870.73,2019-01-06,Electronics,Johns And Sons,Celine Tumasian,Smitty Culverhouse,Pc,50-0521963,14073.01,18.289999940216,2019,1,Sunday
+Portugal,57345.79,45716.06,2020-09-11,Clothing,Walter Llc,Celine Tumasian,Hortense Gerring,Pc,75-6127722,11629.73,20.2800066055415,2020,9,Friday
+Sweden,71049.09,58842.86,2019-08-15,Outdoors,Corwin And Sons,Maxie Marrow,Madelon Bront,Pc,99-3994854,12206.2299999999,17.1799948458171,2019,8,Thursday
+France,79205.19,65423.49,2019-07-05,Games,"Christiansen, Donnelly And Bechtelar",Othello Bowes,Avrit Chanders,Tablet,45-5157875,13781.7,17.3999961366168,2019,7,Friday
+France,42290.45,34255.26,2019-10-11,Clothing,Walter Llc,Othello Bowes,Avrit Chanders,Tablet,97-8921759,8035.18999999999,19.0000106407001,2019,10,Friday
+France,110090.36,93433.69,2019-01-02,Clothing,"Leffler, Prohaska And Streich",Othello Bowes,Maighdiln Upcraft,Pc,43-6672888,16656.67,15.1299986665499,2019,1,Wednesday
+France,121043.69,96750.22,2020-09-28,Books,Hessel-Stiedemann,Othello Bowes,Crysta Halls,Pc,28-6152726,24293.47,20.0700011706516,2020,9,Monday
+Finland,130251.55,105386.53,2019-05-08,Beauty,Johns And Sons,Hube Corey,Mellicent Mattys,Pc,26-1201622,24865.02,19.089999312868,2019,5,Wednesday
+France,156110.4,132584.56,2019-07-22,Beauty,Stehr Llc,Othello Bowes,Maighdiln Upcraft,Pc,18-3315246,23525.8399999999,15.0700017423566,2019,7,Monday
+Sweden,122273.0,104531.19,2020-07-01,Appliances,Romaguera-Haley,Maxie Marrow,Caro Morfield,Pc,40-9114557,17741.8099999999,14.5099981189633,2020,7,Wednesday
+Portugal,126021.1,101762.04,2020-06-13,Beauty,Johns And Sons,Celine Tumasian,Hortense Gerring,Mobile,34-8443139,24259.06,19.2499986113436,2020,6,Saturday
+Sweden,69565.47,57808.91,2020-05-23,Beauty,Johns And Sons,Maxie Marrow,Anita Woakes,Pc,79-0393736,11756.5599999999,16.8999936318981,2020,5,Saturday
+Bulgaria,174271.91,142083.89,2019-05-20,Clothing,Hessel-Stiedemann,Charil Alpe,Shermy Mcgready,Pc,58-2923511,32188.0199999999,18.469998980329,2019,5,Monday
+Portugal,61994.02,54250.97,2019-02-19,Books,Friesen-Rath,Celine Tumasian,Corene Shirer,Pc,84-1343954,7743.04999999999,12.4899950027438,2019,2,Tuesday
+Sweden,207379.28,166442.61,2019-12-18,Accessories,Franecki-White,Maxie Marrow,Anita Woakes,Pc,43-9259516,40936.67,19.7400000617226,2019,12,Wednesday
+Sweden,153823.74,129258.09,2020-11-30,Electronics,West-Cummings,Maxie Marrow,Anita Woakes,Mobile,53-0009701,24565.6499999999,15.9699991691789,2020,11,Monday
+Portugal,251003.51,214105.99,2019-07-30,Clothing,Hilll-Vandervort,Celine Tumasian,Hortense Gerring,Pc,50-2002828,36897.52,14.7000016055552,2019,7,Tuesday
+Uk,78013.63,64509.47,2020-04-04,Clothing,"Keeling, Monahan And Pollich",Jessamine Apark,Genevra Charrisson,Pc,90-6933957,13504.16,17.3100008293422,2020,4,Saturday
+Finland,204138.34,165617.44,2019-06-20,Clothing,"Hartmann, Hane And Pfannerstill",Hube Corey,Wat Bowkley,Tablet,98-4201877,38520.8999999999,18.8699976692276,2019,6,Thursday
+Ireland,81358.58,68918.85,2020-08-21,Books,Tillman And Sons,Glenine Suttaby,Palm Wetherald,Mobile,86-2962836,12439.7299999999,15.2900038324169,2020,8,Friday
+Portugal,81458.94,64434.02,2019-11-14,Books,Johns And Sons,Celine Tumasian,Aurelie Wren,Pc,76-5324325,17024.92,20.900001890523,2019,11,Thursday
+Sweden,79313.86,63316.25,2020-01-03,Appliances,"Dickinson, Hyatt And Berge",Maxie Marrow,Madelon Bront,Pc,36-3226083,15997.61,20.1700055954911,2020,1,Friday
+Finland,100978.49,86568.86,2019-09-08,Appliances,Johns And Sons,Hube Corey,Wat Bowkley,Pc,00-8086430,14409.63,14.2699994820679,2019,9,Sunday
+Portugal,172444.09,149681.47,2019-05-01,Smartphones,Larkin-Collier,Celine Tumasian,Hortense Gerring,Pc,98-0946281,22762.6199999999,13.2000000695877,2019,5,Wednesday
+Uk,111523.01,98017.57,2020-02-03,Outdoors,Kihn Inc,Jessamine Apark,Winny Agnolo,Pc,82-4770311,13505.4399999999,12.1100031285023,2020,2,Monday
+Uk,62947.82,49967.98,2019-10-16,Accessories,"Schowalter, Lesch And Beahan",Jessamine Apark,Genevra Charrisson,Pc,34-0265266,12979.8399999999,20.6199992311091,2019,10,Wednesday
+France,80294.56,65295.54,2019-04-10,Books,Considine-Fisher,Othello Bowes,Avrit Chanders,Pc,47-9858688,14999.0199999999,18.679995257462,2019,4,Wednesday
+France,234961.46,199388.3,2019-02-06,Accessories,"Heaney, Gulgowski And Kshlerin",Othello Bowes,Maighdiln Upcraft,Mobile,24-9178520,35573.16,15.1399978532649,2019,2,Wednesday
+France,214615.79,177637.49,2019-06-30,Games,"Bashirian, Okuneva And Bechtelar",Othello Bowes,Amelina Piscopiello,Pc,17-5553034,36978.3,17.2299997125095,2019,6,Sunday
+France,173418.59,140746.53,2019-05-19,Electronics,Hessel-Stiedemann,Othello Bowes,Maighdiln Upcraft,Pc,03-5073152,32672.0599999999,18.8399986414374,2019,5,Sunday
+France,27400.69,22832.99,2019-09-18,Electronics,Friesen And Sons,Othello Bowes,Maighdiln Upcraft,Pc,19-8109416,4567.69999999999,16.6700181637761,2019,9,Wednesday
+Portugal,179323.22,150739.1,2020-08-08,Smartphones,Homenick-Marvin,Celine Tumasian,Brynn Dempster,Tablet,16-5710075,28584.1199999999,15.9399992928969,2020,8,Saturday
+Portugal,135211.42,108534.21,2019-12-08,Clothing,Larkin-Collier,Celine Tumasian,Corene Shirer,Pc,78-5541691,26677.21,19.7299976584818,2019,12,Sunday
+France,186209.44,148818.58,2019-06-24,Clothing,Friesen-Rath,Othello Bowes,Avrit Chanders,Mobile,69-8016438,37390.86,20.0800023887081,2019,6,Monday
+Ireland,127591.73,108988.86,2020-04-30,Games,"Swaniawski, Runolfsson And Green",Glenine Suttaby,Palm Wetherald,Mobile,43-7205800,18602.8699999999,14.5799966816031,2020,4,Thursday
+Sweden,53093.47,42533.18,2020-10-25,Clothing,Romaguera-Haley,Maxie Marrow,Anita Woakes,Pc,84-2496865,10560.29,19.889997771854,2020,10,Sunday
+Netherlands,28787.17,24610.15,2019-06-08,Games,Mcglynn-Prosacco,Denice Amberg,Nero Harbisher,Pc,13-4700827,4177.01999999999,14.5100056726659,2019,6,Saturday
+Uk,49930.87,40174.38,2020-02-21,Outdoors,Labadie And Sons,Jessamine Apark,Genevra Charrisson,Pc,10-5202864,9756.49,19.5399959984674,2020,2,Friday
+Portugal,48763.58,39435.11,2020-07-14,Smartphones,Labadie And Sons,Celine Tumasian,Smitty Culverhouse,Pc,29-6521179,9328.47,19.1299941472713,2020,7,Tuesday
+France,71079.8,56778.54,2019-11-15,Electronics,"Swaniawski, Runolfsson And Green",Othello Bowes,Avrit Chanders,Pc,30-9137723,14301.26,20.1200059651265,2019,11,Friday
+Sweden,43158.94,36244.88,2019-05-13,Electronics,West-Cummings,Maxie Marrow,Anita Woakes,Pc,55-4422832,6914.06,16.0199949303666,2019,5,Monday
+France,117538.82,100719.02,2019-03-07,Beauty,Wisoky Inc,Othello Bowes,Avrit Chanders,Pc,12-1257338,16819.8,14.3099956252751,2019,3,Thursday
+Portugal,45725.53,36571.28,2020-07-07,Other,Schoen-Keeling,Celine Tumasian,Aurelie Wren,Mobile,66-6777720,9154.25,20.0199975812199,2020,7,Tuesday
+Portugal,77522.57,64227.45,2019-07-31,Outdoors,"Bashirian, Okuneva And Bechtelar",Celine Tumasian,Aurelie Wren,Mobile,53-3568171,13295.12,17.14999902609,2019,7,Wednesday
+Germany,44118.5,38250.74,2020-04-03,Electronics,Romaguera-Dietrich,Rickard Doogood,Casie Macbain,Mobile,77-6124790,5867.76,13.2999988666885,2020,4,Friday
+Uk,242526.0,212113.24,2019-03-06,Clothing,Hegmann Group,Jessamine Apark,Winny Agnolo,Pc,09-3668672,30412.76,12.5399998350692,2019,3,Wednesday
+France,140635.94,115194.9,2020-08-12,Smartphones,Johns And Sons,Othello Bowes,Amelina Piscopiello,Pc,00-5823706,25441.04,18.0899989007077,2020,8,Wednesday
+Portugal,157754.36,132166.6,2019-09-08,Books,"Bashirian, Okuneva And Bechtelar",Celine Tumasian,Aurelie Wren,Mobile,67-8646070,25587.7599999999,16.2200017799824,2019,9,Sunday
+France,88977.22,72534.23,2020-03-10,Books,Franecki-White,Othello Bowes,Ora Grennan,Pc,58-1975365,16442.99,18.4799997122859,2020,3,Tuesday
+Portugal,74231.25,61604.51,2019-11-11,Beauty,Gislason-Stanton,Celine Tumasian,Brynn Dempster,Mobile,99-7842298,12626.7399999999,17.0100058937442,2019,11,Monday
+Sweden,131402.37,106383.36,2019-03-10,Beauty,Johns And Sons,Maxie Marrow,Anita Woakes,Pc,80-8019337,25019.0099999999,19.0399990502454,2019,3,Sunday
+Sweden,156505.37,128647.41,2019-04-05,Electronics,"Schmitt, Purdy And Johnson",Maxie Marrow,Alyosha Meah,Pc,76-8416893,27857.9599999999,17.8000026452766,2019,4,Friday
+Portugal,139200.81,120172.06,2019-08-23,Games,Johns And Sons,Celine Tumasian,Brynn Dempster,Pc,19-3893110,19028.75,13.6699994777329,2019,8,Friday
+Sweden,121292.94,104384.7,2019-03-23,Beauty,Schoen-Keeling,Maxie Marrow,Tarrah Castelletti,Pc,17-3994138,16908.24,13.940003433011,2019,3,Saturday
+France,84712.13,73004.91,2020-11-07,Books,Altenwerth-Konopelski,Othello Bowes,Ora Grennan,Pc,29-8090560,11707.22,13.8200042898224,2020,11,Saturday
+Portugal,172202.38,149816.07,2019-09-04,Appliances,Morissette Group,Celine Tumasian,Hortense Gerring,Tablet,75-5652593,22386.3099999999,13.0000003484272,2019,9,Wednesday
+Sweden,108978.79,95432.73,2019-11-28,Games,"Bashirian, Okuneva And Bechtelar",Maxie Marrow,Madelon Bront,Pc,84-5276032,13546.0599999999,12.4299966993577,2019,11,Thursday
+Portugal,69871.92,58014.66,2020-06-09,Games,Johns And Sons,Celine Tumasian,Smitty Culverhouse,Pc,01-4729172,11857.2599999999,16.9699930959389,2020,6,Tuesday
+France,184221.2,150324.5,2019-06-15,Electronics,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,Pc,70-3373325,33896.7,18.3999995657394,2019,6,Saturday
+France,57348.43,47587.73,2019-12-01,Clothing,Hessel-Stiedemann,Othello Bowes,Crysta Halls,Pc,73-6329299,9760.69999999999,17.0199951419768,2019,12,Sunday
+France,197581.29,169485.23,2019-12-13,Electronics,"Christiansen, Donnelly And Bechtelar",Othello Bowes,Ora Grennan,Pc,74-6221213,28096.0599999999,14.2200002844398,2019,12,Friday
+Portugal,101321.52,86710.96,2019-02-17,Games,Dibbert Inc,Celine Tumasian,Brynn Dempster,Pc,53-1326953,14610.5599999999,14.4199968575283,2019,2,Sunday
+Uk,124234.91,98244.97,2020-09-19,Outdoors,Johns And Sons,Jessamine Apark,Genevra Charrisson,Pc,56-7081196,25989.94,20.9199974467724,2020,9,Saturday
+Portugal,254883.03,213413.56,2019-12-12,Appliances,"Dickinson, Hyatt And Berge",Celine Tumasian,Corene Shirer,Pc,85-9560144,41469.47,16.2700003997912,2019,12,Thursday
+France,57333.85,46308.55,2020-10-24,Other,Goldner-Dibbert,Othello Bowes,Amelina Piscopiello,Pc,35-9605742,11025.2999999999,19.2300011249898,2020,10,Saturday
+Portugal,65760.39,56672.3,2020-09-10,Smartphones,"Schowalter, Lesch And Beahan",Celine Tumasian,Aurelie Wren,Pc,30-0037690,9088.08999999999,13.8200062377975,2020,9,Thursday
+Portugal,53485.0,46713.8,2020-02-18,Clothing,Johns And Sons,Celine Tumasian,Corene Shirer,Pc,75-6038587,6771.19999999999,12.6599981303169,2020,2,Tuesday
+France,154950.74,133195.66,2019-09-10,Smartphones,Kihn Inc,Othello Bowes,Crysta Halls,Tablet,45-8966277,21755.0799999999,14.0399974856525,2019,9,Tuesday
+Uk,19949.11,16364.25,2019-02-25,Beauty,Smith Group,Jessamine Apark,Winny Agnolo,Tablet,23-0941629,3584.86,17.9700247279201,2019,2,Monday
+France,124784.67,106853.11,2020-05-22,Electronics,"Swaniawski, Runolfsson And Green",Othello Bowes,Ora Grennan,Tablet,44-2757396,17931.5599999999,14.3700023408324,2020,5,Friday
+Luxembourg,120831.28,95746.71,2020-05-22,Outdoors,Stamm-Zulauf,Ilsa Kob,Jocelyn Laurentino,Pc,21-4464304,25084.5699999999,20.7599969147061,2020,5,Friday
+Portugal,127631.89,110963.17,2019-11-24,Clothing,"Schowalter, Lesch And Beahan",Celine Tumasian,Corene Shirer,Pc,02-8721192,16668.72,13.0599962125453,2019,11,Sunday
+Luxembourg,68984.17,59560.93,2019-11-01,Beauty,"Schmitt, Purdy And Johnson",Ilsa Kob,Jocelyn Laurentino,Pc,46-9710750,9423.23999999999,13.6600034471676,2019,11,Friday
+France,56823.17,46583.63,2019-12-21,Beauty,"Rowe, Hermiston And Kessler",Othello Bowes,Ora Grennan,Mobile,26-1781486,10239.54,18.0200083874236,2019,12,Saturday
+Portugal,126974.92,101516.45,2019-01-13,Games,Larkin-Collier,Celine Tumasian,Hortense Gerring,Pc,57-7927520,25458.47,20.0499988501666,2019,1,Sunday
+Portugal,121736.23,106214.86,2020-06-05,Accessories,"Zieme, Bailey And Herzog",Celine Tumasian,Smitty Culverhouse,Pc,95-4271285,15521.3699999999,12.7500005544774,2020,6,Friday
+France,150287.47,123611.44,2020-05-08,Books,"Fisher, Morar And Skiles",Othello Bowes,Avrit Chanders,Pc,66-4296261,26676.03,17.7500027114702,2020,5,Friday
+Finland,93007.22,81837.05,2020-09-11,Outdoors,Mcglynn-Prosacco,Hube Corey,Wat Bowkley,Pc,24-8477374,11170.1699999999,12.0100030943834,2020,9,Friday
+Ireland,165747.2,132912.68,2020-01-21,Books,"Farrell, Swaniawski And Crist",Glenine Suttaby,Bunnie Tonbridge,Pc,96-1991854,32834.52,19.8099998069349,2020,1,Tuesday
+Sweden,177215.51,155807.88,2019-07-05,Clothing,"Schmitt, Purdy And Johnson",Maxie Marrow,Alyosha Meah,Pc,54-3353166,21407.63,12.0799979640608,2019,7,Friday
+France,99132.04,78819.89,2020-03-21,Smartphones,Kirlin And Sons,Othello Bowes,Avrit Chanders,Pc,44-6408586,20312.1499999999,20.489994960257,2020,3,Saturday
+Germany,180519.86,145968.36,2019-04-07,Games,"Jacobson, Marvin And Brown",Rickard Doogood,Casie Macbain,Pc,86-6107692,34551.5,19.1399993330373,2019,4,Sunday
+France,68173.22,54040.91,2020-11-14,Smartphones,Larkin-Collier,Othello Bowes,Amelina Piscopiello,Pc,89-7513050,14132.3099999999,20.7300021914763,2020,11,Saturday
+Portugal,97439.36,79773.6,2019-08-08,Games,Labadie And Sons,Celine Tumasian,Brynn Dempster,Pc,54-2767741,17665.7599999999,18.1300041379582,2019,8,Thursday
+Sweden,103638.67,84030.23,2020-10-22,Electronics,"Leffler, Prohaska And Streich",Maxie Marrow,Anita Woakes,Pc,24-6905998,19608.44,18.9200035083429,2020,10,Thursday
+Sweden,169810.63,145952.24,2020-11-28,Smartphones,"Schowalter, Lesch And Beahan",Maxie Marrow,Caro Morfield,Pc,35-0173281,23858.39,14.0499979300471,2020,11,Saturday
+France,75264.84,61694.59,2020-09-16,Clothing,Tillman And Sons,Othello Bowes,Ora Grennan,Mobile,93-5465623,13570.25,18.0299991337256,2020,9,Wednesday
+Spain,58933.16,51855.29,2019-09-20,Electronics,"Schowalter, Lesch And Beahan",Emalia Dinse,Bertha Walbrook,Mobile,67-2823354,7077.87,12.0099957307566,2019,9,Friday
+Portugal,168773.6,137398.59,2019-08-22,Games,Tillman And Sons,Celine Tumasian,Corene Shirer,Pc,28-0622425,31375.01,18.5899986727782,2019,8,Thursday
+Portugal,152676.77,122385.7,2020-07-07,Outdoors,"Spencer, Rogahn And Muller",Celine Tumasian,Smitty Culverhouse,Pc,84-0679518,30291.0699999999,19.8399992349851,2020,7,Tuesday
+Portugal,116556.81,95448.37,2020-05-24,Outdoors,"Hermiston, Simonis And Wisoky",Celine Tumasian,Hortense Gerring,Pc,95-1195568,21108.44,18.1100014662377,2020,5,Sunday
+France,310539.0,248275.93,2020-11-12,Electronics,Johns And Sons,Othello Bowes,Ora Grennan,Pc,57-2495984,62263.07,20.0500001610103,2020,11,Thursday
+Portugal,106325.72,92705.4,2019-09-19,Games,Goldner-Dibbert,Celine Tumasian,Aurelie Wren,Mobile,77-5229094,13620.32,12.8099955495246,2019,9,Thursday
+Sweden,90602.07,71630.0,2020-05-03,Electronics,Mcglynn-Bergstrom,Maxie Marrow,Tarrah Castelletti,Pc,09-3747816,18972.07,20.9399961833101,2020,5,Sunday
+Spain,120012.56,97762.23,2020-11-05,Games,"Schmitt, Purdy And Johnson",Emalia Dinse,Bertha Walbrook,Mobile,62-9738356,22250.33,18.5400011465466,2020,11,Thursday
+France,143658.22,123158.19,2020-10-30,Appliances,Wisoky Inc,Othello Bowes,Amelina Piscopiello,Pc,22-6938537,20500.03,14.2700013963698,2020,10,Friday
+Portugal,263571.82,216155.25,2020-08-06,Outdoors,"Dickinson, Hyatt And Berge",Celine Tumasian,Aurelie Wren,Pc,11-0955383,47416.57,17.9899998414094,2020,8,Thursday
+France,131097.05,109203.84,2020-06-26,Beauty,Larkin-Collier,Othello Bowes,Maighdiln Upcraft,Pc,80-1374023,21893.2099999999,16.7000020214032,2020,6,Friday
+Italy,127830.38,103874.97,2020-05-21,Games,Romaguera-Dietrich,Piggy Roscrigg,Joshua Prevost,Pc,66-7112079,23955.41,18.7399974872952,2020,5,Thursday
+Portugal,129353.22,111593.02,2019-01-18,Games,Kihn Inc,Celine Tumasian,Corene Shirer,Mobile,31-2600204,17760.1999999999,13.7300022372848,2019,1,Friday
+Sweden,176473.32,139413.92,2019-06-22,Games,Wisoky Inc,Maxie Marrow,Anita Woakes,Pc,00-7031798,37059.3999999999,21.0000015866421,2019,6,Saturday
+Denmark,43609.57,34634.72,2020-01-03,Appliances,Walter Llc,Modestia Byfford,Cobby Andersen,Pc,20-1827241,8974.84999999999,20.5800011327788,2020,1,Friday
+Portugal,137562.42,112140.88,2020-04-14,Clothing,Dibbert Inc,Celine Tumasian,Hortense Gerring,Pc,80-5941460,25421.54,18.4800034776939,2020,4,Tuesday
+France,51504.5,44592.6,2019-09-22,Appliances,Dibbert Inc,Othello Bowes,Amelina Piscopiello,Pc,17-3240628,6911.9,13.4199924278461,2019,9,Sunday
+France,38750.53,31298.8,2019-01-09,Outdoors,Johns And Sons,Othello Bowes,Amelina Piscopiello,Pc,22-5929243,7451.73,19.2300079508589,2019,1,Wednesday
+France,111676.46,92791.97,2019-08-06,Beauty,Armstrong-Little,Othello Bowes,Ora Grennan,Pc,35-7483371,18884.49,16.9100005498025,2019,8,Tuesday
+Sweden,46849.71,39630.17,2019-08-26,Beauty,"Leffler, Prohaska And Streich",Maxie Marrow,Anita Woakes,Pc,71-1921602,7219.54,15.4099993361751,2019,8,Monday
+Sweden,296844.24,244926.18,2019-08-06,Other,Walter Llc,Maxie Marrow,Tarrah Castelletti,Pc,22-9949979,51918.06,17.4900008165898,2019,8,Tuesday
+Portugal,163492.16,134178.02,2020-12-08,Appliances,"Shanahan, Schaden And Parker",Celine Tumasian,Corene Shirer,Pc,06-8466490,29314.14,17.9299973772442,2020,12,Tuesday
+France,116206.87,93104.94,2019-04-15,Games,"Keeling, Monahan And Pollich",Othello Bowes,Amelina Piscopiello,Pc,34-6603897,23101.9299999999,19.8800036521076,2019,4,Monday
+France,195214.72,154649.1,2019-06-26,Books,"Keeling, Monahan And Pollich",Othello Bowes,Maighdiln Upcraft,Pc,92-3462655,40565.6199999999,20.7800006065116,2019,6,Wednesday
+France,168226.52,136818.63,2020-01-25,Smartphones,Altenwerth-Konopelski,Othello Bowes,Avrit Chanders,Pc,26-9826298,31407.8899999999,18.6699992367434,2020,1,Saturday
+Sweden,249842.77,218737.35,2020-09-07,Books,Hessel-Stiedemann,Maxie Marrow,Alyosha Meah,Pc,39-5542863,31105.4199999999,12.4499980527753,2020,9,Monday
+Netherlands,105678.39,89720.95,2020-07-05,Games,Hegmann Group,Denice Amberg,Nero Harbisher,Mobile,18-1809309,15957.44,15.1000029428911,2020,7,Sunday
+Portugal,253580.08,212449.39,2020-06-07,Games,Wyman Group,Celine Tumasian,Brynn Dempster,Pc,51-0837613,41130.6899999999,16.2200004038172,2020,6,Sunday
+France,56705.66,46986.31,2019-01-02,Outdoors,Johns And Sons,Othello Bowes,Crysta Halls,Pc,46-0117523,9719.35,17.1399997813269,2019,1,Wednesday
+Sweden,35354.22,30517.76,2019-02-27,Smartphones,"Dickinson, Hyatt And Berge",Maxie Marrow,Caro Morfield,Pc,58-1079558,4836.46,13.680007648309,2019,2,Wednesday
+Portugal,25834.34,22450.04,2020-03-13,Electronics,Romaguera-Dietrich,Celine Tumasian,Brynn Dempster,Mobile,49-9010863,3384.29999999999,13.1000056513926,2020,3,Friday
+Portugal,121928.48,98408.48,2019-09-19,Clothing,Altenwerth-Konopelski,Celine Tumasian,Brynn Dempster,Mobile,58-2028009,23520.0,19.28999688998,2019,9,Thursday
+France,167935.31,137942.06,2019-04-18,Games,Romaguera-Haley,Othello Bowes,Amelina Piscopiello,Pc,03-4045721,29993.25,17.8600021639284,2019,4,Thursday
+Portugal,151151.77,124035.14,2019-12-30,Appliances,"Rowe, Hermiston And Kessler",Celine Tumasian,Aurelie Wren,Pc,80-3039005,27116.6299999999,17.9400016288264,2019,12,Monday
+France,95966.17,75976.42,2019-08-24,Electronics,Littel-Blick,Othello Bowes,Amelina Piscopiello,Pc,90-4449856,19989.75,20.8299966540292,2019,8,Saturday
+Portugal,123424.43,98171.79,2019-11-04,Clothing,"Spencer, Rogahn And Muller",Celine Tumasian,Corene Shirer,Pc,82-2837449,25252.64,20.4600013141644,2019,11,Monday
+France,128221.13,102217.88,2020-06-21,Clothing,Johns And Sons,Othello Bowes,Amelina Piscopiello,Pc,21-4033151,26003.25,20.2800037716092,2020,6,Sunday
+Portugal,204133.95,167553.15,2020-06-13,Games,"Leffler, Prohaska And Streich",Celine Tumasian,Corene Shirer,Pc,98-6563368,36580.8,17.9199981188822,2020,6,Saturday
+Sweden,89376.84,73646.52,2019-02-17,Beauty,Johns And Sons,Maxie Marrow,Alyosha Meah,Pc,21-2589548,15730.3199999999,17.5999957035849,2019,2,Sunday
+Sweden,110837.96,92106.34,2019-02-25,Electronics,"Dickinson, Hyatt And Berge",Maxie Marrow,Alyosha Meah,Pc,52-7049356,18731.62,16.9000042945575,2019,2,Monday
+Netherlands,118026.37,99873.91,2020-04-07,Appliances,Hessel-Stiedemann,Denice Amberg,Nero Harbisher,Pc,35-1708827,18152.4599999999,15.38000363817,2020,4,Tuesday
+Portugal,177208.76,151779.3,2019-02-01,Appliances,Romaguera-Dietrich,Celine Tumasian,Smitty Culverhouse,Mobile,22-1266257,25429.46,14.3500016590602,2019,2,Friday
+Sweden,97148.34,77806.11,2020-04-29,Books,Romaguera-Dietrich,Maxie Marrow,Tarrah Castelletti,Pc,44-9978904,19342.2299999999,19.9099953740846,2020,4,Wednesday
+Spain,144530.35,115407.48,2020-04-08,Other,"Swaniawski, Runolfsson And Green",Emalia Dinse,Manuel Goudie,Pc,63-1220717,29122.87,20.1500030962355,2020,4,Wednesday
+Sweden,45261.84,37816.27,2020-11-21,Beauty,Tillman And Sons,Maxie Marrow,Madelon Bront,Pc,40-0265810,7445.57,16.4499940788973,2020,11,Saturday
+Bulgaria,105277.2,90759.47,2019-11-21,Books,"Spencer, Rogahn And Muller",Charil Alpe,Shermy Mcgready,Pc,56-6094665,14517.7299999999,13.7900039134779,2019,11,Thursday
+Denmark,65822.05,54790.27,2020-11-11,Clothing,"Keeling, Monahan And Pollich",Modestia Byfford,Case Desorts,Pc,75-3776704,11031.78,16.7600067150749,2020,11,Wednesday
+France,78540.62,63987.04,2019-08-10,Clothing,Considine-Fisher,Othello Bowes,Crysta Halls,Pc,55-1050582,14553.5799999999,18.5300039648273,2019,8,Saturday
+Italy,37636.91,30847.21,2020-03-16,Appliances,West-Cummings,Piggy Roscrigg,Joshua Prevost,Mobile,78-8602908,6789.7,18.0400038154035,2020,3,Monday
+Portugal,138127.81,115240.03,2020-05-24,Appliances,"Hamill, Kulas And Roob",Celine Tumasian,Corene Shirer,Pc,30-3460885,22887.78,16.5700013632301,2020,5,Sunday
+Ireland,37892.58,30010.92,2019-01-21,Electronics,Johns And Sons,Glenine Suttaby,Palm Wetherald,Pc,59-0348389,7881.66,20.8000088671713,2019,1,Monday
+Bulgaria,65329.65,53237.13,2020-02-26,Clothing,"Christiansen, Donnelly And Bechtelar",Charil Alpe,Shermy Mcgready,Mobile,91-7447818,12092.52,18.5100027322969,2020,2,Wednesday
+France,167072.72,135044.88,2019-10-21,Clothing,O'Connell-Mitchell,Othello Bowes,Ora Grennan,Pc,37-6449638,32027.8399999999,19.1699997462182,2019,10,Monday
+France,164243.32,134121.1,2019-05-20,Smartphones,Kirlin And Sons,Othello Bowes,Amelina Piscopiello,Pc,38-2806168,30122.22,18.3399970239276,2019,5,Monday
+France,174951.18,142690.18,2019-09-18,Clothing,Tillman And Sons,Othello Bowes,Amelina Piscopiello,Mobile,09-7737652,32261.0,18.4400013763839,2019,9,Wednesday
+Portugal,98521.87,84571.17,2020-02-01,Clothing,Johns And Sons,Celine Tumasian,Brynn Dempster,Pc,29-1727395,13950.6999999999,14.1600032561298,2020,2,Saturday
+Portugal,69750.57,60731.82,2019-03-19,Games,Johns And Sons,Celine Tumasian,Hortense Gerring,Pc,92-4695001,9018.75,12.9300018623503,2019,3,Tuesday
+Portugal,129022.02,104585.25,2020-06-20,Electronics,Walter Llc,Celine Tumasian,Corene Shirer,Pc,51-2167412,24436.77,18.9399995442638,2020,6,Saturday
+Portugal,41805.53,33352.45,2019-03-23,Appliances,"Abbott, Roberts And Torp",Celine Tumasian,Brynn Dempster,Tablet,27-7169008,8453.08,20.2200043869794,2019,3,Saturday
+Finland,145809.65,123136.25,2019-07-30,Appliances,O'Connell-Mitchell,Hube Corey,Mellicent Mattys,Pc,96-5231814,22673.3999999999,15.5499996056502,2019,7,Tuesday
+France,29443.71,23958.35,2020-10-29,Appliances,Johns And Sons,Othello Bowes,Ora Grennan,Pc,03-2027170,5485.36,18.6299892235047,2020,10,Thursday
+Sweden,138443.23,115101.7,2019-06-14,Clothing,Wyman Group,Maxie Marrow,Alyosha Meah,Mobile,99-9599677,23341.53,16.8600010271358,2019,6,Friday
+Uk,102000.57,87261.49,2020-03-17,Games,Franecki-White,Jessamine Apark,Genevra Charrisson,Pc,22-0725785,14739.08,14.4499976813855,2020,3,Tuesday
+Portugal,53181.88,42316.82,2020-06-01,Smartphones,"Christiansen, Donnelly And Bechtelar",Celine Tumasian,Hortense Gerring,Pc,37-6033123,10865.0599999999,20.4300036027308,2020,6,Monday
+Portugal,99518.86,81854.26,2019-12-03,Books,"Dickinson, Hyatt And Berge",Celine Tumasian,Corene Shirer,Pc,29-5158368,17664.6,17.7500023613614,2019,12,Tuesday
+Portugal,79288.03,68536.57,2019-08-07,Clothing,Johns And Sons,Celine Tumasian,Hortense Gerring,Pc,95-4281933,10751.4599999999,13.5600039501548,2019,8,Wednesday
+France,111557.68,92470.16,2020-02-15,Books,Hessel-Stiedemann,Othello Bowes,Crysta Halls,Pc,61-0532585,19087.5199999999,17.1100008533701,2020,2,Saturday
+Netherlands,43008.69,34458.56,2019-07-19,Appliances,Stamm-Zulauf,Denice Amberg,Nero Harbisher,Pc,99-9093075,8550.13,19.8800056453707,2019,7,Friday
+France,154936.24,135739.64,2020-06-29,Books,Friesen-Rath,Othello Bowes,Ora Grennan,Pc,65-2631885,19196.5999999999,12.3899999122219,2020,6,Monday
+Sweden,115339.49,100691.37,2019-03-09,Outdoors,"Farrell, Swaniawski And Crist",Maxie Marrow,Madelon Bront,Mobile,03-4651559,14648.12,12.7000041356173,2019,3,Saturday
+France,65254.5,53919.79,2019-06-17,Games,"Rowe, Hermiston And Kessler",Othello Bowes,Maighdiln Upcraft,Pc,91-6673445,11334.71,17.3700051337455,2019,6,Monday
+Netherlands,50241.47,43443.8,2020-10-17,Books,"Schmitt, Purdy And Johnson",Denice Amberg,Nero Harbisher,Tablet,62-1501210,6797.66999999999,13.5299982265646,2020,10,Saturday
+Uk,304337.49,261730.24,2019-04-12,Clothing,Wunsch Llc,Jessamine Apark,Genevra Charrisson,Pc,29-0072186,42607.25,14.0000004600156,2019,4,Friday
+Bulgaria,95960.77,76519.12,2020-11-10,Books,Hessel-Stiedemann,Charil Alpe,Bernadine Fullagar,Pc,06-5115020,19441.65,20.2599979137307,2020,11,Tuesday
+Sweden,152522.94,122399.66,2020-11-04,Outdoors,Hane Inc,Maxie Marrow,Madelon Bront,Pc,22-6046651,30123.28,19.7499995738345,2020,11,Wednesday
+Sweden,63196.98,54671.71,2019-04-18,Smartphones,"Spencer, Rogahn And Muller",Maxie Marrow,Caro Morfield,Pc,71-6499815,8525.27,13.4899958827146,2019,4,Thursday
+Sweden,83119.87,69604.58,2019-01-29,Clothing,O'Connell-Mitchell,Maxie Marrow,Alyosha Meah,Pc,81-1454737,13515.2899999999,16.2599989629435,2019,1,Tuesday
+France,75483.45,60077.28,2019-03-12,Appliances,Johns And Sons,Othello Bowes,Ora Grennan,Pc,26-0092767,15406.1699999999,20.4099971583174,2019,3,Tuesday
+Ireland,65397.28,53920.06,2020-03-20,Outdoors,Baumbach Group,Glenine Suttaby,Bunnie Tonbridge,Mobile,74-6211038,11477.22,17.5499959631348,2020,3,Friday
+France,48890.14,41180.16,2019-05-20,Clothing,Johns And Sons,Othello Bowes,Ora Grennan,Pc,85-5544928,7709.97999999999,15.7700100674696,2019,5,Monday
+France,80839.75,63936.16,2020-05-21,Games,Goldner-Dibbert,Othello Bowes,Crysta Halls,Pc,00-6227453,16903.5899999999,20.9099978661487,2020,5,Thursday
+Ireland,79375.17,64532.01,2020-09-02,Beauty,Hessel-Stiedemann,Glenine Suttaby,Bunnie Tonbridge,Mobile,70-5224180,14843.1599999999,18.7000040440858,2020,9,Wednesday
+Bulgaria,158011.3,137390.83,2019-11-27,Beauty,"Jacobson, Marvin And Brown",Charil Alpe,Bernadine Fullagar,Pc,40-8287610,20620.47,13.0499970571724,2019,11,Wednesday
+Portugal,155766.23,131529.0,2020-05-27,Games,Romaguera-Haley,Celine Tumasian,Aurelie Wren,Pc,49-7876403,24237.23,15.5600029608471,2020,5,Wednesday
+France,19366.75,15857.49,2020-03-28,Games,Wisoky Inc,Othello Bowes,Avrit Chanders,Pc,01-6107437,3509.26,18.1200253010959,2020,3,Saturday
+France,45481.24,37317.36,2019-10-25,Smartphones,Wiza And Sons,Othello Bowes,Crysta Halls,Pc,13-6163562,8163.87999999999,17.9499943273314,2019,10,Friday
+Sweden,152747.92,130614.75,2020-03-05,Appliances,Armstrong-Little,Maxie Marrow,Anita Woakes,Pc,41-0722740,22133.17,14.4899976379383,2020,3,Thursday
+Sweden,255216.0,211446.46,2019-12-28,Clothing,"Jacobson, Marvin And Brown",Maxie Marrow,Tarrah Castelletti,Pc,65-4008552,43769.54,17.1499984327001,2019,12,Saturday
+Portugal,154858.0,135376.86,2020-07-22,Games,"Dickinson, Hyatt And Berge",Celine Tumasian,Smitty Culverhouse,Pc,72-4825752,19481.14,12.5800023247103,2020,7,Wednesday
+France,250488.42,214142.55,2020-06-13,Appliances,Goldner-Dibbert,Othello Bowes,Amelina Piscopiello,Pc,18-2580592,36345.87,14.5100001029987,2020,6,Saturday
+Sweden,115151.22,91430.07,2020-10-25,Appliances,"Farrell, Swaniawski And Crist",Maxie Marrow,Madelon Bront,Pc,14-1283254,23721.1499999999,20.5999988536812,2020,10,Sunday
+Sweden,57347.48,50041.41,2020-12-08,Beauty,Johns And Sons,Maxie Marrow,Madelon Bront,Pc,79-4826735,7306.07,12.740001827456,2020,12,Tuesday
+Portugal,74790.02,64992.53,2020-06-19,Beauty,Corwin And Sons,Celine Tumasian,Corene Shirer,Pc,82-2840501,9797.49,13.0999964968588,2020,6,Friday
+France,72749.07,59108.62,2019-01-20,Smartphones,Johns And Sons,Othello Bowes,Amelina Piscopiello,Pc,19-0320558,13640.45,18.7499991408824,2019,1,Sunday
+Bulgaria,128235.65,103024.52,2020-09-20,Books,"Dickinson, Hyatt And Berge",Charil Alpe,Shermy Mcgready,Pc,57-0945292,25211.1299999999,19.6600009435753,2020,9,Sunday
+Sweden,79088.7,67415.21,2020-05-24,Beauty,Mcglynn-Prosacco,Maxie Marrow,Tarrah Castelletti,Pc,01-6573793,11673.4899999999,14.7599973194653,2020,5,Sunday
+Uk,124537.47,105881.76,2019-09-24,Clothing,Hilll-Vandervort,Jessamine Apark,Winny Agnolo,Pc,63-0694419,18655.71,14.9799975862686,2019,9,Tuesday
+Sweden,161192.45,135965.83,2019-04-07,Clothing,Wisoky Inc,Maxie Marrow,Tarrah Castelletti,Pc,24-2442637,25226.62,15.6500009770929,2019,4,Sunday
+France,109697.86,89853.52,2019-07-24,Beauty,Considine-Fisher,Othello Bowes,Crysta Halls,Pc,04-8899739,19844.3399999999,18.0899973800765,2019,7,Wednesday
+France,57276.26,49223.22,2020-04-04,Appliances,Johns And Sons,Othello Bowes,Amelina Piscopiello,Pc,48-2932903,8053.04,14.0599962357877,2020,4,Saturday
+Netherlands,149956.93,130087.64,2020-08-10,Games,"Spencer, Rogahn And Muller",Denice Amberg,Nero Harbisher,Pc,66-0265458,19869.2899999999,13.2499978493824,2020,8,Monday
+Italy,127075.41,110924.13,2019-09-24,Clothing,Labadie And Sons,Piggy Roscrigg,Joshua Prevost,Pc,57-6602854,16151.2799999999,12.7099963714458,2019,9,Tuesday
+Sweden,28755.32,23938.8,2019-10-10,Books,"Murray, Reichel And Nolan",Maxie Marrow,Madelon Bront,Pc,47-6702070,4816.52,16.7500135627077,2019,10,Thursday
+Portugal,178027.46,144985.56,2020-04-01,Appliances,Wisoky Inc,Celine Tumasian,Corene Shirer,Pc,99-9215178,33041.8999999999,18.5600019232987,2020,4,Wednesday
+Bulgaria,152231.86,122303.08,2019-08-05,Smartphones,Smith Group,Charil Alpe,Shermy Mcgready,Pc,39-5953116,29928.7799999999,19.6599975852623,2019,8,Monday
+Sweden,53957.42,46905.19,2019-05-25,Smartphones,Johns And Sons,Maxie Marrow,Caro Morfield,Pc,71-3278650,7052.22999999999,13.0699911152163,2019,5,Saturday
+Portugal,80474.78,66568.74,2019-05-22,Clothing,"Farrell, Swaniawski And Crist",Celine Tumasian,Hortense Gerring,Pc,38-6891011,13906.0399999999,17.2799975346313,2019,5,Wednesday
+Bulgaria,145439.65,123710.97,2020-03-10,Smartphones,Friesen And Sons,Charil Alpe,Bernadine Fullagar,Pc,06-5566367,21728.6799999999,14.9399974491137,2020,3,Tuesday
+France,84035.82,71329.6,2020-10-27,Books,Johns And Sons,Othello Bowes,Maighdiln Upcraft,Tablet,30-9025281,12706.22,15.1200047789145,2020,10,Tuesday
+Spain,68288.68,56754.72,2020-09-27,Beauty,Johns And Sons,Emalia Dinse,Bertha Walbrook,Pc,80-4161102,11533.9599999999,16.8900028525957,2020,9,Sunday
+Sweden,100578.6,83208.68,2019-01-14,Electronics,Labadie And Sons,Maxie Marrow,Caro Morfield,Pc,96-1388247,17369.92,17.2699958042764,2019,1,Monday
+France,94925.0,77572.71,2019-09-30,Accessories,Schoen-Keeling,Othello Bowes,Avrit Chanders,Mobile,21-2097342,17352.2899999999,18.2799999999999,2019,9,Monday
+France,105464.41,84761.75,2019-08-27,Books,"Schmitt, Purdy And Johnson",Othello Bowes,Avrit Chanders,Pc,30-4045249,20702.66,19.6299965078266,2019,8,Tuesday
+France,155827.3,126360.36,2019-04-30,Appliances,Hilll-Vandervort,Othello Bowes,Avrit Chanders,Tablet,31-9806848,29466.9399999999,18.9099984405813,2019,4,Tuesday
+Portugal,90994.31,72540.66,2020-09-05,Electronics,"Zieme, Bailey And Herzog",Celine Tumasian,Brynn Dempster,Pc,09-7835975,18453.6499999999,20.2800043211493,2020,9,Saturday
+Portugal,32779.67,26800.66,2020-03-22,Outdoors,Kihn Inc,Celine Tumasian,Aurelie Wren,Pc,16-9758497,5979.00999999999,18.2399944843862,2020,3,Sunday
+Bulgaria,40187.99,32508.07,2020-05-22,Games,Friesen-Rath,Charil Alpe,Shermy Mcgready,Pc,54-1058965,7679.91999999999,19.1099878346739,2020,5,Friday
+Uk,91842.59,73979.21,2019-03-29,Games,Marquardt-Kuvalis,Jessamine Apark,Genevra Charrisson,Pc,84-0565956,17863.3799999999,19.4499959114828,2019,3,Friday
+Portugal,38494.71,33113.15,2019-04-02,Games,Wisoky Inc,Celine Tumasian,Hortense Gerring,Pc,85-6263705,5381.55999999999,13.9799988102261,2019,4,Tuesday
+France,86050.61,75569.65,2020-03-09,Clothing,Mcclure Inc,Othello Bowes,Crysta Halls,Pc,46-4560578,10480.96,12.1799950052649,2020,3,Monday
+Sweden,36749.51,30101.52,2020-10-15,Games,Hilll-Vandervort,Maxie Marrow,Madelon Bront,Pc,08-5093310,6647.99,18.090009907615,2020,10,Thursday
+Finland,194531.02,158970.75,2019-09-07,Clothing,"Farrell, Swaniawski And Crist",Hube Corey,Mellicent Mattys,Tablet,21-8525376,35560.2699999999,18.27999976559,2019,9,Saturday
+France,106730.16,89503.91,2020-07-30,Beauty,"Farrell, Swaniawski And Crist",Othello Bowes,Ora Grennan,Pc,60-0406937,17226.25,16.1400020387864,2020,7,Thursday
+Germany,30177.8,23924.96,2020-06-10,Electronics,"Leffler, Prohaska And Streich",Rickard Doogood,Casie Macbain,Mobile,61-4937643,6252.84,20.7199994698089,2020,6,Wednesday
+Portugal,93902.04,80793.31,2020-01-03,Clothing,Tillman And Sons,Celine Tumasian,Aurelie Wren,Pc,94-3251589,13108.7299999999,13.9600055547249,2020,1,Friday
+Germany,250483.63,217269.5,2020-03-07,Accessories,Considine-Fisher,Rickard Doogood,Casie Macbain,Mobile,48-2124998,33214.13,13.2600002642887,2020,3,Saturday
+Sweden,162142.74,136037.76,2019-01-29,Clothing,Kirlin And Sons,Maxie Marrow,Alyosha Meah,Pc,19-1017922,26104.9799999999,16.0999992969157,2019,1,Tuesday
+Denmark,47516.54,38987.32,2020-09-01,Books,Johns And Sons,Modestia Byfford,Cobby Andersen,Pc,51-1141675,8529.22,17.9500022518474,2020,9,Tuesday
+Germany,163546.81,133307.0,2019-07-05,Electronics,"Lueilwitz, Kerluke And Lesch",Rickard Doogood,Casie Macbain,Pc,94-2134593,30239.8099999999,18.4900029538943,2019,7,Friday
+France,35437.89,30412.8,2020-03-02,Clothing,Homenick-Marvin,Othello Bowes,Ora Grennan,Pc,82-0616982,5025.09,14.1799920932087,2020,3,Monday
+Belgium,122889.28,103042.66,2020-11-27,Smartphones,Labadie And Sons,Lambert Norheny,Collin Mackness,Pc,22-5761330,19846.6199999999,16.150001041588,2020,11,Friday
+Luxembourg,26490.47,21168.53,2019-04-11,Appliances,Hessel-Stiedemann,Ilsa Kob,Jocelyn Laurentino,Pc,62-1694462,5321.94,20.0900172779116,2019,4,Thursday
+Uk,173722.59,148063.76,2019-09-04,Games,"Schowalter, Lesch And Beahan",Jessamine Apark,Jay Morefield,Pc,66-2612057,25658.8299999999,14.7700019899542,2019,9,Wednesday
+France,76543.36,65819.64,2019-03-21,Accessories,"Hermiston, Simonis And Wisoky",Othello Bowes,Ora Grennan,Pc,01-7655863,10723.72,14.0099938126572,2019,3,Thursday
+Sweden,69626.39,57295.56,2019-06-15,Electronics,"Hamill, Kulas And Roob",Maxie Marrow,Madelon Bront,Pc,06-2196763,12330.83,17.7099947304463,2019,6,Saturday
+France,249915.21,215326.95,2020-12-15,Appliances,Armstrong-Little,Othello Bowes,Crysta Halls,Pc,84-4465649,34588.2599999999,13.8399979737127,2020,12,Tuesday
+Portugal,55790.71,48783.4,2020-08-10,Appliances,Johns And Sons,Celine Tumasian,Corene Shirer,Pc,63-6767584,7007.30999999999,12.5599943072959,2020,8,Monday
+Netherlands,77896.83,62714.74,2020-03-13,Clothing,Dibbert Inc,Denice Amberg,Nero Harbisher,Pc,75-7443241,15182.09,19.4899972181153,2020,3,Friday
+Portugal,104391.93,86770.57,2020-04-01,Beauty,"Murray, Reichel And Nolan",Celine Tumasian,Brynn Dempster,Pc,34-8182639,17621.3599999999,16.8800021227694,2020,4,Wednesday
+Portugal,57115.99,48976.96,2019-03-27,Books,"Lind, Mueller And Stoltenberg",Celine Tumasian,Aurelie Wren,Mobile,53-3803984,8139.02999999999,14.250002494923,2019,3,Wednesday
+France,74685.85,59166.13,2020-05-23,Games,"Lubowitz, Mclaughlin And Erdman",Othello Bowes,Avrit Chanders,Pc,68-0176456,15519.72,20.7800004954084,2020,5,Saturday
+France,74103.82,64811.2,2020-02-01,Appliances,Johns And Sons,Othello Bowes,Ora Grennan,Pc,63-7370049,9292.62000000001,12.5400013116732,2020,2,Saturday
+France,176190.16,142273.55,2019-02-09,Appliances,Johns And Sons,Othello Bowes,Maighdiln Upcraft,Pc,03-3461826,33916.61,19.250002383788,2019,2,Saturday
+Sweden,185778.3,154734.75,2020-06-25,Electronics,"Jacobson, Marvin And Brown",Maxie Marrow,Tarrah Castelletti,Pc,76-5888381,31043.5499999999,16.7099978845753,2020,6,Thursday
+France,212521.26,172014.71,2019-06-20,Books,Johns And Sons,Othello Bowes,Crysta Halls,Pc,43-7357498,40506.55,19.0599989855132,2019,6,Thursday
+France,40148.49,31954.18,2019-02-02,Electronics,Hane Inc,Othello Bowes,Amelina Piscopiello,Pc,88-8981595,8194.30999999999,20.410007947995,2019,2,Saturday
+Portugal,157942.65,136620.39,2020-06-23,Electronics,Hessel-Stiedemann,Celine Tumasian,Brynn Dempster,Pc,95-6123269,21322.2599999999,13.5000014245677,2020,6,Tuesday
+Netherlands,172453.1,145688.38,2020-06-24,Outdoors,Kirlin And Sons,Denice Amberg,Nero Harbisher,Pc,60-6986682,26764.72,15.519999350548,2020,6,Wednesday
+France,203604.46,175344.16,2019-06-26,Electronics,Kirlin And Sons,Othello Bowes,Crysta Halls,Mobile,29-5478106,28260.2999999999,13.8800004675732,2019,6,Wednesday
+Sweden,251587.2,201848.41,2019-06-14,Smartphones,"Schowalter, Lesch And Beahan",Maxie Marrow,Alyosha Meah,Mobile,49-2256360,49738.79,19.7700002225868,2019,6,Friday
+Sweden,19930.04,16543.93,2019-09-03,Smartphones,Johns And Sons,Maxie Marrow,Anita Woakes,Tablet,59-2480731,3386.11,16.9899809533749,2019,9,Tuesday
+Bulgaria,149372.32,130611.16,2020-12-20,Electronics,"Abbott, Roberts And Torp",Charil Alpe,Shermy Mcgready,Mobile,63-6848448,18761.16,12.5599977291642,2020,12,Sunday
+Sweden,25907.52,22454.05,2019-02-19,Books,"Farrell, Swaniawski And Crist",Maxie Marrow,Alyosha Meah,Pc,14-5110197,3453.47,13.3299906745223,2019,2,Tuesday
+Portugal,64762.89,54238.92,2019-06-02,Electronics,Schoen-Keeling,Celine Tumasian,Hortense Gerring,Pc,42-2646312,10523.97,16.2500005790353,2019,6,Sunday
+Finland,65211.07,56883.62,2020-10-28,Games,Hilll-Vandervort,Hube Corey,Mellicent Mattys,Pc,60-8083173,8327.44999999999,12.7699944196591,2020,10,Wednesday
+Spain,42475.6,35802.68,2019-02-13,Books,Johns And Sons,Emalia Dinse,Perri Aldersley,Pc,76-1827989,6672.91999999999,15.7100076279087,2019,2,Wednesday
+Portugal,172340.86,136562.9,2020-09-04,Beauty,Tromp Llc,Celine Tumasian,Hortense Gerring,Pc,36-4321653,35777.9599999999,20.7599985284975,2020,9,Friday
+Ireland,165709.19,138102.04,2020-09-10,Smartphones,Considine-Fisher,Glenine Suttaby,Bunnie Tonbridge,Pc,18-7046062,27607.1499999999,16.6599993639459,2020,9,Thursday
+Italy,118409.59,96030.18,2020-06-10,Games,"Bashirian, Okuneva And Bechtelar",Piggy Roscrigg,Joshua Prevost,Pc,73-4380400,22379.41,18.8999978802392,2020,6,Wednesday
+France,58416.11,48076.46,2020-05-16,Appliances,Stehr Llc,Othello Bowes,Maighdiln Upcraft,Pc,47-5051773,10339.65,17.6999974835708,2020,5,Saturday
+France,78629.19,63359.4,2019-02-21,Appliances,Johns And Sons,Othello Bowes,Amelina Piscopiello,Mobile,92-3687989,15269.79,19.4200016558736,2019,2,Thursday
+Sweden,64842.92,56439.28,2019-09-29,Appliances,Larkin-Collier,Maxie Marrow,Alyosha Meah,Mobile,60-9753536,8403.64,12.9599962493977,2019,9,Sunday
+Belgium,76183.74,61617.41,2019-03-06,Clothing,"Hermiston, Simonis And Wisoky",Lambert Norheny,Collin Mackness,Mobile,39-5658730,14566.33,19.1199985718737,2019,3,Wednesday
+Sweden,131839.16,115372.45,2020-04-27,Books,Mcglynn-Prosacco,Maxie Marrow,Madelon Bront,Pc,73-8632957,16466.71,12.489999177786,2020,4,Monday
+Portugal,147092.62,117806.48,2020-10-31,Clothing,"Fisher, Morar And Skiles",Celine Tumasian,Hortense Gerring,Pc,16-0987104,29286.14,19.9099995635403,2020,10,Saturday
+Finland,62011.86,49324.23,2019-01-17,Beauty,Johns And Sons,Hube Corey,Mellicent Mattys,Tablet,76-0164425,12687.6299999999,20.4600055537763,2019,1,Thursday
+Portugal,56763.04,47663.92,2019-11-08,Smartphones,Kirlin And Sons,Celine Tumasian,Aurelie Wren,Mobile,87-7908481,9099.12,16.0300082588952,2019,11,Friday
+Portugal,78057.96,67161.07,2020-11-29,Beauty,"Swaniawski, Runolfsson And Green",Celine Tumasian,Hortense Gerring,Tablet,30-7149594,10896.89,13.9599984421832,2020,11,Sunday
+Uk,96358.45,80700.2,2019-12-06,Outdoors,Stamm-Zulauf,Jessamine Apark,Genevra Charrisson,Pc,75-7848944,15658.25,16.2500019458594,2019,12,Friday
+France,40535.64,35480.85,2019-01-13,Electronics,Kihn Inc,Othello Bowes,Crysta Halls,Pc,72-2796883,5054.79,12.4699893723153,2019,1,Sunday
+France,96795.99,81395.75,2019-06-21,Appliances,Connelly-Mohr,Othello Bowes,Avrit Chanders,Pc,32-3124563,15400.24,15.9099979245008,2019,6,Friday
+Portugal,122035.93,97897.22,2020-06-21,Accessories,Larkin-Collier,Celine Tumasian,Aurelie Wren,Pc,83-7592334,24138.7099999999,19.7800024959862,2020,6,Sunday
+Sweden,89502.53,72488.1,2020-10-31,Clothing,Gleichner-Green,Maxie Marrow,Tarrah Castelletti,Pc,61-3721294,17014.4299999999,19.0099989352256,2020,10,Saturday
+Portugal,223233.32,179100.09,2019-06-28,Games,Romaguera-Dietrich,Celine Tumasian,Corene Shirer,Pc,43-8355995,44133.23,19.7700011808273,2019,6,Friday
+Finland,33190.03,28397.39,2020-08-18,Electronics,Homenick-Marvin,Hube Corey,Wat Bowkley,Tablet,49-2458036,4792.63999999999,14.4399989996996,2020,8,Tuesday
+Portugal,82357.57,65474.27,2019-02-19,Books,Kihn Inc,Celine Tumasian,Aurelie Wren,Pc,13-9607758,16883.3,20.4999977536976,2019,2,Tuesday
+Ireland,46857.77,39116.87,2020-06-19,Games,Johns And Sons,Glenine Suttaby,Palm Wetherald,Mobile,61-0888460,7740.89999999999,16.5199923086395,2020,6,Friday
+Uk,178560.1,150383.32,2020-02-07,Books,O'Connell-Mitchell,Jessamine Apark,Winny Agnolo,Mobile,25-2616039,28176.78,15.7799978830657,2020,2,Friday
+Sweden,173944.47,139729.59,2020-11-09,Books,Johns And Sons,Maxie Marrow,Madelon Bront,Pc,46-2962443,34214.88,19.6700015815392,2020,11,Monday
+Uk,176662.26,146859.34,2020-06-28,Electronics,Friesen-Rath,Jessamine Apark,Genevra Charrisson,Pc,44-9908550,29802.92,16.8699981535388,2020,6,Sunday
+France,133754.65,106147.69,2020-09-18,Games,Armstrong-Little,Othello Bowes,Ora Grennan,Pc,52-3150154,27606.9599999999,20.640000179433,2020,9,Friday
+Bulgaria,159294.28,130605.38,2020-09-08,Clothing,"Hamill, Kulas And Roob",Charil Alpe,Shermy Mcgready,Pc,37-9761957,28688.8999999999,18.0100001079762,2020,9,Tuesday
+France,123562.02,102927.16,2020-04-22,Clothing,Mcglynn-Bergstrom,Othello Bowes,Amelina Piscopiello,Pc,67-6072579,20634.86,16.700002152765,2020,4,Wednesday
+France,33013.08,26743.9,2020-11-28,Electronics,Romaguera-Dietrich,Othello Bowes,Amelina Piscopiello,Pc,89-0300778,6269.18,18.9899882107334,2020,11,Saturday
+Portugal,105340.85,87285.43,2020-08-18,Books,"Farrell, Swaniawski And Crist",Celine Tumasian,Brynn Dempster,Pc,80-1894360,18055.42,17.1399983956841,2020,8,Tuesday
+Spain,127143.54,105033.28,2019-03-10,Electronics,"Murray, Reichel And Nolan",Emalia Dinse,Bertha Walbrook,Pc,58-2235320,22110.2599999999,17.3899987368607,2019,3,Sunday
+Portugal,56570.64,46993.23,2020-05-10,Books,Stamm Inc,Celine Tumasian,Smitty Culverhouse,Pc,68-9875936,9577.40999999999,16.9300011454705,2020,5,Sunday
+France,75522.66,60448.34,2019-03-13,Smartphones,Corwin And Sons,Othello Bowes,Crysta Halls,Pc,75-8968627,15074.32,19.959996112425,2019,3,Wednesday
+Portugal,87085.71,76548.34,2020-08-27,Outdoors,West-Cummings,Celine Tumasian,Smitty Culverhouse,Pc,86-9456489,10537.37,12.0999989550524,2020,8,Thursday
+Uk,290010.79,234444.72,2019-12-25,Smartphones,Smith Group,Jessamine Apark,Genevra Charrisson,Pc,02-1124101,55566.0699999999,19.1600009089316,2019,12,Wednesday
+Luxembourg,256603.66,209799.15,2019-07-27,Smartphones,O'Connell-Mitchell,Ilsa Kob,Jocelyn Laurentino,Tablet,85-9787047,46804.51,18.2400009415298,2019,7,Saturday
+Uk,126074.62,100027.6,2020-07-11,Books,Gislason-Stanton,Jessamine Apark,Winny Agnolo,Pc,60-7663173,26047.0199999999,20.6600027824791,2020,7,Saturday
+Sweden,94085.5,77498.23,2020-01-19,Electronics,"Zieme, Bailey And Herzog",Maxie Marrow,Caro Morfield,Pc,34-1570975,16587.27,17.6299961205499,2020,1,Sunday
+Portugal,159216.47,137419.74,2020-06-26,Games,Johns And Sons,Celine Tumasian,Smitty Culverhouse,Pc,57-9765345,21796.73,13.6899970210368,2020,6,Friday
+Portugal,74958.46,65806.03,2020-05-08,Electronics,Hessel-Stiedemann,Celine Tumasian,Smitty Culverhouse,Pc,31-8846200,9152.43,12.2100027135029,2020,5,Friday
+Sweden,83897.88,69559.73,2019-03-18,Appliances,Franecki-White,Maxie Marrow,Anita Woakes,Mobile,48-6452102,14338.15,17.0900027509634,2019,3,Monday
+Sweden,133055.04,105366.29,2019-10-11,Books,Hegmann Group,Maxie Marrow,Tarrah Castelletti,Pc,85-9541179,27688.75,20.8099971260014,2019,10,Friday
+Sweden,94115.99,75669.26,2019-09-16,Appliances,"Swaniawski, Runolfsson And Green",Maxie Marrow,Tarrah Castelletti,Pc,93-2085046,18446.73,19.5999957074244,2019,9,Monday
+Finland,125851.79,103777.39,2020-11-15,Games,Wunsch Llc,Hube Corey,Mellicent Mattys,Pc,03-6962760,22074.3999999999,17.5399968486741,2020,11,Sunday
+Netherlands,60917.85,52736.58,2019-02-17,Smartphones,Smith Group,Denice Amberg,Nero Harbisher,Pc,15-3241183,8181.26999999999,13.4300045060684,2019,2,Sunday
+France,101318.72,86657.9,2019-04-13,Games,Hilll-Vandervort,Othello Bowes,Maighdiln Upcraft,Pc,54-5705354,14660.82,14.470001200173,2019,4,Saturday
+Portugal,131610.37,106406.98,2020-04-30,Beauty,O'Connell-Mitchell,Celine Tumasian,Corene Shirer,Pc,29-1888759,25203.39,19.1500031494478,2020,4,Thursday
+France,235042.75,187446.59,2019-12-25,Books,"Christiansen, Donnelly And Bechtelar",Othello Bowes,Maighdiln Upcraft,Pc,12-3815754,47596.16,20.2500013295453,2019,12,Wednesday
+Ireland,58921.31,51715.23,2020-12-13,Games,Johns And Sons,Glenine Suttaby,Bunnie Tonbridge,Pc,30-4823900,7206.07999999999,12.2300064272162,2020,12,Sunday
+Portugal,101846.87,88066.99,2019-07-01,Clothing,Corwin And Sons,Celine Tumasian,Aurelie Wren,Pc,72-9074281,13779.8799999999,13.5299985164001,2019,7,Monday
+France,95307.21,78533.14,2020-03-26,Books,Armstrong-Little,Othello Bowes,Amelina Piscopiello,Pc,52-0213558,16774.07,17.6000010912081,2020,3,Thursday
+France,232217.05,191439.74,2019-06-20,Beauty,Hessel-Stiedemann,Othello Bowes,Maighdiln Upcraft,Mobile,19-6334792,40777.31,17.5599982860862,2019,6,Thursday
+Portugal,75912.59,60145.55,2019-10-14,Outdoors,Wisoky Inc,Celine Tumasian,Corene Shirer,Mobile,35-4712641,15767.0399999999,20.7699934885636,2019,10,Monday
+Portugal,57367.93,46255.76,2019-10-28,Clothing,Friesen-Rath,Celine Tumasian,Aurelie Wren,Mobile,03-3542738,11112.1699999999,19.3700034147998,2019,10,Monday
+Portugal,158240.24,136561.33,2020-11-23,Books,Hessel-Stiedemann,Celine Tumasian,Brynn Dempster,Pc,81-9457605,21678.91,13.6999981799825,2020,11,Monday
+Portugal,97291.62,76899.3,2020-02-01,Clothing,Johns And Sons,Celine Tumasian,Hortense Gerring,Pc,63-0813030,20392.3199999999,20.9599963491202,2020,2,Saturday
+Portugal,83904.32,69011.3,2020-07-06,Games,"Hartmann, Hane And Pfannerstill",Celine Tumasian,Corene Shirer,Pc,00-7326184,14893.02,17.7500038138679,2020,7,Monday
+Uk,133696.86,109310.55,2020-01-27,Books,Hilll-Vandervort,Jessamine Apark,Winny Agnolo,Pc,22-0156233,24386.3099999999,18.2400020464205,2020,1,Monday
+Uk,146076.81,123230.4,2019-07-27,Appliances,Johns And Sons,Jessamine Apark,Genevra Charrisson,Pc,94-0623186,22846.41,15.6399978887819,2019,7,Saturday
+France,56118.05,47711.57,2020-02-03,Beauty,Altenwerth-Konopelski,Othello Bowes,Amelina Piscopiello,Pc,08-0446109,8406.48,14.9799930681839,2020,2,Monday
+France,46296.26,40319.41,2020-05-15,Games,Wisoky Inc,Othello Bowes,Amelina Piscopiello,Tablet,77-3489084,5976.84999999999,12.9100061214447,2020,5,Friday
+Belgium,118061.05,101131.1,2020-02-07,Appliances,Johns And Sons,Lambert Norheny,Collin Mackness,Mobile,59-2117058,16929.9499999999,14.3399961291213,2020,2,Friday
+Finland,74480.56,60023.88,2020-06-03,Clothing,Homenick-Marvin,Hube Corey,Wat Bowkley,Pc,31-1849120,14456.68,19.4100044360568,2020,6,Wednesday
+Spain,87205.01,69171.01,2020-06-18,Games,Johns And Sons,Emalia Dinse,Manuel Goudie,Tablet,45-3085595,18034.0,20.6800045089152,2020,6,Thursday
+Portugal,107716.72,86679.64,2020-01-18,Accessories,"Jacobson, Marvin And Brown",Celine Tumasian,Brynn Dempster,Mobile,61-3294149,21037.08,19.5300042556067,2020,1,Saturday
